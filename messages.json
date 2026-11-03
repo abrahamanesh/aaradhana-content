@@ -1,0 +1,3130 @@
+{
+ "messages": [
+  {
+   "id": "thanks-ps103",
+   "category": "thanks",
+   "sunday": "",
+   "week": 0,
+   "tone": "comfort",
+   "theme": {
+    "ml": "മറക്കരുത്",
+    "mg": "Marakkaruthu",
+    "en": "Do not forget"
+   },
+   "verse": {
+    "ref": {
+     "ml": "സങ്കീർത്തനം 103:2",
+     "mg": "Sankeerthanam 103:2",
+     "en": "Psalm 103:2"
+    },
+    "text": {
+     "ml": "എൻ മനമേ, യഹോവയെ വാഴ്ത്തുക; അവിടുന്ന് നൽകിയ ഉപകാരങ്ങൾ ഒന്നും മറക്കരുത്."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "sinai-neengi",
+     "title": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi Poy Ente Bharangal",
+      "en": "Neengi Poy Ente Bharangal"
+     },
+     "firstLine": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi poy ente bharangal",
+      "en": "My burdens have gone"
+     },
+     "youtubeId": "YWLHfZIjPrw",
+     "channel": "Sinai Media Ministries",
+     "len": "4:46",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "ഒന്നാം ഗാനത്തിന്റെ അതേ കീ. കൂടാതെ ഈ ഗാനത്തിന്റെ പേര് തന്നെ സന്ദേശമാണ്.",
+      "mg": "Onnaam gaanathinte athe key. Koodaathe ee gaanathinte peru thanne sandeshamanu.",
+      "en": "Same key as song 1 — no scramble. And its title is already the message."
+     },
+     "note": {
+      "ml": "ഇടവേളയില്ല. രണ്ടും ഒരൊറ്റ ചലനമാണ്.",
+      "mg": "Idavela illa. Randum orotta chalanamanu.",
+      "en": "Straight in, no gap. The two songs are one movement."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "b": {
+     "id": "harmonia-srishtikale",
+     "title": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale Sthuthi Paaduvin",
+      "en": "Srishtikale Sthuthi Paaduvin"
+     },
+     "firstLine": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale sthuthi paaduvin",
+      "en": "All creation, sing praise"
+     },
+     "youtubeId": "xpDBFhWNErc",
+     "channel": "Harmonia",
+     "len": "—",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "പഴയ സഭയുടെ സ്തുതി. എല്ലാവർക്കും അറിയാം.",
+      "mg": "Pazhaya sabhayude sthuthi. Ellavarkkum ariyaam.",
+      "en": "An old congregational praise song. Everyone knows it."
+     },
+     "note": {
+      "ml": "താളം കേട്ടു സ്ഥിരീകരിക്കുക.",
+      "mg": "Thaalam kettu sthireekarikkuka.",
+      "en": "Confirm the tempo by ear."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "solo": {
+     "id": "thangum-karangal",
+     "title": {
+      "ml": "തങ്ങും കരങ്ങൾ",
+      "mg": "Thangum Karangal",
+      "en": "Thangum Karangal (Everlasting arms)"
+     },
+     "firstLine": {
+      "ml": "തങ്ങും കരങ്ങൾ",
+      "mg": "Thangum karangal",
+      "en": "Everlasting arms"
+     },
+     "youtubeId": "xiayqXqaAg8",
+     "channel": "Match Point Faith · Roji Ponnachan",
+     "len": "14:05",
+     "key": null,
+     "tempo": "slow",
+     "role": "solo",
+     "known": 5,
+     "why": {
+      "ml": "പഴയ ഗാനം. \"നിത്യമായ കരങ്ങൾ\" — ഉള്ളംകൈകളിൽ കൊത്തിയ വചനത്തോട് ഏറ്റവും അടുത്ത്.",
+      "mg": "Pazhaya gaanam. \"Nithyamaaya karangal\" — ullamkaikalil kothiya vachanathodu ettavum aduthu.",
+      "en": "The old canon. \"Everlasting arms\" — arguably the closest match to the engraved-palms verse."
+     },
+     "note": {
+      "ml": "ജുക്ക്ബോക്സിലെ ഭാഗം — 14:05 ൽ തുറക്കും.",
+      "mg": "Jukeboxile bhaagam — 14:05 il thurakkum.",
+      "en": "Jukebox segment — opens at 14:05."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": true,
+     "startSec": 845
+    }
+   },
+   "explanation": {
+    "ml": "രാത്രി കിടക്കുമ്പോൾ നിങ്ങളുടെ മനസ്സിൽ എന്ത് വരും?\nഇല്ലാത്തത്. ചെയ്യാത്തത്. കിട്ടാത്തത്.\nഒരു പട്ടിക ഉണ്ടാക്കിയാൽ — ഇന്ന് നിങ്ങൾക്ക് ഉള്ളത് എത്രയാണ്?\nഅത് നിങ്ങൾ ഓർക്കാറുണ്ടോ?\n\nസങ്കീർത്തനം 103:2.\n\"എന്റെ മനമേ, യഹോവയെ സ്തുതിക്ക; അവന്റെ ഉപകാരങ്ങളിൽ ഒന്നും മറക്കരുത്.\"\nഇത് ഒരു വികാരമല്ല. ഒരു കല്പനയാണ്. ഓർക്കുക എന്ന് പറയുന്നു.\n\nനന്ദി ഒരു മനോഭാവമല്ല. ഒരു ഓർമ്മപ്പണിയാണ്.\nനമ്മൾ ഓർക്കുന്നത് നഷ്ടപ്പെട്ടതിനെയാണ്. ദൈവം ചെയ്തതിനെയല്ല.\nഅതുകൊണ്ടാണ് വചനം \"മറക്കരുത്\" എന്ന് പറയുന്നത്. മറക്കാനുള്ള സാധ്യത ഉണ്ട്.\nഒരു കാര്യം ചെയ്യുക. ഇന്ന് രാത്രി മൂന്നു കാര്യം എഴുതുക. ദൈവം ഈ ആഴ്ച ചെയ്തത്.\nആവർത്തിക്കുക: നന്ദി മറക്കരുത്.",
+    "mg": "Raathri kidakkumbol ningalude manassil enthu varum?\nIllaathathu. Cheyyaathathu. Kittaathathu.\nOru pattika undaakkiaal — innu ningalkku ullathu ethrayaanu?\nAthu ningal orkkaarundo?\n\nSankeerthanam 103:2.\n\"Ente maname, Yahovaye sthuthikka; avante upakaarangalil onnum marakkaruthu.\"\nIthu oru vikaaravalla. Oru kalpanayaanu. Orkkuka ennu parayunnu.\n\nNandi oru manobhaavamalla. Oru ormma paniyaanu.\nNammal orkkunnathu nashtappettathineyaanu. Daivam cheythathineyalla.\nAthukondaanu vachanam \"marakkaruthu\" ennu parayunnathu. Marakkaanulla saadhyatha undu.\nOru kaaryam cheyyuka. Innu raathri moonnu kaaryam ezhuthuka. Daivam ee aazhcha cheythathu.\nAavarthikkuka: nandi marakkaruthu.",
+    "en": "What comes to mind when you lie down at night?\nWhat is missing. What you did not do. What did not come.\nIf you made a list — how much do you have today?\nDo you ever remember that?\n\nPsalm 103:2.\n\"Praise the LORD, my soul, and forget not all his benefits.\"\nThat is not a feeling. It is a command. Remember, it says.\n\nThanksgiving is not a mood. It is memory work.\nWe remember what we lost. Not what God did.\nThat is why the verse says \"do not forget\" — forgetting is possible.\nDo one thing. Tonight, write down three things God did this week.\nSay it: do not forget to be thankful."
+   },
+   "story": {
+    "body": {
+     "ml": "1820. അമേരിക്കയിൽ ഒരു കുഞ്ഞു ജനിച്ചു. പേര് ഫാനി ക്രോസ്ബി.\nആറു ആഴ്ച പ്രായമുള്ളപ്പോൾ കണ്ണിൽ ഒരു ചികിത്സ നടന്നു. അത് തെറ്റായിരുന്നു. അവൾ കാഴ്ച നഷ്ടപ്പെട്ടു.\nഅവൾ 95 വർഷം ജീവിച്ചു. എണ്ണായിരത്തിലധികം ഗാനങ്ങൾ എഴുതി.\n\"ബ്ലെസ്ഡ് അഷ്വറൻസ്\", \"ടു ഗോഡ് ബി ദ ഗ്ലോറി\" — ലോകം മുഴുവൻ പാടുന്ന ഗാനങ്ങൾ.\nഅവൾ പറഞ്ഞു: ഞാൻ സ്വർഗ്ഗത്തിൽ ആദ്യം കാണുന്ന മുഖം എന്റെ രക്ഷകന്റെ മുഖമായിരിക്കും.\nഅവളുടെ അന്ധത അവളെ ദൈവത്തിൽ നിന്ന് അകറ്റിയില്ല. അത് അവനോട് അടുപ്പിച്ചു.",
+     "mg": "1820. Americayil oru kunju janichu. Peru Fanny Crosby.\nAaru aazhcha praayamullappol kannil oru chikithsa nadannu. Athu thettaayirunnu. Aval kaazhcha nashttappettu.\nAval 95 varsham jeevichu. Ennayirathiladhicam gaanangal ezhuthi.\n\"Blessed Assurance\", \"To God Be the Glory\" — lokam muzhuvan paadunna gaanangal.\nAval paranju: njaan swarggathil aadyam kaanunna mukham ente rakshakante mukhamaayirikkum.\nAvalude andhatha avale daivathil ninnu akattiyilla. Athu avanodu aduppichu.",
+     "en": "1820. A baby is born in America. Her name is Fanny Crosby.\nAt six weeks old a treatment was applied to her eyes. It was wrong, and she lost her sight.\nShe lived to be 95. She wrote more than eight thousand hymns.\n\"Blessed Assurance\", \"To God Be the Glory\" — songs the whole world still sings.\nShe said: the first face I see in heaven will be my Saviour's.\nHer blindness did not separate her from God. It brought her closer to him."
+    }
+   },
+   "storySource": "Fanny Crosby, This Is My Story (autobiography)",
+   "storyId": "fanny-crosby"
+  },
+  {
+   "id": "forgive-mt614",
+   "category": "forgiveness",
+   "sunday": "",
+   "week": 0,
+   "tone": "grace",
+   "theme": {
+    "ml": "ക്ഷമ",
+    "mg": "Kshama",
+    "en": "Forgiveness"
+   },
+   "verse": {
+    "ref": {
+     "ml": "മത്തായി 6:14",
+     "mg": "Mattaayi 6:14",
+     "en": "Matthew 6:14"
+    },
+    "text": {
+     "ml": "നിങ്ങൾ മനുഷ്യരോടു അവരുടെ പിഴകളെ ക്ഷമിച്ചാൽ, സ്വർഗ്ഗസ്ഥനായ നിങ്ങളുടെ പിതാവ് നിങ്ങളോടും ക്ഷമിയ്ക്കും."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "harmonia-srishtikale",
+     "title": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale Sthuthi Paaduvin",
+      "en": "Srishtikale Sthuthi Paaduvin"
+     },
+     "firstLine": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale sthuthi paaduvin",
+      "en": "All creation, sing praise"
+     },
+     "youtubeId": "xpDBFhWNErc",
+     "channel": "Harmonia",
+     "len": "—",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "പഴയ സഭയുടെ സ്തുതി. എല്ലാവർക്കും അറിയാം.",
+      "mg": "Pazhaya sabhayude sthuthi. Ellavarkkum ariyaam.",
+      "en": "An old congregational praise song. Everyone knows it."
+     },
+     "note": {
+      "ml": "താളം കേട്ടു സ്ഥിരീകരിക്കുക.",
+      "mg": "Thaalam kettu sthireekarikkuka.",
+      "en": "Confirm the tempo by ear."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "b": {
+     "id": "rex-vaazhthunnu",
+     "title": {
+      "ml": "വാഴ്ത്തുന്നു ഞാൻ",
+      "mg": "Vaazhthunnu Njaan",
+      "en": "Vaazhthunnu Njaan"
+     },
+     "youtubeId": "KgXdGt-5v-s",
+     "channel": "Rex Media House",
+     "len": "9:05",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "ആരാധനയോടെ തുടങ്ങാൻ നല്ല ഗാനം.",
+      "mg": "Aaradhanayode thudangaan nalla gaanam.",
+      "en": "A good opener with a worshipful lift."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "solo": {
+     "id": "manorama-theepole",
+     "title": {
+      "ml": "തീപോലെ ഇറങ്ങണമേ",
+      "mg": "Theepole Iranganame",
+      "en": "Come down like fire"
+     },
+     "firstLine": {
+      "ml": "അന്ത്യകാല അഭിഷേകം",
+      "mg": "Anthyakaala abhishekam",
+      "en": "An end-time anointing"
+     },
+     "youtubeId": "hVKg5uoK8ns",
+     "channel": "Manorama Music",
+     "len": "7:11",
+     "key": null,
+     "tempo": "slow",
+     "role": "worship",
+     "known": 5,
+     "why": {
+      "ml": "ആരാധനയുടെ ആഴം. സഭ ഈ ഗാനം ഹൃദയത്തോടെ പാടും.",
+      "mg": "Aaradhanayude aazham. Sabha ee gaanam hrudayathode paadum.",
+      "en": "Depth of worship. The congregation sings this from the heart."
+     },
+     "note": {
+      "ml": "സോളോയായി ഉപയോഗിക്കാം.",
+      "mg": "Soloyayi upayogikkaam.",
+      "en": "Works as a solo."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "ഒരു പേര് നിങ്ങളുടെ മനസ്സിൽ വന്നു. ഇപ്പോൾ തന്നെ.\nനിങ്ങൾ ആ പേര് ഓർക്കാതിരിക്കാൻ ശ്രമിക്കും. പക്ഷേ അത് വരും.\nഒരു ബന്ധം മുറിഞ്ഞു. ഒരു വാക്ക് മറക്കാൻ പറ്റുന്നില്ല.\nഇന്ന് അതിനെക്കുറിച്ചാണ്.\n\nമത്തായി 6:14.\n\"നിങ്ങൾ മനുഷ്യരുടെ കുറ്റങ്ങൾ ക്ഷമിച്ചാൽ, നിങ്ങളുടെ സ്വർഗ്ഗീയ പിതാവും നിങ്ങളോടു ക്ഷമിക്കും.\"\nഇത് ഒരു നിർദ്ദേശമല്ല. ഒരു ബന്ധം. നമ്മൾ ക്ഷമിക്കുമ്പോൾ നമ്മൾ പിതാവിനെപ്പോലെ ആകുന്നു.\n\nക്ഷമ എന്നാൽ \"ഒന്നും സംഭവിച്ചിട്ടില്ല\" എന്ന് പറയുകയല്ല.\nഒരു കടം ഉണ്ട്. അത് എടുത്തു മാറ്റുകയാണ്.\nനിങ്ങൾ ആ കടം മറ്റൊരാൾക്ക് കൊടുക്കുന്നില്ല. ദൈവത്തിന് കൊടുക്കുന്നു.\nഅവൻ നീതിമാൻ. അവൻ അത് കൈകാര്യം ചെയ്യും.\nആവർത്തിക്കുക: ക്ഷമിക്കുക.",
+    "mg": "Oru peru ningalude manassil vannu. Ippol thanne.\nNingal aa peru orkkaathirikkaan shramikkum. Pakshe athu varum.\nOru bandham murinju. Oru vaakku marakkaan pattunnilla.\nInnu athinekkurichaanu.\n\nMattaayi 6:14.\n\"Ningal manushyarude kuttangal kshamichaal, ningalude swarggeeya pithaavum ningalodu kshamikkum.\"\nIthu oru nirdeshamalla. Oru bandham. Nammal kshamikkumbol nammal pithaavineppole aakunnu.\n\nKshama ennaal \"onnum sambhavichittilla\" ennu parayukayalla.\nOru kadam undu. Athu eduthu maattukayaanu.\nNingal aa kadam mattoralkku kodukkunnilla. Daivathinu kodukkunnu.\nAvan neethimaan. Avan athu kaikaryam cheyyum.\nAavarthikkuka: kshamikkuka.",
+    "en": "A name just came to mind. Right now.\nYou try not to think of that person. But it comes anyway.\nA relationship broke. One sentence you cannot unhear.\nThat is what today is about.\n\nMatthew 6:14.\n\"If you forgive others their trespasses, your heavenly Father will also forgive you.\"\nThis is not a rule. It is a family resemblance. When we forgive, we look like our Father.\n\nForgiveness is not saying nothing happened.\nThere is a debt. Forgiveness is transferring it.\nYou do not hand it to the other person. You hand it to God.\nHe is just. He will deal with it.\nSay it: forgive."
+   },
+   "story": {
+    "body": {
+     "ml": "1944. ഹോളണ്ടിലെ ഹാർലെം നഗരം. ഒരു കുടുംബം വാച്ച് കട നടത്തുന്നു.\nഅവർ യഹൂദരെ വീട്ടിൽ ഒളിപ്പിച്ചു. ഒരു ദിവസം ജർമ്മൻ പട്ടാളം വന്നു. അവരെ പിടിച്ചു കൊണ്ടുപോയി.\nകോറി ടെൻ ബൂം. അവളുടെ സഹോദരി ബെറ്റ്സി. അവർ റാവൻസ്ബ്രൂക്ക് ക്യാമ്പിൽ എത്തി.\nഅവിടെ ഭയം എല്ലായിടത്തും ഉണ്ടായിരുന്നു. ബെറ്റ്സി പറഞ്ഞു: \"എത്ര ആഴമുള്ള കുഴിയിലും ദൈവത്തിന്റെ സ്നേഹം അതിലും ആഴമുള്ളതാണ്.\"\nഅവർ കിടന്ന ബാരക്കിൽ ചെള്ള് ഉണ്ടായിരുന്നു. അതിനെ അവർ ശാപം എന്ന് കരുതി.\nപിന്നീട് മനസ്സിലായി — ചെള്ളുള്ളതുകൊണ്ട് കാവൽക്കാർ അകത്തു കയറിയിരുന്നില്ല. അതുകൊണ്ട് അവർക്ക് ബൈബിൾ വായിക്കാൻ കഴിഞ്ഞു.\nബെറ്റ്സി അവിടെ മരിച്ചു. കോറി ജീവിച്ചു. ക്ഷമയെക്കുറിച്ച് പറയാൻ അവൾ ലോകം മുഴുവൻ സഞ്ചരിച്ചു.\nഭയം നിറഞ്ഞ ഒരിടത്ത് ദൈവം അവരോടു കൂടെ ഉണ്ടായിരുന്നു.",
+     "mg": "1944. Hollandile Haarlem nagaram. Oru kutumbam watch kada nadathunnu.\nAvar Yahoodare veettil olippichu. Oru divasam German pattaalam vannu. Avare pidichu kondupoyi.\nCorrie ten Boom. Avalude sahodari Betsie. Avar Ravensbrück campil ethi.\nAvide bhayam ellayidathum undaayirunnu. Betsie paranju: \"Ethra aazhamulla kuzhiyilum daivathinte sneham athilum aazhamullathaanu.\"\nAvar kidanna barrackil chellu undaayirunnu. Athine avar shaapam ennu karuthi.\nPinne manassilaayi — chellullathukondu kaavalkkaar akathu kayariyirunnilla. Athukondu avarkku Bible vaayikkaan kazhinju.\nBetsie avide marichu. Corrie jeevichu. Kshamayeckkurichu parayaan aval lokam muzhuvan sancharichu.\nBhayam niranja oridathu daivam avarodu koode undaayirunnu.",
+     "en": "1944. Haarlem, in Holland. A family runs a watch shop.\nThey hid Jewish people in their house. One day the German police came and took them away.\nCorrie ten Boom and her sister Betsie were sent to Ravensbrück.\nFear was everywhere in that camp. Betsie said: \"No pit is so deep that the love of God is not deeper still.\"\nTheir barracks was infested with fleas. They saw it as a curse.\nThen they understood — because of the fleas the guards never came in, and the women could read the Bible together.\nBetsie died there. Corrie lived, and travelled the world telling people about forgiveness.\nIn a place full of fear, God was with them."
+    }
+   },
+   "storySource": "Corrie ten Boom, The Hiding Place",
+   "storyId": "corrie-ten-boom"
+  },
+  {
+   "id": "mission-mt2819",
+   "category": "mission",
+   "sunday": "",
+   "week": 0,
+   "tone": "courage",
+   "theme": {
+    "ml": "പോയി ശിഷ്യരാക്കുവിൻ",
+    "mg": "Poyi shishyaraakkukvin",
+    "en": "Go and make disciples"
+   },
+   "verse": {
+    "ref": {
+     "ml": "മത്തായി 28:19",
+     "mg": "Mattaayi 28:19",
+     "en": "Matthew 28:19"
+    },
+    "text": {
+     "ml": "അതുകൊണ്ട് നിങ്ങൾ പോയി, സകലജനതകളെയും ശിഷ്യരാക്കുകയും, അവരെ പിതാവിൻ്റെയും പുത്രൻ്റെയും പരിശുദ്ധാത്മാവിൻ്റെയും നാമത്തിൽ സ്നാനം കഴിപ്പിക്കുകയും ചെയ്യുവിൻ."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "rex-vaazhthunnu",
+     "title": {
+      "ml": "വാഴ്ത്തുന്നു ഞാൻ",
+      "mg": "Vaazhthunnu Njaan",
+      "en": "Vaazhthunnu Njaan"
+     },
+     "youtubeId": "KgXdGt-5v-s",
+     "channel": "Rex Media House",
+     "len": "9:05",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "ആരാധനയോടെ തുടങ്ങാൻ നല്ല ഗാനം.",
+      "mg": "Aaradhanayode thudangaan nalla gaanam.",
+      "en": "A good opener with a worshipful lift."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "b": {
+     "id": "rex-parisudhanaam",
+     "title": {
+      "ml": "പരിശുദ്ധനാം താതൻ",
+      "mg": "Parisudhanaam Thathan",
+      "en": "Parisudhanaam Thathan"
+     },
+     "youtubeId": "VfUCZJtvfxw",
+     "channel": "Rex Media House",
+     "len": "8:07",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതമായ ആരാധന.",
+      "mg": "Sabhaykku parichithamaaya aaradhana.",
+      "en": "Familiar congregational worship."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "solo": {
+     "id": "ni-israyelin",
+     "title": {
+      "ml": "ഇസ്രായേലിൻ നാഥനായ്",
+      "mg": "Israyelin Nadhanai",
+      "en": "Israyelin Nadhanai"
+     },
+     "firstLine": {
+      "ml": "ഇസ്രായേലിൻ നാഥനായ്",
+      "mg": "Israyelin nadhanai",
+      "en": "The Lord of Israel"
+     },
+     "youtubeId": "f7_2tJx8w_U",
+     "channel": "N. I. John · K.G. Markose",
+     "len": "6:00",
+     "key": null,
+     "tempo": "mid",
+     "role": "worship",
+     "known": 4,
+     "why": {
+      "ml": "പഴയ ക്രമം. സഭയ്ക്ക് പരിചിതം.",
+      "mg": "Pazhaya kramam. Sabhaykku parichitham.",
+      "en": "The old canon. Familiar to the congregation."
+     },
+     "note": {
+      "ml": "—",
+      "mg": "—",
+      "en": "—"
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "\"ആരാണ് പോകേണ്ടത്?\" — ഞങ്ങൾ ചുറ്റും നോക്കും.\nഒരു പാസ്റ്ററെ നോക്കും. ഒരു മിഷനറിയെ നോക്കും. ഒരു യുവാവിനെ നോക്കും.\nആരും നമ്മളെ നോക്കുന്നില്ല.\nപക്ഷേ ആ ചോദ്യം നമ്മളോടാണ്.\n\nമത്തായി 28:19.\n\"നിങ്ങൾ പോയി സകല ജാതികളെയും ശിഷ്യരാക്കുവിൻ.\"\nഇത് പറഞ്ഞത് പതിനൊന്ന് പേരോടാണ്. പഠിച്ചവരോടല്ല. ഭയന്നു നിന്നവരോടാണ്.\n\nഅയക്കൽ ഒരു സ്ഥലത്തേക്കല്ല. ഒരു ആളിനോടാണ്.\nനിങ്ങളുടെ അടുത്ത് ഒരാൾ ഉണ്ട്. ഒരു അയൽക്കാരൻ. ഒരു സഹപ്രവർത്തകൻ. ഒരു ബന്ധു.\nഅവരിലേക്കാണ് നിങ്ങൾ അയക്കപ്പെട്ടത്.\nആവർത്തിക്കുക: ഞാൻ നിങ്ങളെ അയക്കുന്നു.",
+    "mg": "\"Aaraanu pokendathu?\" — njangal chuttum nokkum.\nOru pastore nokkum. Oru missionariye nokkum. Oru yuvaavine nokkum.\nAarum nammale nokkunnilla.\nPakshe aa chodyam nammalodaanu.\n\nMattaayi 28:19.\n\"Ningal poyi sakala jaathikaleyum shishyaraakkukvin.\"\nIthu paranjathu pathinonnu perodaanu. Padichavarodela. Bhayannu ninnavarodelaanu.\n\nAyakkal oru sthalatthekkalla. Oru aalinodaanu.\nNingalude aduthu oraalu undu. Oru ayalkkaaran. Oru sahapravarthakan. Oru bandhu.\nAvarilekkaan ningal ayakkappettathu.\nAavarthikkuka: njaan ningale ayakkunnu.",
+    "en": "\"Who is supposed to go?\" — we look around.\nWe look at the pastor. At the missionary. At the young man.\nNobody is looking at us.\nBut the question was asked of us.\n\nMatthew 28:19.\n\"Go and make disciples of all nations.\"\nThat was said to eleven men. Not to the qualified. To the frightened.\n\nBeing sent is not about a place. It is about a person.\nThere is someone near you. A neighbour. A colleague. A relative.\nThat is where you were sent.\nSay it: I am sending you."
+   },
+   "story": {
+    "body": {
+     "ml": "ഇംഗ്ലണ്ടിൽ ഒരു ചെരുപ്പുകുത്തി ഉണ്ടായിരുന്നു. പേര് വില്യം കെയർ.\nഅവൻ ബൈബിൾ വായിച്ചു. ഭാഷകൾ പഠിച്ചു. അവൻ ഒരു കാര്യം പറഞ്ഞു: ദൈവത്തിൽ വലിയ കാര്യങ്ങൾ പ്രതീക്ഷിക്കുക; ദൈവത്തിനായി വലിയ കാര്യങ്ങൾ ചെയ്യാൻ തുനിയുക.\nഅവൻ ഇന്ത്യയിലേക്ക് പോയി. സെറാംപൂരിൽ എത്തി.\nഅവിടെ അവൻ ഒരു പ്രസ്സ് ഉണ്ടാക്കി. ബൈബിൾ ബംഗാളിയിലേക്ക് വിവർത്തനം ചെയ്തു. സംസ്കൃതം പഠിച്ചു. നിഘണ്ടു എഴുതി.\nഅവന്റെ ഭാര്യ മരിച്ചു. അവന്റെ ഒരു കുട്ടി മരിച്ചു. അവന്റെ പ്രസ്സ് തീപിടിച്ചു നഷ്ടപ്പെട്ടു.\nഅവൻ വീണ്ടും തുടങ്ങി. ഒരു കാര്യവും അവനെ നിർത്തിയില്ല.\nഅവൻ പറഞ്ഞു: ഞാൻ കഴുകിയ വീട്ടിൽ നിന്ന് പുറത്തു കയറി ദൈവത്തിനായി ഒരു കാര്യം ചെയ്യുക.",
+     "mg": "Englandil oru cheruppukuthi undaayirunnu. Peru William Carey.\nAvan Bible vaayichu. Bhaashakal padichu. Avan oru kaaryam paranju: daivathil valiya kaaryangal pratheekshikkuka; daivathinaayi valiya kaaryangal cheyyaan thuniyuka.\nAvan Indiayilekku poyi. Serampooril ethi.\nAvide avan oru press undaakki. Bible Bengaliyilekku vivarthanam cheythu. Samskrutham padichu. Nighandu ezhuthi.\nAvante bhaarya marichu. Avante oru kutti marichu. Avante press theepidichu nashtappettu.\nAvan veendum thudangi. Oru kaaryavum avane nirthiyilla.\nAvan paranju: njaan kazhuki veettil ninnu purathu kayari daivathinaayi oru kaaryam cheyyuka.",
+     "en": "There was a shoemaker in England. His name was William Carey.\nHe read the Bible. He taught himself languages. He said: expect great things from God; attempt great things for God.\nHe went to India. He reached Serampore.\nThere he built a printing press. He translated the Bible into Bengali. He learned Sanskrit. He compiled a dictionary.\nHis wife died. A child died. A fire destroyed the press.\nHe began again. None of it stopped him.\nHis famous line was this: walk out of the workshop you washed in, and do something for God."
+    }
+   },
+   "storySource": "William Carey's letters; S. Pearce Carey, William Carey",
+   "storyId": "william-carey"
+  },
+  {
+   "id": "b2-psa23",
+   "category": "comfort",
+   "sunday": "",
+   "week": 0,
+   "tone": "comfort",
+   "theme": {
+    "ml": "എന്റെ ഇടയൻ",
+    "mg": "Ente idayan",
+    "en": "My shepherd"
+   },
+   "verse": {
+    "ref": {
+     "ml": "സങ്കീർത്തനം 23:1",
+     "mg": "Sankeerthanam 23:1",
+     "en": "Psalm 23:1"
+    },
+    "text": {
+     "ml": "ദാവീദിന്‍റെ ഒരു സങ്കീർത്തനം. യഹോവ എന്‍റെ ഇടയനാകുന്നു; എനിക്ക് ഒരു കുറവും ഉണ്ടാകുകയില്ല."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "rex-parisudhanaam",
+     "title": {
+      "ml": "പരിശുദ്ധനാം താതൻ",
+      "mg": "Parisudhanaam Thathan",
+      "en": "Parisudhanaam Thathan"
+     },
+     "youtubeId": "VfUCZJtvfxw",
+     "channel": "Rex Media House",
+     "len": "8:07",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതമായ ആരാധന.",
+      "mg": "Sabhaykku parichithamaaya aaradhana.",
+      "en": "Familiar congregational worship."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "b": {
+     "id": "yeshuvodu-chernirippathu",
+     "title": {
+      "ml": "യേശുവോടു ചേർന്നിരിക്കുന്നതെത്ര മോദമേ",
+      "mg": "Yeshuvodu chernirippathethra modhame",
+      "en": "How glad to be with Jesus"
+     },
+     "youtubeId": "5NM0hA0jiWo",
+     "channel": "Christian Worship Songs",
+     "len": "5:31",
+     "key": null,
+     "tempo": "fast",
+     "role": "praise",
+     "why": {
+      "ml": "സന്തോഷത്തോടെ പാടാൻ പറ്റിയ ഗാനം.",
+      "mg": "Santhoshathode paadaan pattiya gaanam.",
+      "en": "A joyful praise song for the opening."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "solo": {
+     "id": "sujatha-naadha",
+     "title": {
+      "ml": "നാഥാ നിന്നെ കാണാൻ",
+      "mg": "Naadha Ninne Kanaan",
+      "en": "Naadha Ninne Kanaan"
+     },
+     "firstLine": {
+      "ml": "നാഥാ നിന്നെ കാണാൻ",
+      "mg": "Naadha ninne kanaan",
+      "en": "Lord, to see you"
+     },
+     "youtubeId": "8-TjM9lmnZk",
+     "channel": "Sujatha · Jeevadhaara",
+     "len": "4:52",
+     "key": null,
+     "tempo": "slow",
+     "role": "solo",
+     "known": 4,
+     "why": {
+      "ml": "ഒരു സ്ത്രീസ്വരം. സോളോയായി ഉത്തമം.",
+      "mg": "Oru sthreeswaram. Soloyayi uthamam.",
+      "en": "A woman's voice — well suited to a solo slot."
+     },
+     "note": {
+      "ml": "ചെറിയ ഗാനം. 4 മിനിറ്റ് കണക്കാക്കുക.",
+      "mg": "Cheriya gaanam. 4 minute kanakkaakkuka.",
+      "en": "Short. Budget 4 minutes."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "ഒരു ഇടയൻ ആടുകളെ മുന്നിൽ നിന്ന് നടത്തുന്നു. പിന്നിൽ നിന്ന് തള്ളുന്നില്ല. അവൻ വഴി അറിയുന്നു, ആടുകൾ അല്ല.\nനിങ്ങൾ ഇന്ന് എവിടെ പോകണം എന്ന് അറിയുന്നില്ല. അത് കുഴപ്പമല്ല. ഇടയൻ അറിയുന്നു.\n\"എനിക്ക് ഒരു കുറവും ഉണ്ടാകയില്ല\" എന്നത് സമ്പാദ്യത്തെക്കുറിച്ചല്ല. ഇടയന്റെ സ്വഭാവത്തെക്കുറിച്ചാണ്.\nനിങ്ങളുടെ അവസ്ഥ മാറിയേക്കാം. ഇടയൻ മാറുന്നില്ല.\nആവർത്തിക്കുക: എന്റെ ഇടയൻ എന്നോടുകൂടെ ഉണ്ട്.",
+    "mg": "ഒരു ഇടയൻ ആടുകളെ മുന്നിൽ നിന്ന് നടത്തുന്നു. പിന്നിൽ നിന്ന് തള്ളുന്നില്ല. അവൻ വഴി അറിയുന്നു, ആടുകൾ അല്ല.\nനിങ്ങൾ ഇന്ന് എവിടെ പോകണം എന്ന് അറിയുന്നില്ല. അത് കുഴപ്പമല്ല. ഇടയൻ അറിയുന്നു.\n\"എനിക്ക് ഒരു കുറവും ഉണ്ടാകയില്ല\" എന്നത് സമ്പാദ്യത്തെക്കുറിച്ചല്ല. ഇടയന്റെ സ്വഭാവത്തെക്കുറിച്ചാണ്.\nനിങ്ങളുടെ അവസ്ഥ മാറിയേക്കാം. ഇടയൻ മാറുന്നില്ല.\nആവർത്തിക്കുക: എന്റെ ഇടയൻ എന്നോടുകൂടെ ഉണ്ട്.",
+    "en": "ഒരു ഇടയൻ ആടുകളെ മുന്നിൽ നിന്ന് നടത്തുന്നു. പിന്നിൽ നിന്ന് തള്ളുന്നില്ല. അവൻ വഴി അറിയുന്നു, ആടുകൾ അല്ല.\nനിങ്ങൾ ഇന്ന് എവിടെ പോകണം എന്ന് അറിയുന്നില്ല. അത് കുഴപ്പമല്ല. ഇടയൻ അറിയുന്നു.\n\"എനിക്ക് ഒരു കുറവും ഉണ്ടാകയില്ല\" എന്നത് സമ്പാദ്യത്തെക്കുറിച്ചല്ല. ഇടയന്റെ സ്വഭാവത്തെക്കുറിച്ചാണ്.\nനിങ്ങളുടെ അവസ്ഥ മാറിയേക്കാം. ഇടയൻ മാറുന്നില്ല.\nആവർത്തിക്കുക: എന്റെ ഇടയൻ എന്നോടുകൂടെ ഉണ്ട്."
+   },
+   "story": {
+    "body": {
+     "ml": "1895. ഐർലൻഡിൽ നിന്ന് ഒരു യുവതി ഇന്ത്യയിലേക്ക് കപ്പൽ കയറുന്നു. പേര് ആമി കാർമിക്കേൽ.\nഅവൾ തമിഴ്നാട്ടിലെ ദോണാവൂരിൽ എത്തുന്നു. അവിടെ ക്ഷേത്രങ്ങൾക്ക് സമർപ്പിക്കപ്പെട്ട പെൺകുട്ടികളെ കാണുന്നു. ആരുടെയും ഓർമ്മയിൽ ഇല്ലാത്ത കുട്ടികൾ.\nആമി അവരെ കൂട്ടിക്കൊണ്ടു വന്നു. ദോണാവൂർ ഫെല്ലോഷിപ്പ് ഉണ്ടാക്കി. ആ കുട്ടികൾ അവളെ വിളിച്ചത് \"അമ്മ\" എന്നാണ്.\nഅമ്പതിലധികം വർഷം അവൾ ഇന്ത്യയിൽ ആയിരുന്നു. 1931-ൽ വീണ് പരിക്കേറ്റു. അവസാന ഇരുപത് വർഷം കിടപ്പിൽ.\nഅവൾ കിടക്കയിൽ നിന്ന് കത്തുകൾ എഴുതി. പ്രാർത്ഥിച്ചു. കൈ എഴുത്ത് നിർത്തിയപ്പോൾ, പ്രാർത്ഥന നിർത്തിയില്ല.\n1951-ൽ അവൾ മരിച്ചു. അവൾ അറിഞ്ഞിരുന്നു — ദൈവം അവളെ മറന്നിട്ടില്ല.",
+     "mg": "1895. Irlandil ninnu oru yuvathi Indiayilekku kappal kayarunnu. Peru Amy Carmichael.\nAval Tamil Naattile Dohnavooril ethunnu. Kshethrangalkku samarppikkappetta penkuttikale kaanunnu. Aarudeyum ormmayil illaatha kuttikal.\nAmy avare koottikondu vannu. Dohnavoor Fellowship undaakki. Aa kuttikal avale vilichathu \"Amma\" ennaanu.\nAmbathiladhicam varshayil aval Indiayil aayirunnu. 1931-il veenu parikku erettu. Avasaanam irupathu varsham kidappil.\nAval kidakkayil ninnu kathukal ezhuthi. Praarthichu. Kai ezhuthu nirthiyappol, praarthana nirthiyilla.\n1951-il aval marichu. Aval arinju irunnu — daivam avale marannittilla.",
+     "en": "1895. A young woman boards a ship from Ireland to India. Her name is Amy Carmichael.\nShe arrives in Dohnavur, in Tamil Nadu, and finds girls dedicated to temples. Children in no one's memory.\nAmy brought them in and founded the Dohnavur Fellowship. Those children called her \"Amma\" — mother.\nShe was in India for more than fifty years. In 1931 she fell and was badly injured; she spent her last twenty years bedridden.\nShe wrote letters from her bed and prayed. When her hands stopped writing, her prayers did not stop.\nShe died in 1951, knowing one thing — God had not forgotten her."
+    }
+   },
+   "storySource": "Elisabeth Elliot, A Chance to Die",
+   "storyId": "amy-carmichael"
+  },
+  {
+   "id": "b2-joh141",
+   "category": "hope",
+   "sunday": "",
+   "week": 0,
+   "tone": "comfort",
+   "theme": {
+    "ml": "ഹൃദയം കലങ്ങരുത്",
+    "mg": "Hrudayam kalangaruthu",
+    "en": "Let not your heart be troubled"
+   },
+   "verse": {
+    "ref": {
+     "ml": "യോഹന്നാൻ 14:1",
+     "mg": "Yohannan 14:1",
+     "en": "John 14:1"
+    },
+    "text": {
+     "ml": "നിങ്ങളുടെ ഹൃദയം കലങ്ങിപ്പോകരുത്; ദൈവത്തിൽ വിശ്വസിപ്പിൻ, എന്നിലും വിശ്വസിപ്പിൻ."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "yeshuvodu-chernirippathu",
+     "title": {
+      "ml": "യേശുവോടു ചേർന്നിരിക്കുന്നതെത്ര മോദമേ",
+      "mg": "Yeshuvodu chernirippathethra modhame",
+      "en": "How glad to be with Jesus"
+     },
+     "youtubeId": "5NM0hA0jiWo",
+     "channel": "Christian Worship Songs",
+     "len": "5:31",
+     "key": null,
+     "tempo": "fast",
+     "role": "praise",
+     "why": {
+      "ml": "സന്തോഷത്തോടെ പാടാൻ പറ്റിയ ഗാനം.",
+      "mg": "Santhoshathode paadaan pattiya gaanam.",
+      "en": "A joyful praise song for the opening."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "b": {
+     "id": "shalom-sthuthi",
+     "title": {
+      "ml": "സ്തുതി",
+      "mg": "Sthuthi",
+      "en": "Sthuthi (Praise)"
+     },
+     "firstLine": {
+      "ml": "സ്തുതി...",
+      "mg": "Sthuthi...",
+      "en": "Praise..."
+     },
+     "youtubeId": "8RkuMoG-VN0",
+     "channel": "Shalom Ministries",
+     "len": "5:00",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 4,
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതം. ആദ്യ ഗാനമായി ഉയർത്താൻ പറ്റിയ താളം.",
+      "mg": "Sabhaykku parichitham. Aadya gaanamaayi uyarthaan pattiya thaalam.",
+      "en": "Familiar to the congregation. The right lift for an opener."
+     },
+     "note": {
+      "ml": "അവസാനം കോറസ് രണ്ട് തവണ. 4:00 കണക്കാക്കുക, 3:30 അല്ല.",
+      "mg": "Avasaanam chorus randu thavana. 4:00 kanakkaakkuka, 3:30 alla.",
+      "en": "Let the chorus go twice at the end. Budget 4:00, not 3:30."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "solo": {
+     "id": "rex-vallabha",
+     "title": {
+      "ml": "വല്ലഭാ നീ കൊട്ട",
+      "mg": "Vallabha Nee Kotta",
+      "en": "Vallabha Nee Kotta"
+     },
+     "firstLine": {
+      "ml": "വല്ലഭാ നീ കൊട്ട",
+      "mg": "Vallabha nee kotta",
+      "en": "Mighty one, build"
+     },
+     "youtubeId": "sX443ij7eT8",
+     "channel": "Rex Media House",
+     "len": "7:30",
+     "key": null,
+     "tempo": "mid",
+     "role": "worship",
+     "known": 3,
+     "why": {
+      "ml": "പുതിയ ആരാധന. ചെറുപ്പക്കാർക്ക് അടുപ്പം.",
+      "mg": "Puthiya aaradhana. Cheruppakkaarkku aduppam.",
+      "en": "Modern worship; connects with the younger members."
+     },
+     "note": {
+      "ml": "നീളം കൂടുതൽ. 7:30 കണക്കാക്കുക.",
+      "mg": "Neelam kooduthal. 7:30 kanakkaakkuka.",
+      "en": "Long. Budget 7:30."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "യേശു ഇത് പറയുന്നത് ഒരു നല്ല ദിവസത്തിലല്ല. അവൻ ഇപ്പോൾ പറഞ്ഞത് — ഒരാൾ നിങ്ങളെ ഒറ്റിക്കൊടുക്കും.\nഅപ്പോൾ അവൻ പറയുന്നു: ഹൃദയം കലങ്ങരുത്.\nഅതായത്, ഹൃദയം കലങ്ങാൻ ഒരു കാരണം ഉണ്ടായിരിക്കും. യേശു അത് നിഷേധിക്കുന്നില്ല.\nഅവൻ കൊടുക്കുന്ന കാരണം ഒന്നാണ് — ദൈവത്തിൽ വിശ്വസിക്കുക, എന്നിലും വിശ്വസിക്കുക.\nനിങ്ങളുടെ സാഹചര്യം മാറാതെ തന്നെ ഹൃദയം ശാന്തമാകാം. ആവർത്തിക്കുക: ഞാൻ അവനിൽ വിശ്വസിക്കുന്നു.",
+    "mg": "യേശു ഇത് പറയുന്നത് ഒരു നല്ല ദിവസത്തിലല്ല. അവൻ ഇപ്പോൾ പറഞ്ഞത് — ഒരാൾ നിങ്ങളെ ഒറ്റിക്കൊടുക്കും.\nഅപ്പോൾ അവൻ പറയുന്നു: ഹൃദയം കലങ്ങരുത്.\nഅതായത്, ഹൃദയം കലങ്ങാൻ ഒരു കാരണം ഉണ്ടായിരിക്കും. യേശു അത് നിഷേധിക്കുന്നില്ല.\nഅവൻ കൊടുക്കുന്ന കാരണം ഒന്നാണ് — ദൈവത്തിൽ വിശ്വസിക്കുക, എന്നിലും വിശ്വസിക്കുക.\nനിങ്ങളുടെ സാഹചര്യം മാറാതെ തന്നെ ഹൃദയം ശാന്തമാകാം. ആവർത്തിക്കുക: ഞാൻ അവനിൽ വിശ്വസിക്കുന്നു.",
+    "en": "യേശു ഇത് പറയുന്നത് ഒരു നല്ല ദിവസത്തിലല്ല. അവൻ ഇപ്പോൾ പറഞ്ഞത് — ഒരാൾ നിങ്ങളെ ഒറ്റിക്കൊടുക്കും.\nഅപ്പോൾ അവൻ പറയുന്നു: ഹൃദയം കലങ്ങരുത്.\nഅതായത്, ഹൃദയം കലങ്ങാൻ ഒരു കാരണം ഉണ്ടായിരിക്കും. യേശു അത് നിഷേധിക്കുന്നില്ല.\nഅവൻ കൊടുക്കുന്ന കാരണം ഒന്നാണ് — ദൈവത്തിൽ വിശ്വസിക്കുക, എന്നിലും വിശ്വസിക്കുക.\nനിങ്ങളുടെ സാഹചര്യം മാറാതെ തന്നെ ഹൃദയം ശാന്തമാകാം. ആവർത്തിക്കുക: ഞാൻ അവനിൽ വിശ്വസിക്കുന്നു."
+   },
+   "story": {
+    "body": {
+     "ml": "പഞ്ചാബിൽ ഒരു സിഖ് കുടുംബത്തിൽ ഒരു യുവാവ് ജനിക്കുന്നു. പേര് സുന്ദർ സിംഗ്.\nഅവന്റെ അമ്മ മരിച്ചപ്പോൾ അവന് പതിനാലു വയസ്സ്. അവൻ കോപിച്ചു. അവൻ ദൈവത്തെ തള്ളിപ്പറഞ്ഞു.\nഒരു ദിവസം രാവിലെ അവൻ പ്രാർത്ഥിക്കാൻ ഇരുന്നു. ഒരു രഹസ്യം അവനോട് സംസാരിച്ചു. ചരിത്രകാരന്മാർ അതിനെ അവന്റെ ദർശനം എന്ന് വിളിക്കുന്നു.\nഅവൻ യേശുവിനെ കണ്ടു എന്ന് പറഞ്ഞു. സ്നേഹവും ശാന്തതയും ഉള്ള ഒരു മുഖം.\nഅവൻ മാമോദീസ സ്വീകരിച്ചു. വീട്ടുകാർ അവനെ ഓടിച്ചു. അവൻ ഒരു സാധുവായി നാടുതോറും നടന്നു.\nഅവൻ പർവതങ്ങളിൽ കയറി. ഹിമാലയത്തിൽ ധ്യാനിച്ചു. ഒരു തണുപ്പുള്ള രാത്രിയിൽ അവൻ മരിച്ചു.\nഅവൻ പറഞ്ഞിരുന്നു: യേശു എന്നെ ഒരിക്കലും വിട്ടുപോയിട്ടില്ല.",
+     "mg": "Punjabil oru Sikh kutumbathil oru yuvaavu janikkunnu. Peru Sundar Singh.\nAvante amma marichappol avanu pathinaalu vayassu. Avan kopicchu. Avan daivathe thallipparanju.\nOru divasam raavile avan praarthikkaan irunnu. Oru rahasyam avanodu samsaarichu. Charithrakar anathine avante darshanam ennu vilikkunnu.\nAvan Yeshuvine kandu ennu paranju. Snehavum shaanthathayum ulla oru mukham.\nAvan maamodeesa sweekarichu. Veettukar avane odichu. Avan oru saadhuvaayi naaduthorum nadannu.\nAvan parvathangalil kayari. Himalayanil dhyaanichu. Oru thanuppulla raathriyil avan marichu.\nAvan paranjirunnu: Yeshu enne orikkalum vittupoyittilla.",
+     "en": "A young man is born into a Sikh family in the Punjab. His name is Sundar Singh.\nWhen his mother died he was fourteen. He was angry. He turned on God.\nOne morning he sat down to pray. Something spoke to him — his biographers call it his vision.\nHe said he saw Jesus. A face full of love and calm.\nHe was baptised. His family drove him out. He walked the country as a sadhu.\nHe climbed mountains. He prayed in the Himalayas. He died on a cold night.\nWhat he used to say was this: Jesus has never once let go of me."
+    }
+   },
+   "storySource": "Sadhu Sundar Singh, At the Master's Feet; biographies of his life",
+   "storyId": "sundar-singh"
+  },
+  {
+   "id": "b2-phi46",
+   "category": "grace",
+   "sunday": "",
+   "week": 0,
+   "tone": "grace",
+   "theme": {
+    "ml": "വിചാരപ്പെടരുത്",
+    "mg": "Vichaarappedaruthu",
+    "en": "Do not be anxious"
+   },
+   "verse": {
+    "ref": {
+     "ml": "ഫിലിപ്പിയർ 4:6",
+     "mg": "Philippiyar 4:6",
+     "en": "Philippians 4:6"
+    },
+    "text": {
+     "ml": "ഒന്നിനേക്കുറിച്ചും വിചാരപ്പെടരുത്; പ്രത്യുത, എല്ലാറ്റിലും പ്രാർത്ഥനയാലും യാചനയാലും നിങ്ങളുടെ അപേക്ഷകൾ സ്തോത്രത്തോടുകൂടെ ദൈവത്തോട് അറിയിക്കട്ടെ."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "shalom-sthuthi",
+     "title": {
+      "ml": "സ്തുതി",
+      "mg": "Sthuthi",
+      "en": "Sthuthi (Praise)"
+     },
+     "firstLine": {
+      "ml": "സ്തുതി...",
+      "mg": "Sthuthi...",
+      "en": "Praise..."
+     },
+     "youtubeId": "8RkuMoG-VN0",
+     "channel": "Shalom Ministries",
+     "len": "5:00",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 4,
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതം. ആദ്യ ഗാനമായി ഉയർത്താൻ പറ്റിയ താളം.",
+      "mg": "Sabhaykku parichitham. Aadya gaanamaayi uyarthaan pattiya thaalam.",
+      "en": "Familiar to the congregation. The right lift for an opener."
+     },
+     "note": {
+      "ml": "അവസാനം കോറസ് രണ്ട് തവണ. 4:00 കണക്കാക്കുക, 3:30 അല്ല.",
+      "mg": "Avasaanam chorus randu thavana. 4:00 kanakkaakkuka, 3:30 alla.",
+      "en": "Let the chorus go twice at the end. Budget 4:00, not 3:30."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "b": {
+     "id": "sinai-neengi",
+     "title": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi Poy Ente Bharangal",
+      "en": "Neengi Poy Ente Bharangal"
+     },
+     "firstLine": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi poy ente bharangal",
+      "en": "My burdens have gone"
+     },
+     "youtubeId": "YWLHfZIjPrw",
+     "channel": "Sinai Media Ministries",
+     "len": "4:46",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "ഒന്നാം ഗാനത്തിന്റെ അതേ കീ. കൂടാതെ ഈ ഗാനത്തിന്റെ പേര് തന്നെ സന്ദേശമാണ്.",
+      "mg": "Onnaam gaanathinte athe key. Koodaathe ee gaanathinte peru thanne sandeshamanu.",
+      "en": "Same key as song 1 — no scramble. And its title is already the message."
+     },
+     "note": {
+      "ml": "ഇടവേളയില്ല. രണ്ടും ഒരൊറ്റ ചലനമാണ്.",
+      "mg": "Idavela illa. Randum orotta chalanamanu.",
+      "en": "Straight in, no gap. The two songs are one movement."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "solo": {
+     "id": "loke-njaan",
+     "title": {
+      "ml": "ലോകെ ഞാൻ",
+      "mg": "Loke Njaan",
+      "en": "Loke Njaan"
+     },
+     "youtubeId": "sIbPp1lLihc",
+     "channel": "Rex Media House",
+     "len": "8:01",
+     "key": null,
+     "tempo": "slow",
+     "role": "worship",
+     "why": {
+      "ml": "ആഴമുള്ള ആരാധന. പ്രതികരണത്തിന് നല്ലത്.",
+      "mg": "Aazhamulla aaradhana. Prathikaranathinu nallathu.",
+      "en": "Deep worship; good for the response."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "\"ഒന്നിനേക്കുറിച്ചും വിചാരപ്പെടരുത്.\" ഇത് എളുപ്പം പറയാൻ പറ്റും. ചെയ്യാൻ പറ്റില്ല.\nഎന്നാൽ വാക്യം അവിടെ നിർത്തുന്നില്ല. അത് പറയുന്നു — പ്രാർത്ഥനയാലും യാചനയാലും സ്തോത്രത്തോടുകൂടെ അറിയിക്കുക.\nഅതായത്, വിചാരം നിർത്തുകയല്ല. അതിനെ ഒരു വിലാസത്തിലേക്ക് അയക്കുകയാണ്.\nഉത്കണ്ഠ നിങ്ങളുടെ ഉള്ളിൽ കറങ്ങിക്കൊണ്ടിരിക്കും. അത് പുറത്ത് ഒരാളോട് പറയുമ്പോൾ ഭാരം കുറയും.\nആവർത്തിക്കുക: ഞാൻ എന്റെ ഭാരം അവനോട് പറയും.",
+    "mg": "\"ഒന്നിനേക്കുറിച്ചും വിചാരപ്പെടരുത്.\" ഇത് എളുപ്പം പറയാൻ പറ്റും. ചെയ്യാൻ പറ്റില്ല.\nഎന്നാൽ വാക്യം അവിടെ നിർത്തുന്നില്ല. അത് പറയുന്നു — പ്രാർത്ഥനയാലും യാചനയാലും സ്തോത്രത്തോടുകൂടെ അറിയിക്കുക.\nഅതായത്, വിചാരം നിർത്തുകയല്ല. അതിനെ ഒരു വിലാസത്തിലേക്ക് അയക്കുകയാണ്.\nഉത്കണ്ഠ നിങ്ങളുടെ ഉള്ളിൽ കറങ്ങിക്കൊണ്ടിരിക്കും. അത് പുറത്ത് ഒരാളോട് പറയുമ്പോൾ ഭാരം കുറയും.\nആവർത്തിക്കുക: ഞാൻ എന്റെ ഭാരം അവനോട് പറയും.",
+    "en": "\"ഒന്നിനേക്കുറിച്ചും വിചാരപ്പെടരുത്.\" ഇത് എളുപ്പം പറയാൻ പറ്റും. ചെയ്യാൻ പറ്റില്ല.\nഎന്നാൽ വാക്യം അവിടെ നിർത്തുന്നില്ല. അത് പറയുന്നു — പ്രാർത്ഥനയാലും യാചനയാലും സ്തോത്രത്തോടുകൂടെ അറിയിക്കുക.\nഅതായത്, വിചാരം നിർത്തുകയല്ല. അതിനെ ഒരു വിലാസത്തിലേക്ക് അയക്കുകയാണ്.\nഉത്കണ്ഠ നിങ്ങളുടെ ഉള്ളിൽ കറങ്ങിക്കൊണ്ടിരിക്കും. അത് പുറത്ത് ഒരാളോട് പറയുമ്പോൾ ഭാരം കുറയും.\nആവർത്തിക്കുക: ഞാൻ എന്റെ ഭാരം അവനോട് പറയും."
+   },
+   "story": {
+    "body": {
+     "ml": "ഇംഗ്ലണ്ടിലെ ബ്രിസ്റ്റോൾ നഗരം. ഒരു യുവാവ് അനാഥക്കുട്ടികൾക്കായി ഒരു വീട് തുടങ്ങുന്നു. പേര് ജോർജ് മുള്ളർ.\nഅവൻ ഒരിക്കലും പണത്തിനായി ആരോടും അപേക്ഷിച്ചില്ല. ഒരു പരസ്യവും കൊടുത്തില്ല. ഒരു സഹായ അഭ്യർത്ഥനയും അയച്ചില്ല.\nഅവൻ പ്രാർത്ഥിച്ചു. ദൈവം കൊടുത്തു.\nഅറുപതു വർഷം കൊണ്ട് പതിനായിരത്തിലധികം കുട്ടികളെ അവൻ സംരക്ഷിച്ചു.\nഒരു രാവിലെ ഭക്ഷണം ഇല്ലായിരുന്നു. കുട്ടികൾ മേശയ്ക്കരികിൽ ഇരുന്നു. അവൻ പ്രാർത്ഥിച്ചു. വാതിലിൽ മുട്ടുണ്ടായി — ഒരു ബേക്കറി ഭക്ഷണവുമായി നിന്നു.\nദൈവം ചോദിക്കും മുമ്പേ കൊടുക്കുന്നു. പക്ഷേ അവൻ അത് ചോദിക്കാൻ കാത്തിരിക്കുന്നു.",
+     "mg": "Englandile Bristol nagaram. Oru yuvaavu anathakkuttikalkkaayi oru veedu thudangunnu. Peru George Muller.\nAvan orikkalum panathinaayi aarodum apeshichilla. Oru parasyavum koduthilla. Oru sahaaya abhyarthanayum ayachilla.\nAvan praarthichu. Daivam koduthu.\nArupathu varsham kondu pathinaayirathiladhicam kuttikale aval samrakshichu.\nOru raavile bhakshanam illaayirunnu. Kuttikal meshaykkarikil irunnu. Avan praarthichu. Vaathilil muttundaayi — oru bakery bhakshanavumaayi ninnu.\nDaivam chodikkum mumbe kodukkunnu. Pakshe avan athu chodikkaan kaathirikkunnu.",
+     "en": "Bristol, in England. A young man starts a house for orphan children. His name is George Müller.\nHe never once asked anyone for money. He placed no advertisement. He sent no appeal.\nHe prayed. God gave.\nOver sixty years he cared for more than ten thousand children.\nOne morning there was no food. The children sat at the table. He prayed. There was a knock — a baker stood there with bread. Not long after, a milk cart broke down outside the door.\nGod gives before we ask. But he waits for us to ask."
+    }
+   },
+   "storySource": "George Müller, Narrative of the Lord's Dealings (his own account)",
+   "storyId": "george-muller"
+  },
+  {
+   "id": "b2-rom828",
+   "category": "hope",
+   "sunday": "",
+   "week": 0,
+   "tone": "comfort",
+   "theme": {
+    "ml": "എല്ലാം നന്മയ്ക്കായി",
+    "mg": "Ellam nanmaykkaayi",
+    "en": "All things for good"
+   },
+   "verse": {
+    "ref": {
+     "ml": "റോമർ 8:28",
+     "mg": "Roman 8:28",
+     "en": "Romans 8:28"
+    },
+    "text": {
+     "ml": "എന്നാൽ ദൈവത്തെ സ്നേഹിക്കുന്നവർക്ക്, നിർണ്ണയപ്രകാരം വിളിക്കപ്പെട്ടവർക്കു തന്നെ, സകലവും നന്മയ്ക്കായി കൂടി വ്യാപരിക്കുന്നു എന്നു നാം അറിയുന്നു."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "sinai-neengi",
+     "title": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi Poy Ente Bharangal",
+      "en": "Neengi Poy Ente Bharangal"
+     },
+     "firstLine": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi poy ente bharangal",
+      "en": "My burdens have gone"
+     },
+     "youtubeId": "YWLHfZIjPrw",
+     "channel": "Sinai Media Ministries",
+     "len": "4:46",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "ഒന്നാം ഗാനത്തിന്റെ അതേ കീ. കൂടാതെ ഈ ഗാനത്തിന്റെ പേര് തന്നെ സന്ദേശമാണ്.",
+      "mg": "Onnaam gaanathinte athe key. Koodaathe ee gaanathinte peru thanne sandeshamanu.",
+      "en": "Same key as song 1 — no scramble. And its title is already the message."
+     },
+     "note": {
+      "ml": "ഇടവേളയില്ല. രണ്ടും ഒരൊറ്റ ചലനമാണ്.",
+      "mg": "Idavela illa. Randum orotta chalanamanu.",
+      "en": "Straight in, no gap. The two songs are one movement."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "b": {
+     "id": "harmonia-srishtikale",
+     "title": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale Sthuthi Paaduvin",
+      "en": "Srishtikale Sthuthi Paaduvin"
+     },
+     "firstLine": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale sthuthi paaduvin",
+      "en": "All creation, sing praise"
+     },
+     "youtubeId": "xpDBFhWNErc",
+     "channel": "Harmonia",
+     "len": "—",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "പഴയ സഭയുടെ സ്തുതി. എല്ലാവർക്കും അറിയാം.",
+      "mg": "Pazhaya sabhayude sthuthi. Ellavarkkum ariyaam.",
+      "en": "An old congregational praise song. Everyone knows it."
+     },
+     "note": {
+      "ml": "താളം കേട്ടു സ്ഥിരീകരിക്കുക.",
+      "mg": "Thaalam kettu sthireekarikkuka.",
+      "en": "Confirm the tempo by ear."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "solo": {
+     "id": "nee-ennum-parisudhan",
+     "title": {
+      "ml": "നീ എന്നും പരിശുദ്ധൻ",
+      "mg": "Nee Ennum Parisudhan",
+      "en": "Nee Ennum Parisudhan"
+     },
+     "youtubeId": "I2j2sWvAJjA",
+     "channel": "Rex Media House",
+     "len": "6:02",
+     "key": null,
+     "tempo": "slow",
+     "role": "worship",
+     "why": {
+      "ml": "ശാന്തമായ ആരാധന.",
+      "mg": "Shaanthamaaya aaradhana.",
+      "en": "Quiet, unhurried worship."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "ഇത് പറയുന്നത് എല്ലാം നല്ലതാണ് എന്നല്ല. ചില കാര്യങ്ങൾ നല്ലതല്ല. അവ ചീത്തയാണ്.\nഈ വാക്യം പറയുന്നത്: ദൈവം അവയെയും കൂട്ടിച്ചേർത്ത് നന്മയിലേക്ക് നടത്തുന്നു.\nഒരു ഭക്ഷണം ഉണ്ടാക്കുമ്പോൾ ഒരു ചേരുവ കയ്പാണ്. ഒറ്റയ്ക്ക് കഴിച്ചാൽ കഴിക്കാൻ പറ്റില്ല. എന്നാൽ മറ്റുള്ളവയോട് ചേരുമ്പോൾ അത് രുചി കൂട്ടുന്നു.\nദൈവം നിങ്ങളുടെ ജീവിതത്തിലെ കയ്പ്പായ ചേരുവകളും ഉപയോഗിക്കുന്നു.\nആവർത്തിക്കുക: എന്റെ കയ്പ്പും അവൻ ഉപയോഗിക്കും.",
+    "mg": "ഇത് പറയുന്നത് എല്ലാം നല്ലതാണ് എന്നല്ല. ചില കാര്യങ്ങൾ നല്ലതല്ല. അവ ചീത്തയാണ്.\nഈ വാക്യം പറയുന്നത്: ദൈവം അവയെയും കൂട്ടിച്ചേർത്ത് നന്മയിലേക്ക് നടത്തുന്നു.\nഒരു ഭക്ഷണം ഉണ്ടാക്കുമ്പോൾ ഒരു ചേരുവ കയ്പാണ്. ഒറ്റയ്ക്ക് കഴിച്ചാൽ കഴിക്കാൻ പറ്റില്ല. എന്നാൽ മറ്റുള്ളവയോട് ചേരുമ്പോൾ അത് രുചി കൂട്ടുന്നു.\nദൈവം നിങ്ങളുടെ ജീവിതത്തിലെ കയ്പ്പായ ചേരുവകളും ഉപയോഗിക്കുന്നു.\nആവർത്തിക്കുക: എന്റെ കയ്പ്പും അവൻ ഉപയോഗിക്കും.",
+    "en": "ഇത് പറയുന്നത് എല്ലാം നല്ലതാണ് എന്നല്ല. ചില കാര്യങ്ങൾ നല്ലതല്ല. അവ ചീത്തയാണ്.\nഈ വാക്യം പറയുന്നത്: ദൈവം അവയെയും കൂട്ടിച്ചേർത്ത് നന്മയിലേക്ക് നടത്തുന്നു.\nഒരു ഭക്ഷണം ഉണ്ടാക്കുമ്പോൾ ഒരു ചേരുവ കയ്പാണ്. ഒറ്റയ്ക്ക് കഴിച്ചാൽ കഴിക്കാൻ പറ്റില്ല. എന്നാൽ മറ്റുള്ളവയോട് ചേരുമ്പോൾ അത് രുചി കൂട്ടുന്നു.\nദൈവം നിങ്ങളുടെ ജീവിതത്തിലെ കയ്പ്പായ ചേരുവകളും ഉപയോഗിക്കുന്നു.\nആവർത്തിക്കുക: എന്റെ കയ്പ്പും അവൻ ഉപയോഗിക്കും."
+   },
+   "story": {
+    "body": {
+     "ml": "കേരളത്തിലെ ഒരു ഗ്രാമത്തിൽ ഒരു അധ്യാപകൻ ഉണ്ടായിരുന്നു. പേര് കെ. ഇ. അബ്രഹാം.\nഅവൻ ഒരു സാധാരണ കുടുംബത്തിൽ ജനിച്ചു. പഠിച്ചു. അധ്യാപകനായി. ആളുകൾ അവനെ ബഹുമാനിച്ചു.\nഎന്നിട്ട് ഒരു കാര്യം സംഭവിച്ചു. അവൻ യേശുവിനെ കണ്ടെത്തി. അവന്റെ ജീവിതം മാറി.\nഅവൻ ആ സ്ഥാനം ഉപേക്ഷിച്ചു. പലരും അവനെ കളിയാക്കി. കുടുംബം വിഷമിച്ചു.\nഅവൻ നാടുതോറും നടന്നു. ചെറിയ കൂട്ടങ്ങളിൽ വചനം പറഞ്ഞു. പ്രാർത്ഥിച്ചു.\nആ ചെറിയ ആരംഭം കേരളത്തിലെ ഒരു വലിയ സഭയായി മാറി. ആയിരങ്ങൾ ഇന്നും അതിൽ ഉണ്ട്.\nഅവൻ പറഞ്ഞിരുന്നത്: ദൈവം ഒരു സാധാരണ മനുഷ്യനെ ഉപയോഗിക്കും. അവൻ അതിന് തയ്യാറാണെങ്കിൽ.",
+     "mg": "Keralathile oru graamathil oru adhyaapakan undaayirunnu. Peru K. E. Abraham.\nAvan oru saadhaarana kutumbathil janichu. Padichu. Adhyaapakanaayi. Aalukal avane bahumanichu.\nEnnittu oru kaaryam sambhavichu. Avan Yeshuvine kandethi. Avante jeevitham maari.\nAvan aa sthaanam upekshichu. Palarum avane kaliyaakki. Kutumbam vishamichu.\nAvan naaduthorum nadannu. Cheriya koottangalil vachanam paranju. Praarthichu.\nAa cheriya aarambham Keralathile oru valiya sabhayaayi maari. Aayirangal innum athil undu.\nAvan paranjirunnathu: daivam oru saadhaarana manushyane upayogikkum. Avan athinu thayyaaraanenkil.",
+     "en": "In a village in Kerala there was a schoolteacher. His name was K. E. Abraham.\nHe was born into an ordinary family. He studied. He became a teacher. People respected him.\nThen something happened. He found Jesus. His life turned.\nHe gave up the position. Many laughed at him. His family was grieved.\nHe walked from place to place. He spoke to small groups. He prayed.\nThat small beginning became one of Kerala's largest churches. Thousands are still in it.\nWhat he used to say was: God will use an ordinary man — if he is willing."
+    }
+   },
+   "storySource": "History of the Indian Pentecostal Church of God; Kerala church histories",
+   "storyId": "k-e-abraham"
+  },
+  {
+   "id": "b2-isa432",
+   "category": "courage",
+   "sunday": "",
+   "week": 0,
+   "tone": "courage",
+   "theme": {
+    "ml": "വെള്ളത്തിലൂടെ",
+    "mg": "Vellathiloode",
+    "en": "Through the waters"
+   },
+   "verse": {
+    "ref": {
+     "ml": "യെശയ്യാവ് 43:2",
+     "mg": "Yeshayaavu 43:2",
+     "en": "Isaiah 43:2"
+    },
+    "text": {
+     "ml": "നീ വെള്ളത്തിൽകൂടി കടക്കുമ്പോൾ ഞാൻ നിന്നോടുകൂടെ ഇരിക്കും; നീ നദികളിൽകൂടി കടക്കുമ്പോൾ അവ നിന്‍റെ മീതെ കവിയുകയില്ല; നീ തീയിൽകൂടി നടന്നാൽ വെന്തു പോവുകയില്ല; അഗ്നിജ്വാല നിന്നെ ദഹിപ്പിക്കുകയുമില്ല."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "harmonia-srishtikale",
+     "title": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale Sthuthi Paaduvin",
+      "en": "Srishtikale Sthuthi Paaduvin"
+     },
+     "firstLine": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale sthuthi paaduvin",
+      "en": "All creation, sing praise"
+     },
+     "youtubeId": "xpDBFhWNErc",
+     "channel": "Harmonia",
+     "len": "—",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "പഴയ സഭയുടെ സ്തുതി. എല്ലാവർക്കും അറിയാം.",
+      "mg": "Pazhaya sabhayude sthuthi. Ellavarkkum ariyaam.",
+      "en": "An old congregational praise song. Everyone knows it."
+     },
+     "note": {
+      "ml": "താളം കേട്ടു സ്ഥിരീകരിക്കുക.",
+      "mg": "Thaalam kettu sthireekarikkuka.",
+      "en": "Confirm the tempo by ear."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "b": {
+     "id": "rex-vaazhthunnu",
+     "title": {
+      "ml": "വാഴ്ത്തുന്നു ഞാൻ",
+      "mg": "Vaazhthunnu Njaan",
+      "en": "Vaazhthunnu Njaan"
+     },
+     "youtubeId": "KgXdGt-5v-s",
+     "channel": "Rex Media House",
+     "len": "9:05",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "ആരാധനയോടെ തുടങ്ങാൻ നല്ല ഗാനം.",
+      "mg": "Aaradhanayode thudangaan nalla gaanam.",
+      "en": "A good opener with a worshipful lift."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "solo": {
+     "id": "parishudhathmave",
+     "title": {
+      "ml": "പരിശുദ്ധാത്മാവേ",
+      "mg": "Parishudhathmave",
+      "en": "Parishudhathmave"
+     },
+     "youtubeId": "pBL2ul2ESfo",
+     "channel": "Jobi Tom",
+     "len": "6:41",
+     "key": null,
+     "tempo": "slow",
+     "role": "worship",
+     "why": {
+      "ml": "ആത്മാവിനെ വിളിച്ചപേക്ഷിക്കുന്ന ഗാനം.",
+      "mg": "Aathmaavine vilichapekshikkunna gaanam.",
+      "en": "A song that invites the Spirit."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "ഈ വാക്യം പറയുന്നത് നിങ്ങൾ വെള്ളം കാണുകയില്ല എന്നല്ല. നിങ്ങൾ വെള്ളത്തിൽ കൂടി കടക്കും എന്നാണ്.\nദൈവം വഴിയിൽ നിന്ന് തടസ്സം മാറ്റുന്നില്ല. അവൻ വഴിയിൽ കൂടെ നടക്കുന്നു.\nനദികൾ കവിയുകയില്ല, തീ ദഹിപ്പിക്കുകയില്ല. അതായത്, ജലപ്രവാഹം ഉണ്ടാകും, ചൂട് ഉണ്ടാകും. പക്ഷേ അത് നിങ്ങളെ തകർക്കുകയില്ല.\nനിങ്ങൾ ഇന്ന് ഏത് വെള്ളത്തിലാണ്? അവിടെ അവൻ കൂടെ ഉണ്ട്.\nആവർത്തിക്കുക: ഞാൻ ഒറ്റയ്ക്ക് കടക്കുന്നില്ല.",
+    "mg": "ഈ വാക്യം പറയുന്നത് നിങ്ങൾ വെള്ളം കാണുകയില്ല എന്നല്ല. നിങ്ങൾ വെള്ളത്തിൽ കൂടി കടക്കും എന്നാണ്.\nദൈവം വഴിയിൽ നിന്ന് തടസ്സം മാറ്റുന്നില്ല. അവൻ വഴിയിൽ കൂടെ നടക്കുന്നു.\nനദികൾ കവിയുകയില്ല, തീ ദഹിപ്പിക്കുകയില്ല. അതായത്, ജലപ്രവാഹം ഉണ്ടാകും, ചൂട് ഉണ്ടാകും. പക്ഷേ അത് നിങ്ങളെ തകർക്കുകയില്ല.\nനിങ്ങൾ ഇന്ന് ഏത് വെള്ളത്തിലാണ്? അവിടെ അവൻ കൂടെ ഉണ്ട്.\nആവർത്തിക്കുക: ഞാൻ ഒറ്റയ്ക്ക് കടക്കുന്നില്ല.",
+    "en": "ഈ വാക്യം പറയുന്നത് നിങ്ങൾ വെള്ളം കാണുകയില്ല എന്നല്ല. നിങ്ങൾ വെള്ളത്തിൽ കൂടി കടക്കും എന്നാണ്.\nദൈവം വഴിയിൽ നിന്ന് തടസ്സം മാറ്റുന്നില്ല. അവൻ വഴിയിൽ കൂടെ നടക്കുന്നു.\nനദികൾ കവിയുകയില്ല, തീ ദഹിപ്പിക്കുകയില്ല. അതായത്, ജലപ്രവാഹം ഉണ്ടാകും, ചൂട് ഉണ്ടാകും. പക്ഷേ അത് നിങ്ങളെ തകർക്കുകയില്ല.\nനിങ്ങൾ ഇന്ന് ഏത് വെള്ളത്തിലാണ്? അവിടെ അവൻ കൂടെ ഉണ്ട്.\nആവർത്തിക്കുക: ഞാൻ ഒറ്റയ്ക്ക് കടക്കുന്നില്ല."
+   },
+   "story": {
+    "body": {
+     "ml": "സ്കോട്ട്ലൻഡിലെ ഒരു തൊഴിലാളി യുവതി ആഫ്രിക്കയിലേക്ക് പോകുന്നു. പേര് മേരി സ്ലെസർ.\nഅവൾ നൈജീരിയയിലെ കലബാർ പ്രദേശത്ത് എത്തി. അവിടെ ഭയം നിറഞ്ഞ ആചാരങ്ങൾ ഉണ്ടായിരുന്നു.\nഇരട്ടക്കുട്ടികൾ ജനിക്കുന്നത് ഒരു ശാപമായി കണക്കാക്കപ്പെട്ടിരുന്നു. അവരെ ഉപേക്ഷിക്കുകയായിരുന്നു പതിവ്.\nമേരി അവരെ എടുത്തു. സ്വന്തം കുട്ടികളെപ്പോലെ വളർത്തി.\nഅവൾ ആളുകൾക്കിടയിൽ താമസിച്ചു. അവരുടെ ഭാഷ പഠിച്ചു. ഒരു ഗോത്രത്തലവന്റെ കോടതിയിൽ അവൾ ന്യായാധിപതിയായി ഇരുന്നു.\nഅവൾ ആയുധം എടുത്തില്ല. ഒരു സൈന്യവും കൂടെ ഉണ്ടായിരുന്നില്ല. ഭയമില്ലാത്ത ഒരു സ്ത്രീയെ കണ്ടു ആളുകൾ ശാന്തരായി.\nഅവൾ അവിടെ മരിച്ചു. അവളുടെ വീട്ടിൽ നിന്ന് അനാഥരായ കുട്ടികൾ മാത്രം ബാക്കിയായി.",
+     "mg": "Scotlandile oru thozhilaali yuvathi Africayilekku pokunnu. Peru Mary Slessor.\nAval Nigerianile Calabar pradesathu ethi. Avide bhayam niranja aachaarangal undaayirunnu.\nIrattakkuttikal janikkunnathu oru shaapamaayi kanakkaakkappettirunnu. Avare upekshikkukayaanu pathivu.\nMary avare eduthu. Swantham kuttikalepole valarthi.\nAval aalukalkkidayil thaamasichu. Avarude bhaasha padichu. Oru gothrathaavante kottathil aval nyaayaadhipathiyaayi irunnu.\nAval aayudham eduthilla. Oru sainyavum koode undaayirunnilla. Bhayamillaatha oru sthreeye kandu aalukal shaantharaayi.\nAval avide marichu. Avalude veettil ninnu anatharaaya kuttikal maathram baakkiyaayi.",
+     "en": "A mill worker from Scotland sails for Africa. Her name is Mary Slessor.\nShe reached Calabar, in Nigeria, where fear ruled the customs.\nTwins were counted a curse. They were abandoned as a matter of course.\nMary took them. She raised them as her own.\nShe lived among the people. She learned the language. She sat as a judge in a chief's court.\nShe carried no weapon. She had no army. People grew calm because they had seen a woman who was not afraid.\nShe died there. What was left in her house was the children she had taken in."
+    }
+   },
+   "storySource": "W. P. Livingstone, Mary Slessor of Calabar",
+   "storyId": "mary-slessor"
+  },
+  {
+   "id": "b2-psa461",
+   "category": "comfort",
+   "sunday": "",
+   "week": 0,
+   "tone": "courage",
+   "theme": {
+    "ml": "നമ്മുടെ സങ്കേതം",
+    "mg": "Nammude sanketham",
+    "en": "Our refuge"
+   },
+   "verse": {
+    "ref": {
+     "ml": "സങ്കീർത്തനം 46:1",
+     "mg": "Sankeerthanam 46:1",
+     "en": "Psalm 46:1"
+    },
+    "text": {
+     "ml": "സംഗീതപ്രമാണിക്ക്; കന്യകമാർ എന്ന രാഗത്തിൽ കോരഹ് പുത്രന്മാരുടെ ഒരു സങ്കീർത്തനം. ഒരു ഗീതം. ദൈവം നമ്മുടെ സങ്കേതവും ബലവും ആകുന്നു; കഷ്ടസമയത്ത് അവിടുന്ന് ഏറ്റവും അടുത്ത സഹായമായിരിക്കുന്നു."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "rex-vaazhthunnu",
+     "title": {
+      "ml": "വാഴ്ത്തുന്നു ഞാൻ",
+      "mg": "Vaazhthunnu Njaan",
+      "en": "Vaazhthunnu Njaan"
+     },
+     "youtubeId": "KgXdGt-5v-s",
+     "channel": "Rex Media House",
+     "len": "9:05",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "ആരാധനയോടെ തുടങ്ങാൻ നല്ല ഗാനം.",
+      "mg": "Aaradhanayode thudangaan nalla gaanam.",
+      "en": "A good opener with a worshipful lift."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "b": {
+     "id": "rex-parisudhanaam",
+     "title": {
+      "ml": "പരിശുദ്ധനാം താതൻ",
+      "mg": "Parisudhanaam Thathan",
+      "en": "Parisudhanaam Thathan"
+     },
+     "youtubeId": "VfUCZJtvfxw",
+     "channel": "Rex Media House",
+     "len": "8:07",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതമായ ആരാധന.",
+      "mg": "Sabhaykku parichithamaaya aaradhana.",
+      "en": "Familiar congregational worship."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "solo": {
+     "id": "ithramel-ithramel",
+     "title": {
+      "ml": "ഇത്രമേൽ ഇത്രമേൽ എന്നെ",
+      "mg": "Ithramel Ithramel Enne",
+      "en": "Ithramel Ithramel Enne"
+     },
+     "youtubeId": "R9fGuqVzB0g",
+     "channel": "Jesus Is Alive",
+     "len": "5:45",
+     "key": null,
+     "tempo": "slow",
+     "role": "worship",
+     "why": {
+      "ml": "സ്നേഹത്തെക്കുറിച്ചുള്ള ഭക്തിഗാനം.",
+      "mg": "Snehathinekkurichulla bhaktigaanam.",
+      "en": "A devotional song about love."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "ദൈവം സങ്കേതമാണ്. സങ്കേതം എന്നാൽ ഓടിച്ചെന്ന് ഒളിക്കുന്ന സ്ഥലം. യുദ്ധത്തിൽ ആയുധങ്ങൾ പോകാത്ത ഇടം.\n\"കഷ്ടസമയത്ത് ഏറ്റവും അടുത്ത സഹായം.\" ശ്രദ്ധിക്കുക — കഷ്ടം കഴിഞ്ഞിട്ടല്ല. കഷ്ടത്തിനിടയിൽ.\nനിങ്ങൾ ഇന്ന് ഒരു സങ്കേതം തേടുന്നുണ്ടോ? ഒരു വ്യക്തിയിൽ, ഒരു കാര്യത്തിൽ?\nഅത് ഒരു ദിവസം ഒഴിഞ്ഞുപോകും. ദൈവം ഒഴിയുന്നില്ല.\nആവർത്തിക്കുക: അവൻ എന്റെ സങ്കേതം.",
+    "mg": "ദൈവം സങ്കേതമാണ്. സങ്കേതം എന്നാൽ ഓടിച്ചെന്ന് ഒളിക്കുന്ന സ്ഥലം. യുദ്ധത്തിൽ ആയുധങ്ങൾ പോകാത്ത ഇടം.\n\"കഷ്ടസമയത്ത് ഏറ്റവും അടുത്ത സഹായം.\" ശ്രദ്ധിക്കുക — കഷ്ടം കഴിഞ്ഞിട്ടല്ല. കഷ്ടത്തിനിടയിൽ.\nനിങ്ങൾ ഇന്ന് ഒരു സങ്കേതം തേടുന്നുണ്ടോ? ഒരു വ്യക്തിയിൽ, ഒരു കാര്യത്തിൽ?\nഅത് ഒരു ദിവസം ഒഴിഞ്ഞുപോകും. ദൈവം ഒഴിയുന്നില്ല.\nആവർത്തിക്കുക: അവൻ എന്റെ സങ്കേതം.",
+    "en": "ദൈവം സങ്കേതമാണ്. സങ്കേതം എന്നാൽ ഓടിച്ചെന്ന് ഒളിക്കുന്ന സ്ഥലം. യുദ്ധത്തിൽ ആയുധങ്ങൾ പോകാത്ത ഇടം.\n\"കഷ്ടസമയത്ത് ഏറ്റവും അടുത്ത സഹായം.\" ശ്രദ്ധിക്കുക — കഷ്ടം കഴിഞ്ഞിട്ടല്ല. കഷ്ടത്തിനിടയിൽ.\nനിങ്ങൾ ഇന്ന് ഒരു സങ്കേതം തേടുന്നുണ്ടോ? ഒരു വ്യക്തിയിൽ, ഒരു കാര്യത്തിൽ?\nഅത് ഒരു ദിവസം ഒഴിഞ്ഞുപോകും. ദൈവം ഒഴിയുന്നില്ല.\nആവർത്തിക്കുക: അവൻ എന്റെ സങ്കേതം."
+   },
+   "story": {
+    "body": {
+     "ml": "ചൈനയിൽ ഒരു യുവാവ് എത്തുന്നു. പേര് ഹഡ്സൺ ടെയ്ലർ.\nഅവൻ ചൈനീസ് ഭാഷ പഠിച്ചു. ചൈനീസ് വസ്ത്രം ധരിച്ചു. ചൈനീസ് ഭക്ഷണം കഴിച്ചു. അവൻ ഒരു വിദേശിയായി നിൽക്കാൻ ആഗ്രഹിച്ചില്ല.\nഅവൻ ഒരു കാര്യം പറഞ്ഞു: ദൈവത്തിന്റെ വേല, ദൈവത്തിന്റെ വഴിയിൽ, ദൈവത്തിന്റെ വിഭവത്തിൽ ഒരിക്കലും മുട്ടുപോകയില്ല.\nഅവൻ ഒരിക്കലും പണത്തിനായി അപേക്ഷിച്ചില്ല. ഒരു അപേക്ഷയും വായിക്കപ്പെട്ടില്ല. ഒരു കണക്കും ആവശ്യപ്പെട്ടില്ല.\nചൈനീസ് ഇൻലാൻഡ് മിഷൻ ജനിച്ചു. നൂറുകണക്കിന് സഹപ്രവർത്തകർ ചൈനയിലേക്ക് പോയി.\n1885-ൽ അവന്റെ ഭാര്യ മരിച്ചു. അവൻ തളർന്നില്ല. അവൻ പറഞ്ഞു: ഞാൻ അവളെ ദൈവത്തിന് നൽകി. ഞാൻ അവളെ തിരിച്ചു ചോദിക്കുന്നില്ല.",
+     "mg": "Chinayil oru yuvaavu ethunnu. Peru Hudson Taylor.\nAvan Chinese bhaasha padichu. Chinese vasthram dharichu. Chinese bhakshanam kazhichu. Avan oru videshiyaayi nilkkaan aagrahichilla.\nAvan oru kaaryam paranju: daivathinte vela, daivathinte vazhiyil, daivathinte vibhavathil orikkalum muttupokayilla.\nAvan orikkalum panathinaayi apeshichilla. Oru apeshayum vaayikkappettilla. Oru kanakkum aavashyappettilla.\nChinese Inland Mission janichu. Noorukanakkinu sahapravarthakar Chinayilekku poyi.\n1885-il avante bhaarya marichu. Avan thalarnnilla. Avan paranju: njaan avale daivathinu nalki. Njaan avale thirichu chodikkunnilla.",
+     "en": "A young man arrives in China. His name is Hudson Taylor.\nHe learned the language. He wore the clothes. He ate the food. He refused to remain a foreigner.\nHe said one thing: God's work, done God's way, will never lack God's supply.\nHe never appealed for money. No appeal was ever read aloud. No accounts were ever demanded.\nThe China Inland Mission was born. Hundreds of workers went inland.\nIn 1885 his wife died. He did not collapse. He said: I gave her to God. I do not ask for her back."
+    }
+   },
+   "storySource": "Hudson Taylor's memoirs; biography by Dr. and Mrs. Howard Taylor",
+   "storyId": "hudson-taylor"
+  },
+  {
+   "id": "b2-mat1128",
+   "category": "comfort",
+   "sunday": "",
+   "week": 0,
+   "tone": "comfort",
+   "theme": {
+    "ml": "എന്റെ അടുക്കൽ വരുവിൻ",
+    "mg": "Ente adukkal varuvin",
+    "en": "Come to me"
+   },
+   "verse": {
+    "ref": {
+     "ml": "മത്തായി 11:28",
+     "mg": "Mattaayi 11:28",
+     "en": "Matthew 11:28"
+    },
+    "text": {
+     "ml": "അദ്ധ്വാനിക്കുന്നവരും ഭാരം ചുമക്കുന്നവരും ആയുള്ളോരേ, എല്ലാവരും എന്‍റെ അടുക്കൽ വരുവിൻ; ഞാൻ നിങ്ങൾക്ക് വിശ്രമം നൽകാം."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "rex-parisudhanaam",
+     "title": {
+      "ml": "പരിശുദ്ധനാം താതൻ",
+      "mg": "Parisudhanaam Thathan",
+      "en": "Parisudhanaam Thathan"
+     },
+     "youtubeId": "VfUCZJtvfxw",
+     "channel": "Rex Media House",
+     "len": "8:07",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതമായ ആരാധന.",
+      "mg": "Sabhaykku parichithamaaya aaradhana.",
+      "en": "Familiar congregational worship."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "b": {
+     "id": "yeshuvodu-chernirippathu",
+     "title": {
+      "ml": "യേശുവോടു ചേർന്നിരിക്കുന്നതെത്ര മോദമേ",
+      "mg": "Yeshuvodu chernirippathethra modhame",
+      "en": "How glad to be with Jesus"
+     },
+     "youtubeId": "5NM0hA0jiWo",
+     "channel": "Christian Worship Songs",
+     "len": "5:31",
+     "key": null,
+     "tempo": "fast",
+     "role": "praise",
+     "why": {
+      "ml": "സന്തോഷത്തോടെ പാടാൻ പറ്റിയ ഗാനം.",
+      "mg": "Santhoshathode paadaan pattiya gaanam.",
+      "en": "A joyful praise song for the opening."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "solo": {
+     "id": "jobi-kaividilla",
+     "title": {
+      "ml": "കൈവിടില്ല നിന്നെ",
+      "mg": "Kaividilla Ninne",
+      "en": "Kaividilla Ninne (I will not let go)"
+     },
+     "firstLine": {
+      "ml": "കൈവിടില്ല നിന്നെ",
+      "mg": "Kaividilla ninne",
+      "en": "I will not let go of you"
+     },
+     "youtubeId": "WQAyLcRlNMM",
+     "channel": "Jobi Tom",
+     "len": "5:37",
+     "key": "A",
+     "tempo": "slow",
+     "role": "solo",
+     "known": 3,
+     "why": {
+      "ml": "സന്ദേശത്തിന്റെ ആവർത്തനവാക്യം \"ഞാൻ നിന്നെ മറന്നിട്ടില്ല\". ഈ ഗാനത്തിന്റെ പേര് അതേ വാക്യത്തിന്റെ മറുപാതി.",
+      "mg": "Sandeshamathinte aavarthanavaakyam \"Njaan ninne marannittilla\". Ee gaanathinte peru athe vaakyathinte marupaathi.",
+      "en": "The message refrain is \"I have not forgotten you.\" This song's title is the other half of the same sentence."
+     },
+     "note": {
+      "ml": "ഇന്ട്രോയ്ക്കു മേൽ സംസാരിക്കരുത്. ബീറ്റ് 7 പറഞ്ഞു നിർത്തുക.",
+      "mg": "Intro-ykku mel samsaarikaruthu. Beat 7 paranju nirthuka.",
+      "en": "Do not talk over the intro. Say the handoff line, then stop."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "\"അദ്ധ്വാനിക്കുന്നവരും ഭാരം ചുമക്കുന്നവരും ആയുള്ളോരേ\" — ഇത് ഒരു ക്ഷണമാണ്. ഒരു നിർദ്ദേശമല്ല.\nയേശു പറയുന്നത് \"ഭാരം ഇല്ലാത്തവർ വരുവിൻ\" എന്നല്ല. ഭാരം ഉള്ളവർ വരുവിൻ.\nഅതായത്, നിങ്ങൾ ശക്തനായി ഇരിക്കേണ്ടതില്ല. ക്ഷീണിച്ച് വരിക.\nഅവൻ കൊടുക്കുന്നത് വിശ്രമം. ഭാരം എടുത്തു മാറ്റുകയല്ല — നിങ്ങളെ വിശ്രമിപ്പിക്കുക.\nആവർത്തിക്കുക: ഞാൻ ക്ഷീണിച്ചിരിക്കുന്നു, ഞാൻ വരുന്നു.",
+    "mg": "\"അദ്ധ്വാനിക്കുന്നവരും ഭാരം ചുമക്കുന്നവരും ആയുള്ളോരേ\" — ഇത് ഒരു ക്ഷണമാണ്. ഒരു നിർദ്ദേശമല്ല.\nയേശു പറയുന്നത് \"ഭാരം ഇല്ലാത്തവർ വരുവിൻ\" എന്നല്ല. ഭാരം ഉള്ളവർ വരുവിൻ.\nഅതായത്, നിങ്ങൾ ശക്തനായി ഇരിക്കേണ്ടതില്ല. ക്ഷീണിച്ച് വരിക.\nഅവൻ കൊടുക്കുന്നത് വിശ്രമം. ഭാരം എടുത്തു മാറ്റുകയല്ല — നിങ്ങളെ വിശ്രമിപ്പിക്കുക.\nആവർത്തിക്കുക: ഞാൻ ക്ഷീണിച്ചിരിക്കുന്നു, ഞാൻ വരുന്നു.",
+    "en": "\"അദ്ധ്വാനിക്കുന്നവരും ഭാരം ചുമക്കുന്നവരും ആയുള്ളോരേ\" — ഇത് ഒരു ക്ഷണമാണ്. ഒരു നിർദ്ദേശമല്ല.\nയേശു പറയുന്നത് \"ഭാരം ഇല്ലാത്തവർ വരുവിൻ\" എന്നല്ല. ഭാരം ഉള്ളവർ വരുവിൻ.\nഅതായത്, നിങ്ങൾ ശക്തനായി ഇരിക്കേണ്ടതില്ല. ക്ഷീണിച്ച് വരിക.\nഅവൻ കൊടുക്കുന്നത് വിശ്രമം. ഭാരം എടുത്തു മാറ്റുകയല്ല — നിങ്ങളെ വിശ്രമിപ്പിക്കുക.\nആവർത്തിക്കുക: ഞാൻ ക്ഷീണിച്ചിരിക്കുന്നു, ഞാൻ വരുന്നു."
+   },
+   "story": {
+    "body": {
+     "ml": "1967. അമേരിക്കയിൽ പതിനേഴു വയസ്സുള്ള ഒരു പെൺകുട്ടി കടലിൽ ചാടി. പേര് ജോണി.\nവെള്ളം ആഴമുള്ളതായിരുന്നില്ല. അവളുടെ കഴുത്ത് ഒടിഞ്ഞു.\nഅന്നുമുതൽ അവൾക്ക് കൈകാലുകൾ അനക്കാൻ കഴിയില്ല.\nആദ്യം അവൾ ദൈവത്തോട് കോപിച്ചു: \"എന്തിനാണ് ഇത്?\"\nപിന്നീട് ഒരു കാര്യം അവൾ മനസ്സിലാക്കി. ദൈവം അവളുടെ ബലഹീനതയിൽ ശക്തനാകുന്നു.\nഅവൾ ഇന്നും എഴുതുന്നു, സംസാരിക്കുന്നു. ഭിന്നശേഷിക്കാരായ ആയിരങ്ങളെ സഹായിക്കുന്നു.\nഅവൾ പറയുന്നത്: എന്റെ കൈകൾ എനിക്ക് ഉപയോഗിക്കാൻ കഴിയില്ല. പക്ഷേ ദൈവത്തിന്റെ കൃപ എനിക്കു മതി.",
+     "mg": "1967. Americayil pathinezhu vayassulla oru penkutti kadali chaadi. Peru Joni.\nVellam aazhamullathayirunnilla. Avalude kazhuthu odinju.\nAnnuthotu avalkku kaikalum kaalukalum anakkaan kazhiyilla.\nAadyam aval daivathodu kopicchu: \"Enthinaanu ithu?\"\nPinne oru kaaryam aval manassilaakki. Daivam avalude balaheenathayil shakthanaakunnu.\nAval innum ezhuthunnu, samsaarikkunnu. Bhinnasheshikkalaaya aayirangale sahaayikkunnu.\nAval parayunnathu: ente kaikal enikku upayogikkaan kazhiyilla. Pakshe daivathinte kripa enikku mathi.",
+     "en": "1967. A seventeen-year-old girl dives into the sea in America. Her name is Joni.\nThe water was shallower than she thought. She broke her neck.\nFrom that day she has not been able to move her hands or her legs.\nAt first she was angry with God: \"Why this?\"\nThen she came to understand something. God is strong in her weakness.\nShe still writes and speaks. She helps thousands of people with disabilities.\nWhat she says is this: I cannot use my hands. But the grace of God is enough for me."
+    }
+   },
+   "storySource": "Joni Eareckson Tada, Joni (1976)",
+   "storyId": "joni-tada"
+  },
+  {
+   "id": "b2-1pe57",
+   "category": "grace",
+   "sunday": "",
+   "week": 0,
+   "tone": "grace",
+   "theme": {
+    "ml": "ചിന്താകുലം അവനിൽ",
+    "mg": "Chinthaakulam avanil",
+    "en": "Cast your anxiety"
+   },
+   "verse": {
+    "ref": {
+     "ml": "1 പത്രോസ് 5:7",
+     "mg": "1 Pathros 5:7",
+     "en": "1 Peter 5:7"
+    },
+    "text": {
+     "ml": "ദൈവം നിങ്ങൾക്കായി കരുതുന്നതാകയാൽ നിങ്ങളുടെ സകല ചിന്താകുലവും അവന്‍റെമേൽ ഇട്ടുകൊൾവിൻ."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "yeshuvodu-chernirippathu",
+     "title": {
+      "ml": "യേശുവോടു ചേർന്നിരിക്കുന്നതെത്ര മോദമേ",
+      "mg": "Yeshuvodu chernirippathethra modhame",
+      "en": "How glad to be with Jesus"
+     },
+     "youtubeId": "5NM0hA0jiWo",
+     "channel": "Christian Worship Songs",
+     "len": "5:31",
+     "key": null,
+     "tempo": "fast",
+     "role": "praise",
+     "why": {
+      "ml": "സന്തോഷത്തോടെ പാടാൻ പറ്റിയ ഗാനം.",
+      "mg": "Santhoshathode paadaan pattiya gaanam.",
+      "en": "A joyful praise song for the opening."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "b": {
+     "id": "shalom-sthuthi",
+     "title": {
+      "ml": "സ്തുതി",
+      "mg": "Sthuthi",
+      "en": "Sthuthi (Praise)"
+     },
+     "firstLine": {
+      "ml": "സ്തുതി...",
+      "mg": "Sthuthi...",
+      "en": "Praise..."
+     },
+     "youtubeId": "8RkuMoG-VN0",
+     "channel": "Shalom Ministries",
+     "len": "5:00",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 4,
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതം. ആദ്യ ഗാനമായി ഉയർത്താൻ പറ്റിയ താളം.",
+      "mg": "Sabhaykku parichitham. Aadya gaanamaayi uyarthaan pattiya thaalam.",
+      "en": "Familiar to the congregation. The right lift for an opener."
+     },
+     "note": {
+      "ml": "അവസാനം കോറസ് രണ്ട് തവണ. 4:00 കണക്കാക്കുക, 3:30 അല്ല.",
+      "mg": "Avasaanam chorus randu thavana. 4:00 kanakkaakkuka, 3:30 alla.",
+      "en": "Let the chorus go twice at the end. Budget 4:00, not 3:30."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "solo": {
+     "id": "thangum-karangal",
+     "title": {
+      "ml": "തങ്ങും കരങ്ങൾ",
+      "mg": "Thangum Karangal",
+      "en": "Thangum Karangal (Everlasting arms)"
+     },
+     "firstLine": {
+      "ml": "തങ്ങും കരങ്ങൾ",
+      "mg": "Thangum karangal",
+      "en": "Everlasting arms"
+     },
+     "youtubeId": "xiayqXqaAg8",
+     "channel": "Match Point Faith · Roji Ponnachan",
+     "len": "14:05",
+     "key": null,
+     "tempo": "slow",
+     "role": "solo",
+     "known": 5,
+     "why": {
+      "ml": "പഴയ ഗാനം. \"നിത്യമായ കരങ്ങൾ\" — ഉള്ളംകൈകളിൽ കൊത്തിയ വചനത്തോട് ഏറ്റവും അടുത്ത്.",
+      "mg": "Pazhaya gaanam. \"Nithyamaaya karangal\" — ullamkaikalil kothiya vachanathodu ettavum aduthu.",
+      "en": "The old canon. \"Everlasting arms\" — arguably the closest match to the engraved-palms verse."
+     },
+     "note": {
+      "ml": "ജുക്ക്ബോക്സിലെ ഭാഗം — 14:05 ൽ തുറക്കും.",
+      "mg": "Jukeboxile bhaagam — 14:05 il thurakkum.",
+      "en": "Jukebox segment — opens at 14:05."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": true,
+     "startSec": 845
+    }
+   },
+   "explanation": {
+    "ml": "\"ഇട്ടുകൊൾവിൻ\" എന്ന വാക്ക് ശ്രദ്ധിക്കുക. ഇടുക എന്നത് ഒരു ചെയ്തിയാണ്. അത് സ്വയം സംഭവിക്കുന്നതല്ല.\nഭാരം കൈയിൽ ഉണ്ടെങ്കിൽ അത് താഴെ വെക്കണം. മനസ്സിൽ ഉണ്ടെങ്കിൽ അത് പറയണം.\nകാരണം വാക്യം പറയുന്നു: ദൈവം നിങ്ങൾക്കായി കരുതുന്നു. അതായത്, അവൻ ശ്രദ്ധിക്കുന്നു.\nനിങ്ങളുടെ ഉത്കണ്ഠയ്ക്ക് അവൻ വിലകൊടുക്കുന്നില്ല എന്നല്ല. അവൻ അത് എടുത്തു കൊള്ളും.\nആവർത്തിക്കുക: അവൻ എന്നെ കരുതുന്നു.",
+    "mg": "\"ഇട്ടുകൊൾവിൻ\" എന്ന വാക്ക് ശ്രദ്ധിക്കുക. ഇടുക എന്നത് ഒരു ചെയ്തിയാണ്. അത് സ്വയം സംഭവിക്കുന്നതല്ല.\nഭാരം കൈയിൽ ഉണ്ടെങ്കിൽ അത് താഴെ വെക്കണം. മനസ്സിൽ ഉണ്ടെങ്കിൽ അത് പറയണം.\nകാരണം വാക്യം പറയുന്നു: ദൈവം നിങ്ങൾക്കായി കരുതുന്നു. അതായത്, അവൻ ശ്രദ്ധിക്കുന്നു.\nനിങ്ങളുടെ ഉത്കണ്ഠയ്ക്ക് അവൻ വിലകൊടുക്കുന്നില്ല എന്നല്ല. അവൻ അത് എടുത്തു കൊള്ളും.\nആവർത്തിക്കുക: അവൻ എന്നെ കരുതുന്നു.",
+    "en": "\"ഇട്ടുകൊൾവിൻ\" എന്ന വാക്ക് ശ്രദ്ധിക്കുക. ഇടുക എന്നത് ഒരു ചെയ്തിയാണ്. അത് സ്വയം സംഭവിക്കുന്നതല്ല.\nഭാരം കൈയിൽ ഉണ്ടെങ്കിൽ അത് താഴെ വെക്കണം. മനസ്സിൽ ഉണ്ടെങ്കിൽ അത് പറയണം.\nകാരണം വാക്യം പറയുന്നു: ദൈവം നിങ്ങൾക്കായി കരുതുന്നു. അതായത്, അവൻ ശ്രദ്ധിക്കുന്നു.\nനിങ്ങളുടെ ഉത്കണ്ഠയ്ക്ക് അവൻ വിലകൊടുക്കുന്നില്ല എന്നല്ല. അവൻ അത് എടുത്തു കൊള്ളും.\nആവർത്തിക്കുക: അവൻ എന്നെ കരുതുന്നു."
+   },
+   "story": {
+    "body": {
+     "ml": "ഇന്ത്യയിൽ ഒരു സ്ത്രീ സംസ്കൃതം പഠിച്ചു. അക്കാലത്ത് അത് അസാധാരണമായിരുന്നു. പേര് രമാബായി.\nഅവളുടെ ഭർത്താവ് മരിച്ചു. അവൾ ഒരു വിധവയായി. അക്കാലത്ത് വിധവകളുടെ ജീവിതം കഠിനമായിരുന്നു.\nഅവൾ ഒരു കാര്യം തീരുമാനിച്ചു. ആരും നോക്കാത്ത സ്ത്രീകൾക്കായി ഒരു വീട്.\nമുക്തി മിഷൻ എന്ന പേരിൽ അത് തുടങ്ങി. അനാഥരായ പെൺകുട്ടികളും വിധവകളും അവിടെ വന്നു.\nഅവൾ അവർക്ക് വായിക്കാൻ പഠിപ്പിച്ചു. ജോലി പഠിപ്പിച്ചു. സ്വന്തം കാലിൽ നിൽക്കാൻ പഠിപ്പിച്ചു.\n1897-ൽ ഒരു ക്ഷാമം വന്നു. ആയിരങ്ങൾ അവിടെ എത്തി. ആരും ആരെയും തിരിച്ചയച്ചില്ല.\nഅവൾ പറഞ്ഞു: ദൈവം എന്നെ ഈ വേലയ്ക്കായി വിളിച്ചു. ഞാൻ അത് ചെയ്യും.",
+     "mg": "Indiayil oru sthree Samskrutham padichu. Akkaalam athu asaadhaaranamaayirunnu. Peru Ramabai.\nAvalude bharthavu marichu. Aval oru vidhava aayi. Akkaalam vidhavakalude jeevitham kadhinamaayirunnu.\nAval oru kaaryam theerumaanichu. Aarum nokkaatha sthreekalkkaayi oru veedu.\nMukti Mission enna perila athu thudangi. Anatharaaya penkuttikalum vidhavakalum avide vannu.\nAval avarkku vaayikkaan padippichu. Joli padippichu. Swantham kaalil nilkkaan padippichu.\n1897-il oru kshaamam vannu. Aayirangal avide ethi. Aarum aareyum thirichayachilla.\nAval paranju: daivam enne ee velaykkaayi vilichu. Njaan athu cheyyum.",
+     "en": "In India a woman learned Sanskrit. In her day that was extraordinary. Her name was Ramabai.\nHer husband died. She became a widow, and in that time a widow's life was brutal.\nShe decided one thing: a house for women nobody looked at.\nIt began as the Mukti Mission. Orphan girls and widows came.\nShe taught them to read. She taught them a trade. She taught them to stand on their own feet.\nIn 1897 famine came. Thousands arrived. Nobody was turned away.\nWhat she said was: God has called me to this work. I will do it."
+    }
+   },
+   "storySource": "Pandita Ramabai, A Testimony; Mukti Mission histories",
+   "storyId": "pandita-ramabai"
+  },
+  {
+   "id": "b2-heb135",
+   "category": "provision",
+   "sunday": "",
+   "week": 0,
+   "tone": "comfort",
+   "theme": {
+    "ml": "ഞാൻ കൈവിടുകയില്ല",
+    "mg": "Njaan kaividukayilla",
+    "en": "I will never leave you"
+   },
+   "verse": {
+    "ref": {
+     "ml": "എബ്രായർ 13:5",
+     "mg": "Ebraayar 13:5",
+     "en": "Hebrews 13:5"
+    },
+    "text": {
+     "ml": "നിങ്ങളുടെ ജീവിതവഴികളിൽ ദ്രവ്യാഗ്രഹമില്ലാതിരിക്കട്ടെ; ഉള്ളതുകൊണ്ട് സംതൃപ്തിപ്പെടുവിൻ: “ഞാൻ നിന്നെ ഒരുനാളും കൈവിടുകയില്ല, ഉപേക്ഷിക്കുകയുമില്ല” എന്നു ദൈവം തന്നെ അരുളിച്ചെയ്തിരിക്കുന്നുവല്ലോ."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "shalom-sthuthi",
+     "title": {
+      "ml": "സ്തുതി",
+      "mg": "Sthuthi",
+      "en": "Sthuthi (Praise)"
+     },
+     "firstLine": {
+      "ml": "സ്തുതി...",
+      "mg": "Sthuthi...",
+      "en": "Praise..."
+     },
+     "youtubeId": "8RkuMoG-VN0",
+     "channel": "Shalom Ministries",
+     "len": "5:00",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 4,
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതം. ആദ്യ ഗാനമായി ഉയർത്താൻ പറ്റിയ താളം.",
+      "mg": "Sabhaykku parichitham. Aadya gaanamaayi uyarthaan pattiya thaalam.",
+      "en": "Familiar to the congregation. The right lift for an opener."
+     },
+     "note": {
+      "ml": "അവസാനം കോറസ് രണ്ട് തവണ. 4:00 കണക്കാക്കുക, 3:30 അല്ല.",
+      "mg": "Avasaanam chorus randu thavana. 4:00 kanakkaakkuka, 3:30 alla.",
+      "en": "Let the chorus go twice at the end. Budget 4:00, not 3:30."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "b": {
+     "id": "sinai-neengi",
+     "title": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi Poy Ente Bharangal",
+      "en": "Neengi Poy Ente Bharangal"
+     },
+     "firstLine": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi poy ente bharangal",
+      "en": "My burdens have gone"
+     },
+     "youtubeId": "YWLHfZIjPrw",
+     "channel": "Sinai Media Ministries",
+     "len": "4:46",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "ഒന്നാം ഗാനത്തിന്റെ അതേ കീ. കൂടാതെ ഈ ഗാനത്തിന്റെ പേര് തന്നെ സന്ദേശമാണ്.",
+      "mg": "Onnaam gaanathinte athe key. Koodaathe ee gaanathinte peru thanne sandeshamanu.",
+      "en": "Same key as song 1 — no scramble. And its title is already the message."
+     },
+     "note": {
+      "ml": "ഇടവേളയില്ല. രണ്ടും ഒരൊറ്റ ചലനമാണ്.",
+      "mg": "Idavela illa. Randum orotta chalanamanu.",
+      "en": "Straight in, no gap. The two songs are one movement."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "solo": {
+     "id": "manorama-theepole",
+     "title": {
+      "ml": "തീപോലെ ഇറങ്ങണമേ",
+      "mg": "Theepole Iranganame",
+      "en": "Come down like fire"
+     },
+     "firstLine": {
+      "ml": "അന്ത്യകാല അഭിഷേകം",
+      "mg": "Anthyakaala abhishekam",
+      "en": "An end-time anointing"
+     },
+     "youtubeId": "hVKg5uoK8ns",
+     "channel": "Manorama Music",
+     "len": "7:11",
+     "key": null,
+     "tempo": "slow",
+     "role": "worship",
+     "known": 5,
+     "why": {
+      "ml": "ആരാധനയുടെ ആഴം. സഭ ഈ ഗാനം ഹൃദയത്തോടെ പാടും.",
+      "mg": "Aaradhanayude aazham. Sabha ee gaanam hrudayathode paadum.",
+      "en": "Depth of worship. The congregation sings this from the heart."
+     },
+     "note": {
+      "ml": "സോളോയായി ഉപയോഗിക്കാം.",
+      "mg": "Soloyayi upayogikkaam.",
+      "en": "Works as a solo."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "ഈ വാക്യത്തിന്റെ വാഗ്ദാനം ഒരു കാര്യം മാത്രം: ഞാൻ നിന്നെ കൈവിടുകയില്ല.\nഅതായത്, ധനം വരുമെന്നോ എല്ലാ പ്രശ്നവും തീരുമെന്നോ അല്ല. ഒരു സാന്നിധ്യത്തിന്റെ വാഗ്ദാനമാണ്.\nഅതുകൊണ്ടാണ് വാക്യം ആദ്യം പറയുന്നത് — ഉള്ളതുകൊണ്ട് സംതൃപ്തിപ്പെടുവിൻ. ഇല്ലാത്തതിനെ എണ്ണിക്കൊണ്ടിരിക്കരുത്.\nനിങ്ങൾ എണ്ണുന്നത് നഷ്ടപ്പെട്ടതിനെയാണോ? ഒന്ന് നിർത്തുക. ഉള്ളത് നോക്കുക.\nആവർത്തിക്കുക: അവൻ എന്നെ കൈവിടുകയില്ല.",
+    "mg": "ഈ വാക്യത്തിന്റെ വാഗ്ദാനം ഒരു കാര്യം മാത്രം: ഞാൻ നിന്നെ കൈവിടുകയില്ല.\nഅതായത്, ധനം വരുമെന്നോ എല്ലാ പ്രശ്നവും തീരുമെന്നോ അല്ല. ഒരു സാന്നിധ്യത്തിന്റെ വാഗ്ദാനമാണ്.\nഅതുകൊണ്ടാണ് വാക്യം ആദ്യം പറയുന്നത് — ഉള്ളതുകൊണ്ട് സംതൃപ്തിപ്പെടുവിൻ. ഇല്ലാത്തതിനെ എണ്ണിക്കൊണ്ടിരിക്കരുത്.\nനിങ്ങൾ എണ്ണുന്നത് നഷ്ടപ്പെട്ടതിനെയാണോ? ഒന്ന് നിർത്തുക. ഉള്ളത് നോക്കുക.\nആവർത്തിക്കുക: അവൻ എന്നെ കൈവിടുകയില്ല.",
+    "en": "ഈ വാക്യത്തിന്റെ വാഗ്ദാനം ഒരു കാര്യം മാത്രം: ഞാൻ നിന്നെ കൈവിടുകയില്ല.\nഅതായത്, ധനം വരുമെന്നോ എല്ലാ പ്രശ്നവും തീരുമെന്നോ അല്ല. ഒരു സാന്നിധ്യത്തിന്റെ വാഗ്ദാനമാണ്.\nഅതുകൊണ്ടാണ് വാക്യം ആദ്യം പറയുന്നത് — ഉള്ളതുകൊണ്ട് സംതൃപ്തിപ്പെടുവിൻ. ഇല്ലാത്തതിനെ എണ്ണിക്കൊണ്ടിരിക്കരുത്.\nനിങ്ങൾ എണ്ണുന്നത് നഷ്ടപ്പെട്ടതിനെയാണോ? ഒന്ന് നിർത്തുക. ഉള്ളത് നോക്കുക.\nആവർത്തിക്കുക: അവൻ എന്നെ കൈവിടുകയില്ല."
+   },
+   "story": {
+    "body": {
+     "ml": "ഹോളണ്ടിൽ ഒരു യുവാവ് ഉണ്ടായിരുന്നു. പേര് ആൻഡ്രൂ വാൻ ഡെർ ബിജ്.\nഅവൻ ഒരു ദിവസം ഒരു ചെറിയ പുസ്തകം വായിച്ചു. അതിൽ ഒരു വാക്യം ഉണ്ടായിരുന്നു: ഇതാ ഞാൻ, എന്നെ അയക്കേണമേ.\nഅവൻ ചോദിച്ചു: എവിടേക്ക്?\nഅവൻ കമ്മ്യൂണിസ്റ്റ് രാജ്യങ്ങളിലേക്ക് പോയി. ബൈബിളുകൾ കൊണ്ടുപോയി. അത് അന്ന് നിയമവിരുദ്ധമായിരുന്നു.\nഅവൻ ഒരു രാജ്യത്തിൽ നിന്ന് മറ്റൊന്നിലേക്ക് യാത്ര ചെയ്തു. ഒരു കാര്യം മാത്രം കരുതി: ദൈവം എന്നെ അയച്ചു.\nഒരിക്കൽ അവൻ ഒരു അതിർത്തിയിൽ പിടിക്കപ്പെട്ടു. അവൻ ഭയന്നില്ല. അവൻ പുഞ്ചിരിച്ചു. അവൻ തിരിച്ചു വന്നു.\nഅവൻ പലർക്കും ബൈബിൾ കൊടുത്തു. പലരും അത് വായിച്ചു. ചിലർ ഇന്നും വായിക്കുന്നു.\nഅവൻ പറഞ്ഞു: ദൈവം എന്നെ എവിടെ അയച്ചാലും ഞാൻ പോകും.",
+     "mg": "Hollandil oru yuvaavu undaayirunnu. Peru Andrew van der Bijl.\nAvan oru divasam oru cheriya pusthakam vaayichu. Athil oru vaakyam undaayirunnu: ithaa njaan, enne ayakkename.\nAvan chodichu: evidekku?\nAvan communist raajyangalilekku poyi. Biblukal kondupoyi. Athu annu niyamavirudhamaayirunnu.\nAvan oru raajyathil ninnu mattonnililekku yaathra cheythu. Oru kaaryam maathram karuthi: daivam enne ayachu.\nOrikkal avan oru athirthiyil pidikkappettu. Avan bhayannilla. Avan punchirichu. Avan thirichu vannu.\nAvan palarkkum Bible koduthu. Palarum athu vaayichu. Chilar innum vaayikkunnu.\nAvan paranju: daivam enne evide ayachaalum njaan pokum.",
+     "en": "There was a young man in Holland. His name was Andrew van der Bijl.\nOne day he read a small book. It had one verse in it: here am I, send me.\nHe asked: send me where?\nHe went into communist countries carrying Bibles, which was illegal at the time.\nHe travelled from one country to the next, holding one thought: God has sent me.\nOnce he was stopped at a border. He was not afraid. He smiled. He came back again.\nHe put Bibles into many hands. Many read them. Some are still reading.\nWhat he said was: wherever God sends me, I will go."
+    }
+   },
+   "storySource": "Brother Andrew, God's Smuggler",
+   "storyId": "brother-andrew"
+  },
+  {
+   "id": "b3-psa271",
+   "category": "courage",
+   "sunday": "",
+   "week": 0,
+   "tone": "courage",
+   "theme": {
+    "ml": "യഹോവ എന്റെ വെളിച്ചം",
+    "mg": "Yahova ente velicham",
+    "en": "The Lord is my light"
+   },
+   "verse": {
+    "ref": {
+     "ml": "സങ്കീർത്തനം 27:1",
+     "mg": "Sankeerthanam 27:1",
+     "en": "Psalm 27:1"
+    },
+    "text": {
+     "ml": "ദാവീദിന്‍റെ ഒരു സങ്കീർത്തനം. യഹോവ എന്‍റെ വെളിച്ചവും എന്‍റെ രക്ഷയും ആകുന്നു; ഞാൻ ആരെ ഭയപ്പെടും? യഹോവ എന്‍റെ ജീവന്‍റെ ബലം; ഞാൻ ആരെ പേടിക്കും?"
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "sinai-neengi",
+     "title": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi Poy Ente Bharangal",
+      "en": "Neengi Poy Ente Bharangal"
+     },
+     "firstLine": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi poy ente bharangal",
+      "en": "My burdens have gone"
+     },
+     "youtubeId": "YWLHfZIjPrw",
+     "channel": "Sinai Media Ministries",
+     "len": "4:46",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "ഒന്നാം ഗാനത്തിന്റെ അതേ കീ. കൂടാതെ ഈ ഗാനത്തിന്റെ പേര് തന്നെ സന്ദേശമാണ്.",
+      "mg": "Onnaam gaanathinte athe key. Koodaathe ee gaanathinte peru thanne sandeshamanu.",
+      "en": "Same key as song 1 — no scramble. And its title is already the message."
+     },
+     "note": {
+      "ml": "ഇടവേളയില്ല. രണ്ടും ഒരൊറ്റ ചലനമാണ്.",
+      "mg": "Idavela illa. Randum orotta chalanamanu.",
+      "en": "Straight in, no gap. The two songs are one movement."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "b": {
+     "id": "harmonia-srishtikale",
+     "title": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale Sthuthi Paaduvin",
+      "en": "Srishtikale Sthuthi Paaduvin"
+     },
+     "firstLine": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale sthuthi paaduvin",
+      "en": "All creation, sing praise"
+     },
+     "youtubeId": "xpDBFhWNErc",
+     "channel": "Harmonia",
+     "len": "—",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "പഴയ സഭയുടെ സ്തുതി. എല്ലാവർക്കും അറിയാം.",
+      "mg": "Pazhaya sabhayude sthuthi. Ellavarkkum ariyaam.",
+      "en": "An old congregational praise song. Everyone knows it."
+     },
+     "note": {
+      "ml": "താളം കേട്ടു സ്ഥിരീകരിക്കുക.",
+      "mg": "Thaalam kettu sthireekarikkuka.",
+      "en": "Confirm the tempo by ear."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "solo": {
+     "id": "ni-israyelin",
+     "title": {
+      "ml": "ഇസ്രായേലിൻ നാഥനായ്",
+      "mg": "Israyelin Nadhanai",
+      "en": "Israyelin Nadhanai"
+     },
+     "firstLine": {
+      "ml": "ഇസ്രായേലിൻ നാഥനായ്",
+      "mg": "Israyelin nadhanai",
+      "en": "The Lord of Israel"
+     },
+     "youtubeId": "f7_2tJx8w_U",
+     "channel": "N. I. John · K.G. Markose",
+     "len": "6:00",
+     "key": null,
+     "tempo": "mid",
+     "role": "worship",
+     "known": 4,
+     "why": {
+      "ml": "പഴയ ക്രമം. സഭയ്ക്ക് പരിചിതം.",
+      "mg": "Pazhaya kramam. Sabhaykku parichitham.",
+      "en": "The old canon. Familiar to the congregation."
+     },
+     "note": {
+      "ml": "—",
+      "mg": "—",
+      "en": "—"
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "വെളിച്ചം ഉണ്ടെങ്കിൽ ഇരുട്ട് ഭയപ്പെടുത്തില്ല. ഇവിടെ വെളിച്ചം ഒരു വസ്തുവല്ല — ഒരു വ്യക്തിയാണ്.\nഎന്റെ വീട്ടിൽ കരുത്തുള്ളവൻ ഉണ്ടെങ്കിൽ ഞാൻ ധൈര്യമായി ഉറങ്ങും. ദൈവം എന്റെ രക്ഷയാണ് എന്നതാണ് ധൈര്യത്തിന്റെ അടിസ്ഥാനം.\nആരെ ഭയപ്പെടണം എന്ന ചോദ്യം അവിടെ നിൽക്കുന്നു. ഉത്തരം: ആരെയും അല്ല.\nആവർത്തിക്കുക: യഹോവ എന്റെ വെളിച്ചം.",
+    "mg": "വെളിച്ചം ഉണ്ടെങ്കിൽ ഇരുട്ട് ഭയപ്പെടുത്തില്ല. ഇവിടെ വെളിച്ചം ഒരു വസ്തുവല്ല — ഒരു വ്യക്തിയാണ്.\nഎന്റെ വീട്ടിൽ കരുത്തുള്ളവൻ ഉണ്ടെങ്കിൽ ഞാൻ ധൈര്യമായി ഉറങ്ങും. ദൈവം എന്റെ രക്ഷയാണ് എന്നതാണ് ധൈര്യത്തിന്റെ അടിസ്ഥാനം.\nആരെ ഭയപ്പെടണം എന്ന ചോദ്യം അവിടെ നിൽക്കുന്നു. ഉത്തരം: ആരെയും അല്ല.\nആവർത്തിക്കുക: യഹോവ എന്റെ വെളിച്ചം.",
+    "en": "വെളിച്ചം ഉണ്ടെങ്കിൽ ഇരുട്ട് ഭയപ്പെടുത്തില്ല. ഇവിടെ വെളിച്ചം ഒരു വസ്തുവല്ല — ഒരു വ്യക്തിയാണ്.\nഎന്റെ വീട്ടിൽ കരുത്തുള്ളവൻ ഉണ്ടെങ്കിൽ ഞാൻ ധൈര്യമായി ഉറങ്ങും. ദൈവം എന്റെ രക്ഷയാണ് എന്നതാണ് ധൈര്യത്തിന്റെ അടിസ്ഥാനം.\nആരെ ഭയപ്പെടണം എന്ന ചോദ്യം അവിടെ നിൽക്കുന്നു. ഉത്തരം: ആരെയും അല്ല.\nആവർത്തിക്കുക: യഹോവ എന്റെ വെളിച്ചം."
+   },
+   "story": {
+    "body": {
+     "ml": "ആഫ്രിക്കയുടെ ഉള്ളറകളിലേക്ക് ഒരു സ്കോട്ട്ലൻഡുകാരൻ നടന്നു കയറുന്നു. പേര് ഡേവിഡ് ലിവിംഗ്സ്റ്റൺ.\nഅവൻ മുപ്പത്തിരണ്ടു തവണ രോഗബാധിതനായി. ഒരിക്കൽ ഒരു സിംഹം അവന്റെ കൈ തകർത്തു.\nഭാര്യ മരിച്ചു. കുട്ടികളെ നാട്ടിലേക്ക് അയക്കേണ്ടി വന്നു. അവൻ തനിച്ചായി.\nവർഷങ്ങളോളം അവനെക്കുറിച്ച് ഒരു വാർത്തയും ഉണ്ടായിരുന്നില്ല. ആളുകൾ അവനെ മരിച്ചതായി കരുതി.\nഎന്നിട്ടും അവൻ നടന്നു. ആഫ്രിക്കയുടെ ഭൂപടം വരച്ചു. അടിമവ്യാപാരത്തിനെതിരെ നിന്നു.\nഅവൻ പറഞ്ഞു: ദൈവത്തിന്റെ വേലയ്ക്ക് ഒരു യോഗ്യത മാത്രം — തുടരാൻ തയ്യാറാകുക."
+    }
+   },
+   "storySource": "David Livingstone, Missionary Travels and Researches in South Africa",
+   "storyId": "livingstone"
+  },
+  {
+   "id": "b3-psa121",
+   "category": "provision",
+   "sunday": "",
+   "week": 0,
+   "tone": "comfort",
+   "theme": {
+    "ml": "എന്റെ സഹായം",
+    "mg": "Ente sahaayam",
+    "en": "My help"
+   },
+   "verse": {
+    "ref": {
+     "ml": "സങ്കീർത്തനം 121:1–2",
+     "mg": "Sankeerthanam 121:1-2",
+     "en": "Psalm 121:1–2"
+    },
+    "text": {
+     "ml": "ആരോഹണഗീതം. ഞാൻ എന്‍റെ കണ്ണുകൾ പർവ്വതങ്ങളിലേക്ക് ഉയർത്തുന്നു; എനിക്ക് സഹായം എവിടെനിന്ന് വരും? എന്‍റെ സഹായം ആകാശത്തെയും ഭൂമിയെയും ഉണ്ടാക്കിയ യഹോവയിൽനിന്നു വരുന്നു."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "harmonia-srishtikale",
+     "title": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale Sthuthi Paaduvin",
+      "en": "Srishtikale Sthuthi Paaduvin"
+     },
+     "firstLine": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale sthuthi paaduvin",
+      "en": "All creation, sing praise"
+     },
+     "youtubeId": "xpDBFhWNErc",
+     "channel": "Harmonia",
+     "len": "—",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "പഴയ സഭയുടെ സ്തുതി. എല്ലാവർക്കും അറിയാം.",
+      "mg": "Pazhaya sabhayude sthuthi. Ellavarkkum ariyaam.",
+      "en": "An old congregational praise song. Everyone knows it."
+     },
+     "note": {
+      "ml": "താളം കേട്ടു സ്ഥിരീകരിക്കുക.",
+      "mg": "Thaalam kettu sthireekarikkuka.",
+      "en": "Confirm the tempo by ear."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "b": {
+     "id": "rex-vaazhthunnu",
+     "title": {
+      "ml": "വാഴ്ത്തുന്നു ഞാൻ",
+      "mg": "Vaazhthunnu Njaan",
+      "en": "Vaazhthunnu Njaan"
+     },
+     "youtubeId": "KgXdGt-5v-s",
+     "channel": "Rex Media House",
+     "len": "9:05",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "ആരാധനയോടെ തുടങ്ങാൻ നല്ല ഗാനം.",
+      "mg": "Aaradhanayode thudangaan nalla gaanam.",
+      "en": "A good opener with a worshipful lift."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "solo": {
+     "id": "sujatha-naadha",
+     "title": {
+      "ml": "നാഥാ നിന്നെ കാണാൻ",
+      "mg": "Naadha Ninne Kanaan",
+      "en": "Naadha Ninne Kanaan"
+     },
+     "firstLine": {
+      "ml": "നാഥാ നിന്നെ കാണാൻ",
+      "mg": "Naadha ninne kanaan",
+      "en": "Lord, to see you"
+     },
+     "youtubeId": "8-TjM9lmnZk",
+     "channel": "Sujatha · Jeevadhaara",
+     "len": "4:52",
+     "key": null,
+     "tempo": "slow",
+     "role": "solo",
+     "known": 4,
+     "why": {
+      "ml": "ഒരു സ്ത്രീസ്വരം. സോളോയായി ഉത്തമം.",
+      "mg": "Oru sthreeswaram. Soloyayi uthamam.",
+      "en": "A woman's voice — well suited to a solo slot."
+     },
+     "note": {
+      "ml": "ചെറിയ ഗാനം. 4 മിനിറ്റ് കണക്കാക്കുക.",
+      "mg": "Cheriya gaanam. 4 minute kanakkaakkuka.",
+      "en": "Short. Budget 4 minutes."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "യാത്രക്കാർ മലകളിലേക്ക് നോക്കി. ആ മലകളിൽ ഭയമുണ്ട് — കള്ളന്മാർ, മൃഗങ്ങൾ, വഴി തെറ്റൽ.\nഅവർ പറയുന്നു: എന്റെ സഹായം മലകളിൽ നിന്നല്ല — മലകളെ ഉണ്ടാക്കിയവനിൽ നിന്നാണ്.\nഅതായത്, ഉയർന്നതും ബലവത്തുമായത് സഹായം ചെയ്യുകയില്ല. അതിനെക്കാൾ ഉയർന്നവൻ ചെയ്യും.\nആവർത്തിക്കുക: എന്റെ സഹായം അവനിൽ നിന്നാണ്.",
+    "mg": "യാത്രക്കാർ മലകളിലേക്ക് നോക്കി. ആ മലകളിൽ ഭയമുണ്ട് — കള്ളന്മാർ, മൃഗങ്ങൾ, വഴി തെറ്റൽ.\nഅവർ പറയുന്നു: എന്റെ സഹായം മലകളിൽ നിന്നല്ല — മലകളെ ഉണ്ടാക്കിയവനിൽ നിന്നാണ്.\nഅതായത്, ഉയർന്നതും ബലവത്തുമായത് സഹായം ചെയ്യുകയില്ല. അതിനെക്കാൾ ഉയർന്നവൻ ചെയ്യും.\nആവർത്തിക്കുക: എന്റെ സഹായം അവനിൽ നിന്നാണ്.",
+    "en": "യാത്രക്കാർ മലകളിലേക്ക് നോക്കി. ആ മലകളിൽ ഭയമുണ്ട് — കള്ളന്മാർ, മൃഗങ്ങൾ, വഴി തെറ്റൽ.\nഅവർ പറയുന്നു: എന്റെ സഹായം മലകളിൽ നിന്നല്ല — മലകളെ ഉണ്ടാക്കിയവനിൽ നിന്നാണ്.\nഅതായത്, ഉയർന്നതും ബലവത്തുമായത് സഹായം ചെയ്യുകയില്ല. അതിനെക്കാൾ ഉയർന്നവൻ ചെയ്യും.\nആവർത്തിക്കുക: എന്റെ സഹായം അവനിൽ നിന്നാണ്."
+   },
+   "story": {
+    "body": {
+     "ml": "വെയിൽസിലെ ഒരു ചെറിയ ഗ്രാമം. ഒരു പെൺകുട്ടി ബൈബിൾ വായിക്കാൻ ആഗ്രഹിച്ചു. പേര് മേരി ജോൺസ്.\nഅവൾക്ക് സ്വന്തമായി ബൈബിൾ ഉണ്ടായിരുന്നില്ല. അവൾ ആറു വർഷം പണം സ്വരൂപിച്ചു.\nപതിനഞ്ചു വയസ്സുള്ളപ്പോൾ അവൾ നഗരത്തിലേക്ക് ഇരുപത്തിയഞ്ചു മൈൽ കാൽനടയായി നടന്നു. ചെരിപ്പില്ലാതെ.\nഅച്ചടിച്ച വചനം കിട്ടിയപ്പോൾ അവൾ കരഞ്ഞു. അതാണ് ഒരു കുട്ടിയുടെ ദാഹം.\nആ യാത്ര കണ്ടവർ ഒരു സംഘം ഉണ്ടാക്കി — ബ്രിട്ടീഷ് ആൻഡ് ഫോറിൻ ബൈബിൾ സൊസൈറ്റി.\nഒരു കുട്ടിയുടെ ഒരു ബൈബിളിനായുള്ള നടത്തം ലോകമെമ്പാടും വചനം എത്തിച്ചു."
+    }
+   },
+   "storySource": "Accounts published by the British and Foreign Bible Society",
+   "storyId": "mary-jones"
+  },
+  {
+   "id": "b3-isa4113",
+   "category": "comfort",
+   "sunday": "",
+   "week": 0,
+   "tone": "comfort",
+   "theme": {
+    "ml": "നിന്റെ കൈ പിടിക്കും",
+    "mg": "Ninte kai pidikkum",
+    "en": "I will hold your hand"
+   },
+   "verse": {
+    "ref": {
+     "ml": "യെശയ്യാവ് 41:13",
+     "mg": "Yeshayaavu 41:13",
+     "en": "Isaiah 41:13"
+    },
+    "text": {
+     "ml": "നിന്‍റെ ദൈവമായ യഹോവ എന്ന ഞാൻ നിന്‍റെ വലംകൈ പിടിച്ചു നിന്നോട്: ‘ഭയപ്പെടേണ്ടാ, ഞാൻ നിന്നെ സഹായിക്കും’ എന്നു പറയുന്നു.”"
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "rex-vaazhthunnu",
+     "title": {
+      "ml": "വാഴ്ത്തുന്നു ഞാൻ",
+      "mg": "Vaazhthunnu Njaan",
+      "en": "Vaazhthunnu Njaan"
+     },
+     "youtubeId": "KgXdGt-5v-s",
+     "channel": "Rex Media House",
+     "len": "9:05",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "ആരാധനയോടെ തുടങ്ങാൻ നല്ല ഗാനം.",
+      "mg": "Aaradhanayode thudangaan nalla gaanam.",
+      "en": "A good opener with a worshipful lift."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "b": {
+     "id": "rex-parisudhanaam",
+     "title": {
+      "ml": "പരിശുദ്ധനാം താതൻ",
+      "mg": "Parisudhanaam Thathan",
+      "en": "Parisudhanaam Thathan"
+     },
+     "youtubeId": "VfUCZJtvfxw",
+     "channel": "Rex Media House",
+     "len": "8:07",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതമായ ആരാധന.",
+      "mg": "Sabhaykku parichithamaaya aaradhana.",
+      "en": "Familiar congregational worship."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "solo": {
+     "id": "rex-vallabha",
+     "title": {
+      "ml": "വല്ലഭാ നീ കൊട്ട",
+      "mg": "Vallabha Nee Kotta",
+      "en": "Vallabha Nee Kotta"
+     },
+     "firstLine": {
+      "ml": "വല്ലഭാ നീ കൊട്ട",
+      "mg": "Vallabha nee kotta",
+      "en": "Mighty one, build"
+     },
+     "youtubeId": "sX443ij7eT8",
+     "channel": "Rex Media House",
+     "len": "7:30",
+     "key": null,
+     "tempo": "mid",
+     "role": "worship",
+     "known": 3,
+     "why": {
+      "ml": "പുതിയ ആരാധന. ചെറുപ്പക്കാർക്ക് അടുപ്പം.",
+      "mg": "Puthiya aaradhana. Cheruppakkaarkku aduppam.",
+      "en": "Modern worship; connects with the younger members."
+     },
+     "note": {
+      "ml": "നീളം കൂടുതൽ. 7:30 കണക്കാക്കുക.",
+      "mg": "Neelam kooduthal. 7:30 kanakkaakkuka.",
+      "en": "Long. Budget 7:30."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "ദൈവം പറയുന്നത് \"ഞാൻ നിന്നെ സഹായിക്കും\" എന്ന് മാത്രമല്ല. \"നിന്റെ വലംകൈ പിടിക്കും\" എന്നും പറയുന്നു.\nകൈ പിടിക്കുക എന്നത് അടുത്തു നിൽക്കുക എന്നതാണ്. അകലെ നിന്ന് സഹായം അയക്കുന്നതല്ല.\nഒരു കുട്ടി വീഴുമ്പോൾ അമ്മ കൈ പിടിക്കുന്നു. ദൈവം അതിലും അടുത്താണ്.\nആവർത്തിക്കുക: അവൻ എന്റെ കൈ പിടിച്ചിരിക്കുന്നു.",
+    "mg": "ദൈവം പറയുന്നത് \"ഞാൻ നിന്നെ സഹായിക്കും\" എന്ന് മാത്രമല്ല. \"നിന്റെ വലംകൈ പിടിക്കും\" എന്നും പറയുന്നു.\nകൈ പിടിക്കുക എന്നത് അടുത്തു നിൽക്കുക എന്നതാണ്. അകലെ നിന്ന് സഹായം അയക്കുന്നതല്ല.\nഒരു കുട്ടി വീഴുമ്പോൾ അമ്മ കൈ പിടിക്കുന്നു. ദൈവം അതിലും അടുത്താണ്.\nആവർത്തിക്കുക: അവൻ എന്റെ കൈ പിടിച്ചിരിക്കുന്നു.",
+    "en": "ദൈവം പറയുന്നത് \"ഞാൻ നിന്നെ സഹായിക്കും\" എന്ന് മാത്രമല്ല. \"നിന്റെ വലംകൈ പിടിക്കും\" എന്നും പറയുന്നു.\nകൈ പിടിക്കുക എന്നത് അടുത്തു നിൽക്കുക എന്നതാണ്. അകലെ നിന്ന് സഹായം അയക്കുന്നതല്ല.\nഒരു കുട്ടി വീഴുമ്പോൾ അമ്മ കൈ പിടിക്കുന്നു. ദൈവം അതിലും അടുത്താണ്.\nആവർത്തിക്കുക: അവൻ എന്റെ കൈ പിടിച്ചിരിക്കുന്നു."
+   },
+   "story": {
+    "body": {
+     "ml": "ലണ്ടനിൽ ഒരു യുവ പ്രസംഗകൻ. പേര് ചാൾസ് സ്പർജിയൻ. പതിനേഴു വയസ്സിൽ പ്രസംഗം തുടങ്ങി.\nആയിരങ്ങൾ വന്നു. എന്നാൽ അവൻ ആഴത്തിൽ വിഷാദത്തിൽ ഇടയ്ക്കിടെ മുങ്ങി.\nഅവൻ അത് മറച്ചുവെച്ചില്ല. താൻ കീഴ്പ്പോയ നാളുകളെക്കുറിച്ച് അവൻ തുറന്ന് പറഞ്ഞു.\nഒരിക്കൽ അവൻ പറഞ്ഞു: ഞാൻ ഉയർത്തപ്പെട്ടത് ബലത്താൽ അല്ല; കരുണയാലാണ്.\nഅവന്റെ ലൈബ്രറിയിൽ പതിനായിരത്തിലധികം പുസ്തകങ്ങൾ ഉണ്ടായിരുന്നു. ദരിദ്രർക്കായി ഒരു അനാഥാലയം നടത്തി.\nവിഷാദം ഒരിക്കലും അവനെ ദൈവത്തിൽ നിന്ന് അകറ്റിയില്ല."
+    }
+   },
+   "storySource": "Autobiography of C. H. Spurgeon; his published sermons",
+   "storyId": "spurgeon"
+  },
+  {
+   "id": "b3-mat54",
+   "category": "comfort",
+   "sunday": "",
+   "week": 0,
+   "tone": "comfort",
+   "theme": {
+    "ml": "കരയുന്നവർ ഭാഗ്യവാന്മാർ",
+    "mg": "Karayunnavar bhaagyavaanmar",
+    "en": "Blessed are those who mourn"
+   },
+   "verse": {
+    "ref": {
+     "ml": "മത്തായി 5:4",
+     "mg": "Mattaayi 5:4",
+     "en": "Matthew 5:4"
+    },
+    "text": {
+     "ml": "ദുഃഖിക്കുന്നവർ ഭാഗ്യവാന്മാർ; അവർക്ക് ആശ്വാസം ലഭിക്കും."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "rex-parisudhanaam",
+     "title": {
+      "ml": "പരിശുദ്ധനാം താതൻ",
+      "mg": "Parisudhanaam Thathan",
+      "en": "Parisudhanaam Thathan"
+     },
+     "youtubeId": "VfUCZJtvfxw",
+     "channel": "Rex Media House",
+     "len": "8:07",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതമായ ആരാധന.",
+      "mg": "Sabhaykku parichithamaaya aaradhana.",
+      "en": "Familiar congregational worship."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "b": {
+     "id": "yeshuvodu-chernirippathu",
+     "title": {
+      "ml": "യേശുവോടു ചേർന്നിരിക്കുന്നതെത്ര മോദമേ",
+      "mg": "Yeshuvodu chernirippathethra modhame",
+      "en": "How glad to be with Jesus"
+     },
+     "youtubeId": "5NM0hA0jiWo",
+     "channel": "Christian Worship Songs",
+     "len": "5:31",
+     "key": null,
+     "tempo": "fast",
+     "role": "praise",
+     "why": {
+      "ml": "സന്തോഷത്തോടെ പാടാൻ പറ്റിയ ഗാനം.",
+      "mg": "Santhoshathode paadaan pattiya gaanam.",
+      "en": "A joyful praise song for the opening."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "solo": {
+     "id": "loke-njaan",
+     "title": {
+      "ml": "ലോകെ ഞാൻ",
+      "mg": "Loke Njaan",
+      "en": "Loke Njaan"
+     },
+     "youtubeId": "sIbPp1lLihc",
+     "channel": "Rex Media House",
+     "len": "8:01",
+     "key": null,
+     "tempo": "slow",
+     "role": "worship",
+     "why": {
+      "ml": "ആഴമുള്ള ആരാധന. പ്രതികരണത്തിന് നല്ലത്.",
+      "mg": "Aazhamulla aaradhana. Prathikaranathinu nallathu.",
+      "en": "Deep worship; good for the response."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "യേശു കരയുന്നവരെ ഭാഗ്യവാന്മാർ എന്ന് വിളിക്കുന്നു. ലോകം അവരെ ദുർബലർ എന്ന് വിളിക്കും.\nഎന്തുകൊണ്ട് ഭാഗ്യം? അവർ ആശ്വസിക്കപ്പെടും. അതായത്, കരയുന്നിടത്ത് ആശ്വാസം ഉണ്ട്.\nകരയാതിരിക്കാൻ ശ്രമിക്കുന്നവർ ഉള്ളിൽ ഒറ്റപ്പെടും. കരയുന്നവർ അടുത്തു വരും.\nആവർത്തിക്കുക: എന്റെ കണ്ണുനീർ അവൻ കാണുന്നു.",
+    "mg": "യേശു കരയുന്നവരെ ഭാഗ്യവാന്മാർ എന്ന് വിളിക്കുന്നു. ലോകം അവരെ ദുർബലർ എന്ന് വിളിക്കും.\nഎന്തുകൊണ്ട് ഭാഗ്യം? അവർ ആശ്വസിക്കപ്പെടും. അതായത്, കരയുന്നിടത്ത് ആശ്വാസം ഉണ്ട്.\nകരയാതിരിക്കാൻ ശ്രമിക്കുന്നവർ ഉള്ളിൽ ഒറ്റപ്പെടും. കരയുന്നവർ അടുത്തു വരും.\nആവർത്തിക്കുക: എന്റെ കണ്ണുനീർ അവൻ കാണുന്നു.",
+    "en": "യേശു കരയുന്നവരെ ഭാഗ്യവാന്മാർ എന്ന് വിളിക്കുന്നു. ലോകം അവരെ ദുർബലർ എന്ന് വിളിക്കും.\nഎന്തുകൊണ്ട് ഭാഗ്യം? അവർ ആശ്വസിക്കപ്പെടും. അതായത്, കരയുന്നിടത്ത് ആശ്വാസം ഉണ്ട്.\nകരയാതിരിക്കാൻ ശ്രമിക്കുന്നവർ ഉള്ളിൽ ഒറ്റപ്പെടും. കരയുന്നവർ അടുത്തു വരും.\nആവർത്തിക്കുക: എന്റെ കണ്ണുനീർ അവൻ കാണുന്നു."
+   },
+   "story": {
+    "body": {
+     "ml": "ഇക്വഡോറിലെ കാട്ടിലേക്ക് അഞ്ചു യുവാക്കൾ പോയി. അവിടെ ഒരു ഗോത്രം ഇപ്പോഴും ആരെയും കണ്ടിട്ടില്ല. പേര് ജിം എലിയറ്റ്.\nഅവർ വിമാനത്തിൽ ഇറങ്ങി. ആദ്യം സമ്മാനങ്ങൾ കൊടുത്തു. ആളുകൾ അടുത്തു വന്നു.\n1956 ജനുവരി 8. അവർ കൊല്ലപ്പെട്ടു. അഞ്ചു പേരും.\nലോകം ചോദിച്ചു: ഇത് വെറുതെയായില്ലേ?\nഅവരുടെ ഭാര്യമാർ പകരം ആ ഗോത്രത്തിലേക്ക് തന്നെ പോയി. അവർ അവിടെ ജീവിച്ചു. ആ ഗോത്രം ക്രിസ്തുവിനെ അറിഞ്ഞു.\nജിം എലിയറ്റ് എഴുതിയിരുന്നു: ഒരിക്കൽ മാത്രം നിലനിൽക്കുന്നത് നൽകി, നിലനിൽക്കാത്തത് സ്വന്തമാക്കുന്നവനാണ് വിഡ്ഢി."
+    }
+   },
+   "storySource": "Elisabeth Elliot, Through Gates of Splendor",
+   "storyId": "jim-elliot"
+  },
+  {
+   "id": "b3-joh1125",
+   "category": "hope",
+   "sunday": "",
+   "week": 0,
+   "tone": "courage",
+   "theme": {
+    "ml": "ഞാൻ ഉയിർപ്പും ജീവനും",
+    "mg": "Njaan uyirppum jeevanum",
+    "en": "I am the resurrection and the life"
+   },
+   "verse": {
+    "ref": {
+     "ml": "യോഹന്നാൻ 11:25",
+     "mg": "Yohannan 11:25",
+     "en": "John 11:25"
+    },
+    "text": {
+     "ml": "യേശു അവളോട്: ഞാൻ തന്നെ പുനരുത്ഥാനവും ജീവനും ആകുന്നു; എന്നിൽ വിശ്വസിക്കുന്നവൻ മരിച്ചാലും ജീവിക്കും."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "yeshuvodu-chernirippathu",
+     "title": {
+      "ml": "യേശുവോടു ചേർന്നിരിക്കുന്നതെത്ര മോദമേ",
+      "mg": "Yeshuvodu chernirippathethra modhame",
+      "en": "How glad to be with Jesus"
+     },
+     "youtubeId": "5NM0hA0jiWo",
+     "channel": "Christian Worship Songs",
+     "len": "5:31",
+     "key": null,
+     "tempo": "fast",
+     "role": "praise",
+     "why": {
+      "ml": "സന്തോഷത്തോടെ പാടാൻ പറ്റിയ ഗാനം.",
+      "mg": "Santhoshathode paadaan pattiya gaanam.",
+      "en": "A joyful praise song for the opening."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "b": {
+     "id": "shalom-sthuthi",
+     "title": {
+      "ml": "സ്തുതി",
+      "mg": "Sthuthi",
+      "en": "Sthuthi (Praise)"
+     },
+     "firstLine": {
+      "ml": "സ്തുതി...",
+      "mg": "Sthuthi...",
+      "en": "Praise..."
+     },
+     "youtubeId": "8RkuMoG-VN0",
+     "channel": "Shalom Ministries",
+     "len": "5:00",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 4,
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതം. ആദ്യ ഗാനമായി ഉയർത്താൻ പറ്റിയ താളം.",
+      "mg": "Sabhaykku parichitham. Aadya gaanamaayi uyarthaan pattiya thaalam.",
+      "en": "Familiar to the congregation. The right lift for an opener."
+     },
+     "note": {
+      "ml": "അവസാനം കോറസ് രണ്ട് തവണ. 4:00 കണക്കാക്കുക, 3:30 അല്ല.",
+      "mg": "Avasaanam chorus randu thavana. 4:00 kanakkaakkuka, 3:30 alla.",
+      "en": "Let the chorus go twice at the end. Budget 4:00, not 3:30."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "solo": {
+     "id": "nee-ennum-parisudhan",
+     "title": {
+      "ml": "നീ എന്നും പരിശുദ്ധൻ",
+      "mg": "Nee Ennum Parisudhan",
+      "en": "Nee Ennum Parisudhan"
+     },
+     "youtubeId": "I2j2sWvAJjA",
+     "channel": "Rex Media House",
+     "len": "6:02",
+     "key": null,
+     "tempo": "slow",
+     "role": "worship",
+     "why": {
+      "ml": "ശാന്തമായ ആരാധന.",
+      "mg": "Shaanthamaaya aaradhana.",
+      "en": "Quiet, unhurried worship."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "ഇത് പറഞ്ഞത് ഒരു ശവക്കല്ലറയ്ക്കരികിൽ നിന്നാണ്. മാർത്തയുടെ സഹോദരൻ മരിച്ചിരിക്കുന്നു.\nയേശു ഒരു സിദ്ധാന്തം പറയുന്നില്ല. \"ഞാൻ\" എന്ന് പറയുന്നു.\nഅതായത്, ഉയിർപ്പ് ഒരു സംഭവമല്ല — ഒരു വ്യക്തിയാണ്. മരണത്തിന് അപ്പുറത്തും അവൻ ഉണ്ട്.\nആവർത്തിക്കുക: അവൻ ജീവനാണ്, ഞാൻ അവനിൽ ജീവിക്കും.",
+    "mg": "ഇത് പറഞ്ഞത് ഒരു ശവക്കല്ലറയ്ക്കരികിൽ നിന്നാണ്. മാർത്തയുടെ സഹോദരൻ മരിച്ചിരിക്കുന്നു.\nയേശു ഒരു സിദ്ധാന്തം പറയുന്നില്ല. \"ഞാൻ\" എന്ന് പറയുന്നു.\nഅതായത്, ഉയിർപ്പ് ഒരു സംഭവമല്ല — ഒരു വ്യക്തിയാണ്. മരണത്തിന് അപ്പുറത്തും അവൻ ഉണ്ട്.\nആവർത്തിക്കുക: അവൻ ജീവനാണ്, ഞാൻ അവനിൽ ജീവിക്കും.",
+    "en": "ഇത് പറഞ്ഞത് ഒരു ശവക്കല്ലറയ്ക്കരികിൽ നിന്നാണ്. മാർത്തയുടെ സഹോദരൻ മരിച്ചിരിക്കുന്നു.\nയേശു ഒരു സിദ്ധാന്തം പറയുന്നില്ല. \"ഞാൻ\" എന്ന് പറയുന്നു.\nഅതായത്, ഉയിർപ്പ് ഒരു സംഭവമല്ല — ഒരു വ്യക്തിയാണ്. മരണത്തിന് അപ്പുറത്തും അവൻ ഉണ്ട്.\nആവർത്തിക്കുക: അവൻ ജീവനാണ്, ഞാൻ അവനിൽ ജീവിക്കും."
+   },
+   "story": {
+    "body": {
+     "ml": "അമേരിക്കയിലെ കാടുകളിൽ ഒരു യുവ പ്രസംഗകൻ. പേര് ഡേവിഡ് ബ്രെയ്നേർഡ്.\nഅവൻ രോഗിയായിരുന്നു. ക്ഷയം. ഭക്ഷണം കഴിക്കാൻ ബുദ്ധിമുട്ട്. പലപ്പോഴും രക്തം ചുമച്ചു.\nഎന്നിട്ടും അവൻ വനങ്ങളിൽ നടന്നു. തദ്ദേശീയരുടെ ഇടയിൽ പ്രാർത്ഥിച്ചു. അവരുടെ ഭാഷ പഠിച്ചു.\nഅവൻ ഇരുപത്തിയൊൻപതു വയസ്സിൽ മരിച്ചു. പ്രവർത്തിക്കാൻ കഴിഞ്ഞത് ഏതാനും വർഷം മാത്രം.\nഅവന്റെ ഡയറി പിന്നീട് ആയിരങ്ങളെ തീക്ഷ്ണമാക്കി.\nഅവൻ എഴുതി: ഞാൻ ദൈവത്തിന് നൽകിയത് ഒന്നേയുള്ളൂ — എന്റെ ഇഷ്ടം."
+    }
+   },
+   "storySource": "Jonathan Edwards, The Life of David Brainerd",
+   "storyId": "brainerd"
+  },
+  {
+   "id": "b3-rom58",
+   "category": "grace",
+   "sunday": "",
+   "week": 0,
+   "tone": "grace",
+   "theme": {
+    "ml": "നാം പാപികൾ ആയിരിക്കെ",
+    "mg": "Naam paapikal aayirikke",
+    "en": "While we were still sinners"
+   },
+   "verse": {
+    "ref": {
+     "ml": "റോമർ 5:8",
+     "mg": "Roman 5:8",
+     "en": "Romans 5:8"
+    },
+    "text": {
+     "ml": "ക്രിസ്തുവോ, നാം പാപികൾ ആയിരിക്കുമ്പോൾതന്നെ നമുക്കുവേണ്ടി മരിച്ചു. അങ്ങനെ ദൈവം നമ്മോടുള്ള അവന്‍റെ സ്നേഹത്തെ പ്രദർശിപ്പിച്ചിരിക്കുന്നു."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "shalom-sthuthi",
+     "title": {
+      "ml": "സ്തുതി",
+      "mg": "Sthuthi",
+      "en": "Sthuthi (Praise)"
+     },
+     "firstLine": {
+      "ml": "സ്തുതി...",
+      "mg": "Sthuthi...",
+      "en": "Praise..."
+     },
+     "youtubeId": "8RkuMoG-VN0",
+     "channel": "Shalom Ministries",
+     "len": "5:00",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 4,
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതം. ആദ്യ ഗാനമായി ഉയർത്താൻ പറ്റിയ താളം.",
+      "mg": "Sabhaykku parichitham. Aadya gaanamaayi uyarthaan pattiya thaalam.",
+      "en": "Familiar to the congregation. The right lift for an opener."
+     },
+     "note": {
+      "ml": "അവസാനം കോറസ് രണ്ട് തവണ. 4:00 കണക്കാക്കുക, 3:30 അല്ല.",
+      "mg": "Avasaanam chorus randu thavana. 4:00 kanakkaakkuka, 3:30 alla.",
+      "en": "Let the chorus go twice at the end. Budget 4:00, not 3:30."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "b": {
+     "id": "sinai-neengi",
+     "title": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi Poy Ente Bharangal",
+      "en": "Neengi Poy Ente Bharangal"
+     },
+     "firstLine": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi poy ente bharangal",
+      "en": "My burdens have gone"
+     },
+     "youtubeId": "YWLHfZIjPrw",
+     "channel": "Sinai Media Ministries",
+     "len": "4:46",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "ഒന്നാം ഗാനത്തിന്റെ അതേ കീ. കൂടാതെ ഈ ഗാനത്തിന്റെ പേര് തന്നെ സന്ദേശമാണ്.",
+      "mg": "Onnaam gaanathinte athe key. Koodaathe ee gaanathinte peru thanne sandeshamanu.",
+      "en": "Same key as song 1 — no scramble. And its title is already the message."
+     },
+     "note": {
+      "ml": "ഇടവേളയില്ല. രണ്ടും ഒരൊറ്റ ചലനമാണ്.",
+      "mg": "Idavela illa. Randum orotta chalanamanu.",
+      "en": "Straight in, no gap. The two songs are one movement."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "solo": {
+     "id": "parishudhathmave",
+     "title": {
+      "ml": "പരിശുദ്ധാത്മാവേ",
+      "mg": "Parishudhathmave",
+      "en": "Parishudhathmave"
+     },
+     "youtubeId": "pBL2ul2ESfo",
+     "channel": "Jobi Tom",
+     "len": "6:41",
+     "key": null,
+     "tempo": "slow",
+     "role": "worship",
+     "why": {
+      "ml": "ആത്മാവിനെ വിളിച്ചപേക്ഷിക്കുന്ന ഗാനം.",
+      "mg": "Aathmaavine vilichapekshikkunna gaanam.",
+      "en": "A song that invites the Spirit."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "സ്നേഹം കാത്തിരിക്കുന്നു എന്നാണ് നമ്മൾ കരുതുന്നത് — ഞാൻ നന്നായാൽ ദൈവം സ്നേഹിക്കും.\nഈ വാക്യം അതിനെ മറിച്ചിടുന്നു: നാം പാപികൾ ആയിരിക്കെ ക്രിസ്തു മരിച്ചു.\nഅതായത്, സ്നേഹം നിങ്ങളുടെ മെച്ചപ്പെടലിനെ കാത്തിരിക്കുന്നില്ല. അത് മുമ്പേ വന്നു.\nആവർത്തിക്കുക: ഞാൻ യോഗ്യനായിരിക്കെയല്ല, അവൻ സ്നേഹിച്ചു.",
+    "mg": "സ്നേഹം കാത്തിരിക്കുന്നു എന്നാണ് നമ്മൾ കരുതുന്നത് — ഞാൻ നന്നായാൽ ദൈവം സ്നേഹിക്കും.\nഈ വാക്യം അതിനെ മറിച്ചിടുന്നു: നാം പാപികൾ ആയിരിക്കെ ക്രിസ്തു മരിച്ചു.\nഅതായത്, സ്നേഹം നിങ്ങളുടെ മെച്ചപ്പെടലിനെ കാത്തിരിക്കുന്നില്ല. അത് മുമ്പേ വന്നു.\nആവർത്തിക്കുക: ഞാൻ യോഗ്യനായിരിക്കെയല്ല, അവൻ സ്നേഹിച്ചു.",
+    "en": "സ്നേഹം കാത്തിരിക്കുന്നു എന്നാണ് നമ്മൾ കരുതുന്നത് — ഞാൻ നന്നായാൽ ദൈവം സ്നേഹിക്കും.\nഈ വാക്യം അതിനെ മറിച്ചിടുന്നു: നാം പാപികൾ ആയിരിക്കെ ക്രിസ്തു മരിച്ചു.\nഅതായത്, സ്നേഹം നിങ്ങളുടെ മെച്ചപ്പെടലിനെ കാത്തിരിക്കുന്നില്ല. അത് മുമ്പേ വന്നു.\nആവർത്തിക്കുക: ഞാൻ യോഗ്യനായിരിക്കെയല്ല, അവൻ സ്നേഹിച്ചു."
+   },
+   "story": {
+    "body": {
+     "ml": "പതിനെട്ടാം നൂറ്റാണ്ടിലെ ഇംഗ്ലണ്ട്. ചർച്ചുകളിൽ മാത്രം പ്രസംഗിക്കുന്ന കാലം. ഒരാൾ പുറത്ത് പ്രസംഗിക്കാൻ തുടങ്ങി. പേര് ജോർജ് വൈറ്റ്ഫീൽഡ്.\nഖനിത്തൊഴിലാളികൾ, കർഷകർ — പള്ളിയിൽ വരാത്തവർ — പതിനായിരങ്ങൾ കൂടി.\nഅവൻ ദിവസവും പ്രസംഗിച്ചു. വർഷങ്ങളോളം.\nഅമേരിക്കയിലേക്കും പോയി. അവിടെ വലിയ നവീകരണത്തിന് വഴിയൊരുക്കി.\nഅവൻ പറയാറുണ്ടായിരുന്നു: ഞാൻ ക്ഷീണിച്ചു കിടക്കുമ്പോൾ എന്റെ ശത്രുക്കൾ പ്രവർത്തിക്കും.\nഒരു മനുഷ്യൻ ഒരു സന്ദേശവുമായി നിൽക്കുമ്പോൾ രാജ്യം മാറും."
+    }
+   },
+   "storySource": "George Whitefield's Journals",
+   "storyId": "whitefield"
+  },
+  {
+   "id": "b3-eph28",
+   "category": "grace",
+   "sunday": "",
+   "week": 0,
+   "tone": "grace",
+   "theme": {
+    "ml": "കൃപയാൽ രക്ഷ",
+    "mg": "Kripayaal raksha",
+    "en": "Saved by grace"
+   },
+   "verse": {
+    "ref": {
+     "ml": "എഫെസ്യർ 2:8",
+     "mg": "Ephesyar 2:8",
+     "en": "Ephesians 2:8"
+    },
+    "text": {
+     "ml": "കൃപയാലല്ലോ നിങ്ങൾ വിശ്വാസംമൂലം രക്ഷിയ്ക്കപ്പെട്ടിരിക്കുന്നത്; അതിനും നിങ്ങൾ കാരണക്കാരല്ല; അത് ദൈവത്തിന്‍റെ ദാനമത്രേയാകുന്നു."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "sinai-neengi",
+     "title": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi Poy Ente Bharangal",
+      "en": "Neengi Poy Ente Bharangal"
+     },
+     "firstLine": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi poy ente bharangal",
+      "en": "My burdens have gone"
+     },
+     "youtubeId": "YWLHfZIjPrw",
+     "channel": "Sinai Media Ministries",
+     "len": "4:46",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "ഒന്നാം ഗാനത്തിന്റെ അതേ കീ. കൂടാതെ ഈ ഗാനത്തിന്റെ പേര് തന്നെ സന്ദേശമാണ്.",
+      "mg": "Onnaam gaanathinte athe key. Koodaathe ee gaanathinte peru thanne sandeshamanu.",
+      "en": "Same key as song 1 — no scramble. And its title is already the message."
+     },
+     "note": {
+      "ml": "ഇടവേളയില്ല. രണ്ടും ഒരൊറ്റ ചലനമാണ്.",
+      "mg": "Idavela illa. Randum orotta chalanamanu.",
+      "en": "Straight in, no gap. The two songs are one movement."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "b": {
+     "id": "harmonia-srishtikale",
+     "title": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale Sthuthi Paaduvin",
+      "en": "Srishtikale Sthuthi Paaduvin"
+     },
+     "firstLine": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale sthuthi paaduvin",
+      "en": "All creation, sing praise"
+     },
+     "youtubeId": "xpDBFhWNErc",
+     "channel": "Harmonia",
+     "len": "—",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "പഴയ സഭയുടെ സ്തുതി. എല്ലാവർക്കും അറിയാം.",
+      "mg": "Pazhaya sabhayude sthuthi. Ellavarkkum ariyaam.",
+      "en": "An old congregational praise song. Everyone knows it."
+     },
+     "note": {
+      "ml": "താളം കേട്ടു സ്ഥിരീകരിക്കുക.",
+      "mg": "Thaalam kettu sthireekarikkuka.",
+      "en": "Confirm the tempo by ear."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "solo": {
+     "id": "ithramel-ithramel",
+     "title": {
+      "ml": "ഇത്രമേൽ ഇത്രമേൽ എന്നെ",
+      "mg": "Ithramel Ithramel Enne",
+      "en": "Ithramel Ithramel Enne"
+     },
+     "youtubeId": "R9fGuqVzB0g",
+     "channel": "Jesus Is Alive",
+     "len": "5:45",
+     "key": null,
+     "tempo": "slow",
+     "role": "worship",
+     "why": {
+      "ml": "സ്നേഹത്തെക്കുറിച്ചുള്ള ഭക്തിഗാനം.",
+      "mg": "Snehathinekkurichulla bhaktigaanam.",
+      "en": "A devotional song about love."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "രക്ഷ കൃപയാലാണ്, വിശ്വാസത്താലാണ്. സ്വന്തം പ്രവൃത്തികളാൽ അല്ല.\nഅതായത്, നിങ്ങൾ ഒരിക്കലും മതിയാകില്ല. അതാണ് സുവിശേഷത്തിന്റെ ആരംഭം.\nകൃപ എന്നാൽ കിട്ടാത്തത് കിട്ടുക. കണക്കു കൂട്ടാതെ കിട്ടുക.\nആവർത്തിക്കുക: ഞാൻ കൃപയാൽ രക്ഷിക്കപ്പെട്ടു.",
+    "mg": "രക്ഷ കൃപയാലാണ്, വിശ്വാസത്താലാണ്. സ്വന്തം പ്രവൃത്തികളാൽ അല്ല.\nഅതായത്, നിങ്ങൾ ഒരിക്കലും മതിയാകില്ല. അതാണ് സുവിശേഷത്തിന്റെ ആരംഭം.\nകൃപ എന്നാൽ കിട്ടാത്തത് കിട്ടുക. കണക്കു കൂട്ടാതെ കിട്ടുക.\nആവർത്തിക്കുക: ഞാൻ കൃപയാൽ രക്ഷിക്കപ്പെട്ടു.",
+    "en": "രക്ഷ കൃപയാലാണ്, വിശ്വാസത്താലാണ്. സ്വന്തം പ്രവൃത്തികളാൽ അല്ല.\nഅതായത്, നിങ്ങൾ ഒരിക്കലും മതിയാകില്ല. അതാണ് സുവിശേഷത്തിന്റെ ആരംഭം.\nകൃപ എന്നാൽ കിട്ടാത്തത് കിട്ടുക. കണക്കു കൂട്ടാതെ കിട്ടുക.\nആവർത്തിക്കുക: ഞാൻ കൃപയാൽ രക്ഷിക്കപ്പെട്ടു."
+   },
+   "story": {
+    "body": {
+     "ml": "പത്തൊൻപതാം നൂറ്റാണ്ടിലെ ലൈബീരിയ. ഒരു യുവാവ് അടിമത്തത്തിൽ നിന്ന് രക്ഷപ്പെടുന്നു. പേര് സാമുവൽ മോറിസ്.\nഅവൻ ഒരു ചെറിയ പുസ്തകം കിട്ടി. അതിൽ ഒരു കാര്യം മാത്രം — ദൈവത്തിന്റെ ആത്മാവ്.\nഅവൻ അമേരിക്കയിലേക്ക് പോയി. ഒരു സ്കൂളിൽ ചേരാൻ ആഗ്രഹിച്ചു. കൂലിപ്പണി ചെയ്തു. ആളുകളോട് പ്രാർത്ഥിക്കാൻ പറഞ്ഞുകൊണ്ടിരുന്നു.\nഅവൻ അധികം ജീവിച്ചില്ല. തിരികെ പോരുന്ന വഴിയിൽ മരിച്ചു.\nഎന്നാൽ അവന്റെ പ്രാർത്ഥന മറന്നു പോയില്ല. അവൻ പഠിച്ച സ്ഥാപനം പിന്നീട് ദൂരദേശ സുവിശേഷത്തിന്റെ ഒരു കേന്ദ്രമായി.\nദൈവം ഒരു സാധാരണ യുവാവിനെ ഉപയോഗിച്ചു."
+    }
+   },
+   "storySource": "Samuel Morris: The Apostle of Ebony; university archives",
+   "storyId": "samuel-morris"
+  },
+  {
+   "id": "b3-phi413",
+   "category": "courage",
+   "sunday": "",
+   "week": 0,
+   "tone": "courage",
+   "theme": {
+    "ml": "എല്ലാറ്റിനും ശക്തൻ",
+    "mg": "Ellattinum shakthan",
+    "en": "I can do all things"
+   },
+   "verse": {
+    "ref": {
+     "ml": "ഫിലിപ്പിയർ 4:13",
+     "mg": "Philippiyar 4:13",
+     "en": "Philippians 4:13"
+    },
+    "text": {
+     "ml": "എന്നെ ശക്തനാക്കുന്നവൻ മുഖാന്തരം എനിക്ക് എല്ലാം ചെയ്യുവാൻ കഴിയും."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "harmonia-srishtikale",
+     "title": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale Sthuthi Paaduvin",
+      "en": "Srishtikale Sthuthi Paaduvin"
+     },
+     "firstLine": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale sthuthi paaduvin",
+      "en": "All creation, sing praise"
+     },
+     "youtubeId": "xpDBFhWNErc",
+     "channel": "Harmonia",
+     "len": "—",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "പഴയ സഭയുടെ സ്തുതി. എല്ലാവർക്കും അറിയാം.",
+      "mg": "Pazhaya sabhayude sthuthi. Ellavarkkum ariyaam.",
+      "en": "An old congregational praise song. Everyone knows it."
+     },
+     "note": {
+      "ml": "താളം കേട്ടു സ്ഥിരീകരിക്കുക.",
+      "mg": "Thaalam kettu sthireekarikkuka.",
+      "en": "Confirm the tempo by ear."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "b": {
+     "id": "rex-vaazhthunnu",
+     "title": {
+      "ml": "വാഴ്ത്തുന്നു ഞാൻ",
+      "mg": "Vaazhthunnu Njaan",
+      "en": "Vaazhthunnu Njaan"
+     },
+     "youtubeId": "KgXdGt-5v-s",
+     "channel": "Rex Media House",
+     "len": "9:05",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "ആരാധനയോടെ തുടങ്ങാൻ നല്ല ഗാനം.",
+      "mg": "Aaradhanayode thudangaan nalla gaanam.",
+      "en": "A good opener with a worshipful lift."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "solo": {
+     "id": "jobi-kaividilla",
+     "title": {
+      "ml": "കൈവിടില്ല നിന്നെ",
+      "mg": "Kaividilla Ninne",
+      "en": "Kaividilla Ninne (I will not let go)"
+     },
+     "firstLine": {
+      "ml": "കൈവിടില്ല നിന്നെ",
+      "mg": "Kaividilla ninne",
+      "en": "I will not let go of you"
+     },
+     "youtubeId": "WQAyLcRlNMM",
+     "channel": "Jobi Tom",
+     "len": "5:37",
+     "key": "A",
+     "tempo": "slow",
+     "role": "solo",
+     "known": 3,
+     "why": {
+      "ml": "സന്ദേശത്തിന്റെ ആവർത്തനവാക്യം \"ഞാൻ നിന്നെ മറന്നിട്ടില്ല\". ഈ ഗാനത്തിന്റെ പേര് അതേ വാക്യത്തിന്റെ മറുപാതി.",
+      "mg": "Sandeshamathinte aavarthanavaakyam \"Njaan ninne marannittilla\". Ee gaanathinte peru athe vaakyathinte marupaathi.",
+      "en": "The message refrain is \"I have not forgotten you.\" This song's title is the other half of the same sentence."
+     },
+     "note": {
+      "ml": "ഇന്ട്രോയ്ക്കു മേൽ സംസാരിക്കരുത്. ബീറ്റ് 7 പറഞ്ഞു നിർത്തുക.",
+      "mg": "Intro-ykku mel samsaarikaruthu. Beat 7 paranju nirthuka.",
+      "en": "Do not talk over the intro. Say the handoff line, then stop."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "ഈ വാക്യം എല്ലാ ലക്ഷ്യവും നേടാം എന്ന് പറയുന്നില്ല. അത് കൃത്യമായി പറയുന്നത് — അവനിൽ ഉണ്ടാകുമ്പോൾ.\nപൗലൊസ് അത് എഴുതിയത് തടവറയിൽ നിന്നാണ്. സാഹചര്യം മോശമാണ്. എന്നിട്ടും അവൻ പറയുന്നു: എല്ലാം ചെയ്യാൻ കഴിയും.\nശക്തി സാഹചര്യത്തിൽ നിന്നല്ല, വ്യക്തിയിൽ നിന്നാണ്.\nആവർത്തിക്കുക: അവനിൽ എനിക്ക് കഴിയും.",
+    "mg": "ഈ വാക്യം എല്ലാ ലക്ഷ്യവും നേടാം എന്ന് പറയുന്നില്ല. അത് കൃത്യമായി പറയുന്നത് — അവനിൽ ഉണ്ടാകുമ്പോൾ.\nപൗലൊസ് അത് എഴുതിയത് തടവറയിൽ നിന്നാണ്. സാഹചര്യം മോശമാണ്. എന്നിട്ടും അവൻ പറയുന്നു: എല്ലാം ചെയ്യാൻ കഴിയും.\nശക്തി സാഹചര്യത്തിൽ നിന്നല്ല, വ്യക്തിയിൽ നിന്നാണ്.\nആവർത്തിക്കുക: അവനിൽ എനിക്ക് കഴിയും.",
+    "en": "ഈ വാക്യം എല്ലാ ലക്ഷ്യവും നേടാം എന്ന് പറയുന്നില്ല. അത് കൃത്യമായി പറയുന്നത് — അവനിൽ ഉണ്ടാകുമ്പോൾ.\nപൗലൊസ് അത് എഴുതിയത് തടവറയിൽ നിന്നാണ്. സാഹചര്യം മോശമാണ്. എന്നിട്ടും അവൻ പറയുന്നു: എല്ലാം ചെയ്യാൻ കഴിയും.\nശക്തി സാഹചര്യത്തിൽ നിന്നല്ല, വ്യക്തിയിൽ നിന്നാണ്.\nആവർത്തിക്കുക: അവനിൽ എനിക്ക് കഴിയും."
+   },
+   "story": {
+    "body": {
+     "ml": "ചൈനയിൽ ഒരു യുവാവ് ക്രിസ്തുവിനെ പ്രസംഗിച്ചു. പേര് വാച്ച്മാൻ നീ.\nഅവൻ ഒരു പള്ളി കെട്ടിടം ഉണ്ടാക്കിയില്ല. വീടുകളിൽ, ചെറിയ കൂട്ടങ്ങളിൽ സഭ കണ്ടു.\nപിന്നീട് രാജ്യം മാറി. വിശ്വാസം നിഷേധിക്കാൻ ആവശ്യപ്പെട്ടു.\nഅവൻ നിഷേധിച്ചില്ല. ഇരുപതു വർഷം തടവറയിൽ കഴിഞ്ഞു. 1972-ൽ അവിടെ മരിച്ചു.\nഅവൻ അവിടെയും സഭയെ ഉപേക്ഷിച്ചില്ല. കൂടെ ഉള്ളവരോട് പ്രാർത്ഥിച്ചു.\nഅവൻ എഴുതിയിരുന്നു: വിശ്വാസം വികാരമല്ല. അത് ഒരു വഴി — അവന്റെ വഴി."
+    }
+   },
+   "storySource": "Watchman Nee, The Normal Christian Life; accounts of his imprisonment",
+   "storyId": "watchman-nee"
+  },
+  {
+   "id": "b3-2ti17",
+   "category": "courage",
+   "sunday": "",
+   "week": 0,
+   "tone": "courage",
+   "theme": {
+    "ml": "ഭയത്തിന്റെ ആത്മാവല്ല",
+    "mg": "Bhayathinte aathmaavalla",
+    "en": "Not a spirit of fear"
+   },
+   "verse": {
+    "ref": {
+     "ml": "2 തിമൊഥെയൊസ് 1:7",
+     "mg": "2 Thimotheyos 1:7",
+     "en": "2 Timothy 1:7"
+    },
+    "text": {
+     "ml": "എന്തുകൊണ്ടെന്നാൽ, ഭീരുത്വത്തിൻ്റെ ആത്മാവിനെ അല്ല, ശക്തിയുടെയും സ്നേഹത്തിൻ്റെയും സുബോധത്തിൻ്റെയും ആത്മാവിനെയത്രേ ദൈവം നമുക്കു തന്നത്."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "rex-vaazhthunnu",
+     "title": {
+      "ml": "വാഴ്ത്തുന്നു ഞാൻ",
+      "mg": "Vaazhthunnu Njaan",
+      "en": "Vaazhthunnu Njaan"
+     },
+     "youtubeId": "KgXdGt-5v-s",
+     "channel": "Rex Media House",
+     "len": "9:05",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "ആരാധനയോടെ തുടങ്ങാൻ നല്ല ഗാനം.",
+      "mg": "Aaradhanayode thudangaan nalla gaanam.",
+      "en": "A good opener with a worshipful lift."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "b": {
+     "id": "rex-parisudhanaam",
+     "title": {
+      "ml": "പരിശുദ്ധനാം താതൻ",
+      "mg": "Parisudhanaam Thathan",
+      "en": "Parisudhanaam Thathan"
+     },
+     "youtubeId": "VfUCZJtvfxw",
+     "channel": "Rex Media House",
+     "len": "8:07",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതമായ ആരാധന.",
+      "mg": "Sabhaykku parichithamaaya aaradhana.",
+      "en": "Familiar congregational worship."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "solo": {
+     "id": "thangum-karangal",
+     "title": {
+      "ml": "തങ്ങും കരങ്ങൾ",
+      "mg": "Thangum Karangal",
+      "en": "Thangum Karangal (Everlasting arms)"
+     },
+     "firstLine": {
+      "ml": "തങ്ങും കരങ്ങൾ",
+      "mg": "Thangum karangal",
+      "en": "Everlasting arms"
+     },
+     "youtubeId": "xiayqXqaAg8",
+     "channel": "Match Point Faith · Roji Ponnachan",
+     "len": "14:05",
+     "key": null,
+     "tempo": "slow",
+     "role": "solo",
+     "known": 5,
+     "why": {
+      "ml": "പഴയ ഗാനം. \"നിത്യമായ കരങ്ങൾ\" — ഉള്ളംകൈകളിൽ കൊത്തിയ വചനത്തോട് ഏറ്റവും അടുത്ത്.",
+      "mg": "Pazhaya gaanam. \"Nithyamaaya karangal\" — ullamkaikalil kothiya vachanathodu ettavum aduthu.",
+      "en": "The old canon. \"Everlasting arms\" — arguably the closest match to the engraved-palms verse."
+     },
+     "note": {
+      "ml": "ജുക്ക്ബോക്സിലെ ഭാഗം — 14:05 ൽ തുറക്കും.",
+      "mg": "Jukeboxile bhaagam — 14:05 il thurakkum.",
+      "en": "Jukebox segment — opens at 14:05."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": true,
+     "startSec": 845
+    }
+   },
+   "explanation": {
+    "ml": "ദൈവം നമ്മെ ഭയത്തിന്റെ ആത്മാവോടെ വിളിച്ചിട്ടില്ല. ശക്തിയുടെയും സ്നേഹത്തിന്റെയും ബോധത്തിന്റെയും ആത്മാവോടെയാണ്.\nഭയം വരുമ്പോൾ അത് ദൈവത്തിൽ നിന്നല്ല എന്ന് ഓർക്കുക. അത് പുറത്തു നിന്ന് വരുന്നു.\nസ്നേഹം ഭയത്തെ പുറത്താക്കുന്നു. അതുകൊണ്ടാണ് സ്നേഹം പ്രധാനം.\nആവർത്തിക്കുക: എന്റെ ആത്മാവ് ഭയത്തിന്റേതല്ല.",
+    "mg": "ദൈവം നമ്മെ ഭയത്തിന്റെ ആത്മാവോടെ വിളിച്ചിട്ടില്ല. ശക്തിയുടെയും സ്നേഹത്തിന്റെയും ബോധത്തിന്റെയും ആത്മാവോടെയാണ്.\nഭയം വരുമ്പോൾ അത് ദൈവത്തിൽ നിന്നല്ല എന്ന് ഓർക്കുക. അത് പുറത്തു നിന്ന് വരുന്നു.\nസ്നേഹം ഭയത്തെ പുറത്താക്കുന്നു. അതുകൊണ്ടാണ് സ്നേഹം പ്രധാനം.\nആവർത്തിക്കുക: എന്റെ ആത്മാവ് ഭയത്തിന്റേതല്ല.",
+    "en": "ദൈവം നമ്മെ ഭയത്തിന്റെ ആത്മാവോടെ വിളിച്ചിട്ടില്ല. ശക്തിയുടെയും സ്നേഹത്തിന്റെയും ബോധത്തിന്റെയും ആത്മാവോടെയാണ്.\nഭയം വരുമ്പോൾ അത് ദൈവത്തിൽ നിന്നല്ല എന്ന് ഓർക്കുക. അത് പുറത്തു നിന്ന് വരുന്നു.\nസ്നേഹം ഭയത്തെ പുറത്താക്കുന്നു. അതുകൊണ്ടാണ് സ്നേഹം പ്രധാനം.\nആവർത്തിക്കുക: എന്റെ ആത്മാവ് ഭയത്തിന്റേതല്ല."
+   },
+   "story": {
+    "body": {
+     "ml": "റുമേനിയ. ഒരു പാസ്റ്റർ ഭരണകൂടത്തിനെതിരെ സത്യം പറഞ്ഞു. പേര് റിച്ചാർഡ് വൂർമ്പ്രാൻഡ്.\nഅവനെ എടുത്തുകൊണ്ടുപോയി. പതിനാലു വർഷം തടവ്. മിക്കതും ഒറ്റത്തടവ്.\nഅവിടെ അവൻ ഒരു കാര്യം ചെയ്തു — ശത്രുവിനുവേണ്ടി പ്രാർത്ഥിച്ചു.\nമോചിതനായ ശേഷം അവൻ പറഞ്ഞു: ഞാൻ എന്റെ ഭരണാധികാരികൾക്കുവേണ്ടി പ്രാർത്ഥിച്ചു.\nഅതായത്, ക്ഷമ ഒരു വികാരമല്ല; അത് ഒരു തീരുമാനമാണ്.\nഅവൻ പറഞ്ഞു: ഒരു തടവറയിലും ദൈവത്തെ തടവിലാക്കാൻ കഴിയില്ല."
+    }
+   },
+   "storySource": "Richard Wurmbrand, Tortured for Christ",
+   "storyId": "wurmbrand"
+  },
+  {
+   "id": "b3-heb416",
+   "category": "grace",
+   "sunday": "",
+   "week": 0,
+   "tone": "grace",
+   "theme": {
+    "ml": "കൃപയുടെ സിംഹാസനം",
+    "mg": "Kripayude simhaasanam",
+    "en": "Throne of grace"
+   },
+   "verse": {
+    "ref": {
+     "ml": "എബ്രായർ 4:16",
+     "mg": "Ebraayar 4:16",
+     "en": "Hebrews 4:16"
+    },
+    "text": {
+     "ml": "അതുകൊണ്ട് കരുണ ലഭിപ്പാനും തത്സമയത്ത് സഹായത്തിനുള്ള കൃപ പ്രാപിക്കുവാനുമായി നാം ധൈര്യത്തോടെ കൃപാസനത്തിന് അടുത്തു ചെല്ലുക."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "rex-parisudhanaam",
+     "title": {
+      "ml": "പരിശുദ്ധനാം താതൻ",
+      "mg": "Parisudhanaam Thathan",
+      "en": "Parisudhanaam Thathan"
+     },
+     "youtubeId": "VfUCZJtvfxw",
+     "channel": "Rex Media House",
+     "len": "8:07",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതമായ ആരാധന.",
+      "mg": "Sabhaykku parichithamaaya aaradhana.",
+      "en": "Familiar congregational worship."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "b": {
+     "id": "yeshuvodu-chernirippathu",
+     "title": {
+      "ml": "യേശുവോടു ചേർന്നിരിക്കുന്നതെത്ര മോദമേ",
+      "mg": "Yeshuvodu chernirippathethra modhame",
+      "en": "How glad to be with Jesus"
+     },
+     "youtubeId": "5NM0hA0jiWo",
+     "channel": "Christian Worship Songs",
+     "len": "5:31",
+     "key": null,
+     "tempo": "fast",
+     "role": "praise",
+     "why": {
+      "ml": "സന്തോഷത്തോടെ പാടാൻ പറ്റിയ ഗാനം.",
+      "mg": "Santhoshathode paadaan pattiya gaanam.",
+      "en": "A joyful praise song for the opening."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "solo": {
+     "id": "manorama-theepole",
+     "title": {
+      "ml": "തീപോലെ ഇറങ്ങണമേ",
+      "mg": "Theepole Iranganame",
+      "en": "Come down like fire"
+     },
+     "firstLine": {
+      "ml": "അന്ത്യകാല അഭിഷേകം",
+      "mg": "Anthyakaala abhishekam",
+      "en": "An end-time anointing"
+     },
+     "youtubeId": "hVKg5uoK8ns",
+     "channel": "Manorama Music",
+     "len": "7:11",
+     "key": null,
+     "tempo": "slow",
+     "role": "worship",
+     "known": 5,
+     "why": {
+      "ml": "ആരാധനയുടെ ആഴം. സഭ ഈ ഗാനം ഹൃദയത്തോടെ പാടും.",
+      "mg": "Aaradhanayude aazham. Sabha ee gaanam hrudayathode paadum.",
+      "en": "Depth of worship. The congregation sings this from the heart."
+     },
+     "note": {
+      "ml": "സോളോയായി ഉപയോഗിക്കാം.",
+      "mg": "Soloyayi upayogikkaam.",
+      "en": "Works as a solo."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "സിംഹാസനത്തിന്റെ അടുത്ത് ചെല്ലാൻ ഭയമാണ് സാധാരണ. ഇവിടെ അത് കൃപയുടെ സിംഹാസനമാണ്.\nധൈര്യത്തോടെ അടുത്തു ചെല്ലുക. അതായത്, ഭയത്തോടെയല്ല.\nനിങ്ങൾക്ക് ആവശ്യമുള്ള സമയത്ത് തന്നെ സഹായം ലഭിക്കാൻ — അതിനാണ് അവിടേക്ക് പോകേണ്ടത്.\nആവർത്തിക്കുക: ഞാൻ ധൈര്യത്തോടെ അടുത്തു ചെല്ലും.",
+    "mg": "സിംഹാസനത്തിന്റെ അടുത്ത് ചെല്ലാൻ ഭയമാണ് സാധാരണ. ഇവിടെ അത് കൃപയുടെ സിംഹാസനമാണ്.\nധൈര്യത്തോടെ അടുത്തു ചെല്ലുക. അതായത്, ഭയത്തോടെയല്ല.\nനിങ്ങൾക്ക് ആവശ്യമുള്ള സമയത്ത് തന്നെ സഹായം ലഭിക്കാൻ — അതിനാണ് അവിടേക്ക് പോകേണ്ടത്.\nആവർത്തിക്കുക: ഞാൻ ധൈര്യത്തോടെ അടുത്തു ചെല്ലും.",
+    "en": "സിംഹാസനത്തിന്റെ അടുത്ത് ചെല്ലാൻ ഭയമാണ് സാധാരണ. ഇവിടെ അത് കൃപയുടെ സിംഹാസനമാണ്.\nധൈര്യത്തോടെ അടുത്തു ചെല്ലുക. അതായത്, ഭയത്തോടെയല്ല.\nനിങ്ങൾക്ക് ആവശ്യമുള്ള സമയത്ത് തന്നെ സഹായം ലഭിക്കാൻ — അതിനാണ് അവിടേക്ക് പോകേണ്ടത്.\nആവർത്തിക്കുക: ഞാൻ ധൈര്യത്തോടെ അടുത്തു ചെല്ലും."
+   },
+   "story": {
+    "body": {
+     "ml": "ഇംഗ്ലണ്ടിൽ ഒരു തകരക്കാരൻ. പേര് ജോൺ ബണ്യൻ.\nഅവൻ പള്ളി ഇല്ലാതെ പ്രസംഗിച്ചു. അതിന് അവനെ തടവിലാക്കി. പന്ത്രണ്ടു വർഷം.\nതടവറയിൽ അവന് ഒരു കാര്യം ഉണ്ടായിരുന്നു — എഴുതാൻ കഴിയും.\nഅവൻ ഒരു കഥ എഴുതി. ഒരു മനുഷ്യൻ ഒരു ഭാരവുമായി നടക്കുന്നു. ആ ഭാരം ക്രൂശിൽ വീഴുന്നു.\nആ പുസ്തകം — പിൽഗ്രിംസ് പ്രോഗ്രസ്. ലോകത്തിൽ ഏറ്റവും കൂടുതൽ വായിക്കപ്പെട്ട പുസ്തകങ്ങളിൽ ഒന്ന്.\nതടവറ അവന്റെ വാക്കുകളെ തടഞ്ഞില്ല. അത് അവന് സമയം കൊടുത്തു."
+    }
+   },
+   "storySource": "John Bunyan, Grace Abounding; The Pilgrim's Progress",
+   "storyId": "john-bunyan"
+  },
+  {
+   "id": "b3-jas15",
+   "category": "faith",
+   "sunday": "",
+   "week": 0,
+   "tone": "courage",
+   "theme": {
+    "ml": "ജ്ഞാനം ചോദിക്കുക",
+    "mg": "Jnaanam chodikkuka",
+    "en": "Ask for wisdom"
+   },
+   "verse": {
+    "ref": {
+     "ml": "യാക്കോബ് 1:5",
+     "mg": "Yaakkob 1:5",
+     "en": "James 1:5"
+    },
+    "text": {
+     "ml": "നിങ്ങളിൽ ഒരാൾക്ക് ജ്ഞാനം കുറവാകുന്നു എങ്കിൽ, ശകാരിക്കാതെയും സന്തോഷത്തോടെ എല്ലാവർക്കും ഔദാര്യമായി കൊടുക്കുന്നവനുമായ ദൈവത്തോട് യാചിക്കട്ടെ; അപ്പോൾ അവനു ലഭിക്കും."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "yeshuvodu-chernirippathu",
+     "title": {
+      "ml": "യേശുവോടു ചേർന്നിരിക്കുന്നതെത്ര മോദമേ",
+      "mg": "Yeshuvodu chernirippathethra modhame",
+      "en": "How glad to be with Jesus"
+     },
+     "youtubeId": "5NM0hA0jiWo",
+     "channel": "Christian Worship Songs",
+     "len": "5:31",
+     "key": null,
+     "tempo": "fast",
+     "role": "praise",
+     "why": {
+      "ml": "സന്തോഷത്തോടെ പാടാൻ പറ്റിയ ഗാനം.",
+      "mg": "Santhoshathode paadaan pattiya gaanam.",
+      "en": "A joyful praise song for the opening."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "b": {
+     "id": "shalom-sthuthi",
+     "title": {
+      "ml": "സ്തുതി",
+      "mg": "Sthuthi",
+      "en": "Sthuthi (Praise)"
+     },
+     "firstLine": {
+      "ml": "സ്തുതി...",
+      "mg": "Sthuthi...",
+      "en": "Praise..."
+     },
+     "youtubeId": "8RkuMoG-VN0",
+     "channel": "Shalom Ministries",
+     "len": "5:00",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 4,
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതം. ആദ്യ ഗാനമായി ഉയർത്താൻ പറ്റിയ താളം.",
+      "mg": "Sabhaykku parichitham. Aadya gaanamaayi uyarthaan pattiya thaalam.",
+      "en": "Familiar to the congregation. The right lift for an opener."
+     },
+     "note": {
+      "ml": "അവസാനം കോറസ് രണ്ട് തവണ. 4:00 കണക്കാക്കുക, 3:30 അല്ല.",
+      "mg": "Avasaanam chorus randu thavana. 4:00 kanakkaakkuka, 3:30 alla.",
+      "en": "Let the chorus go twice at the end. Budget 4:00, not 3:30."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "solo": {
+     "id": "ni-israyelin",
+     "title": {
+      "ml": "ഇസ്രായേലിൻ നാഥനായ്",
+      "mg": "Israyelin Nadhanai",
+      "en": "Israyelin Nadhanai"
+     },
+     "firstLine": {
+      "ml": "ഇസ്രായേലിൻ നാഥനായ്",
+      "mg": "Israyelin nadhanai",
+      "en": "The Lord of Israel"
+     },
+     "youtubeId": "f7_2tJx8w_U",
+     "channel": "N. I. John · K.G. Markose",
+     "len": "6:00",
+     "key": null,
+     "tempo": "mid",
+     "role": "worship",
+     "known": 4,
+     "why": {
+      "ml": "പഴയ ക്രമം. സഭയ്ക്ക് പരിചിതം.",
+      "mg": "Pazhaya kramam. Sabhaykku parichitham.",
+      "en": "The old canon. Familiar to the congregation."
+     },
+     "note": {
+      "ml": "—",
+      "mg": "—",
+      "en": "—"
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "ജ്ഞാനം ഇല്ലെങ്കിൽ ചോദിക്കുക. ദൈവം എല്ലാവർക്കും ഔദാര്യത്തോടെ കൊടുക്കുന്നു.\nഅവൻ ശകാരിച്ചുകൊണ്ട് കൊടുക്കുന്നില്ല. അതാണ് വിശേഷം.\nചിലർ കരുതുന്നു: എനിക്ക് ചോദിക്കാൻ യോഗ്യത ഇല്ല. എന്നാൽ വാക്യം പറയുന്നത് — ചോദിക്കുക.\nആവർത്തിക്കുക: ഞാൻ ജ്ഞാനം ചോദിക്കും, അവൻ കൊടുക്കും.",
+    "mg": "ജ്ഞാനം ഇല്ലെങ്കിൽ ചോദിക്കുക. ദൈവം എല്ലാവർക്കും ഔദാര്യത്തോടെ കൊടുക്കുന്നു.\nഅവൻ ശകാരിച്ചുകൊണ്ട് കൊടുക്കുന്നില്ല. അതാണ് വിശേഷം.\nചിലർ കരുതുന്നു: എനിക്ക് ചോദിക്കാൻ യോഗ്യത ഇല്ല. എന്നാൽ വാക്യം പറയുന്നത് — ചോദിക്കുക.\nആവർത്തിക്കുക: ഞാൻ ജ്ഞാനം ചോദിക്കും, അവൻ കൊടുക്കും.",
+    "en": "ജ്ഞാനം ഇല്ലെങ്കിൽ ചോദിക്കുക. ദൈവം എല്ലാവർക്കും ഔദാര്യത്തോടെ കൊടുക്കുന്നു.\nഅവൻ ശകാരിച്ചുകൊണ്ട് കൊടുക്കുന്നില്ല. അതാണ് വിശേഷം.\nചിലർ കരുതുന്നു: എനിക്ക് ചോദിക്കാൻ യോഗ്യത ഇല്ല. എന്നാൽ വാക്യം പറയുന്നത് — ചോദിക്കുക.\nആവർത്തിക്കുക: ഞാൻ ജ്ഞാനം ചോദിക്കും, അവൻ കൊടുക്കും."
+   },
+   "story": {
+    "body": {
+     "ml": "ഹോങ്കോങ്ങിലെ ഏറ്റവും കഠിനമായ ഒരു ഇടം. കുറ്റകൃത്യങ്ങളും മയക്കുമരുന്നും നിറഞ്ഞ ഒരു മതിൽ നഗരം.\nഒരു യുവതി അവിടേക്ക് പോയി. പേര് ജാക്കി പുള്ളിംഗർ.\nഅവൾ പ്രസംഗിച്ചില്ല. അവൾ അവിടെ താമസിച്ചു. അവരോടൊപ്പം ഭക്ഷണം കഴിച്ചു. അവരെ കേട്ടു.\nവർഷങ്ങൾ കൊണ്ട് മയക്കുമരുന്ന് ഉപേക്ഷിച്ച ആളുകൾ ഒരു സഭയായി മാറി.\nഅവൾ പറയുന്നു: ദൈവം അവരെ എന്റെ അടുത്തേക്ക് അയച്ചു. ഞാൻ അവിടെ നിന്നു മാത്രം.\nഅതായത്, സാന്നിധ്യം തന്നെ ഒരു സുവിശേഷമാണ്."
+    }
+   },
+   "storySource": "Jackie Pullinger, Chasing the Dragon",
+   "storyId": "jackie-pullinger"
+  },
+  {
+   "id": "b3-1jn19",
+   "category": "forgiveness",
+   "sunday": "",
+   "week": 0,
+   "tone": "grace",
+   "theme": {
+    "ml": "ഏറ്റുപറയുമ്പോൾ",
+    "mg": "Ettuparayumpol",
+    "en": "If we confess"
+   },
+   "verse": {
+    "ref": {
+     "ml": "1 യോഹന്നാൻ 1:9",
+     "mg": "1 Yohannan 1:9",
+     "en": "1 John 1:9"
+    },
+    "text": {
+     "ml": "എന്നാൽ നമ്മുടെ പാപങ്ങളെ നമ്മൾ ഏറ്റുപറയുന്നു എങ്കിൽ അവൻ നമ്മോട് പാപങ്ങളെ ക്ഷമിച്ച് സകല അനീതിയും പോക്കി നമ്മെ ശുദ്ധീകരിക്കുവാൻ തക്കവണ്ണം വിശ്വസ്തനും നീതിമാനും ആകുന്നു."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "shalom-sthuthi",
+     "title": {
+      "ml": "സ്തുതി",
+      "mg": "Sthuthi",
+      "en": "Sthuthi (Praise)"
+     },
+     "firstLine": {
+      "ml": "സ്തുതി...",
+      "mg": "Sthuthi...",
+      "en": "Praise..."
+     },
+     "youtubeId": "8RkuMoG-VN0",
+     "channel": "Shalom Ministries",
+     "len": "5:00",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 4,
+     "why": {
+      "ml": "സഭയ്ക്ക് പരിചിതം. ആദ്യ ഗാനമായി ഉയർത്താൻ പറ്റിയ താളം.",
+      "mg": "Sabhaykku parichitham. Aadya gaanamaayi uyarthaan pattiya thaalam.",
+      "en": "Familiar to the congregation. The right lift for an opener."
+     },
+     "note": {
+      "ml": "അവസാനം കോറസ് രണ്ട് തവണ. 4:00 കണക്കാക്കുക, 3:30 അല്ല.",
+      "mg": "Avasaanam chorus randu thavana. 4:00 kanakkaakkuka, 3:30 alla.",
+      "en": "Let the chorus go twice at the end. Budget 4:00, not 3:30."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "b": {
+     "id": "sinai-neengi",
+     "title": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi Poy Ente Bharangal",
+      "en": "Neengi Poy Ente Bharangal"
+     },
+     "firstLine": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi poy ente bharangal",
+      "en": "My burdens have gone"
+     },
+     "youtubeId": "YWLHfZIjPrw",
+     "channel": "Sinai Media Ministries",
+     "len": "4:46",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "ഒന്നാം ഗാനത്തിന്റെ അതേ കീ. കൂടാതെ ഈ ഗാനത്തിന്റെ പേര് തന്നെ സന്ദേശമാണ്.",
+      "mg": "Onnaam gaanathinte athe key. Koodaathe ee gaanathinte peru thanne sandeshamanu.",
+      "en": "Same key as song 1 — no scramble. And its title is already the message."
+     },
+     "note": {
+      "ml": "ഇടവേളയില്ല. രണ്ടും ഒരൊറ്റ ചലനമാണ്.",
+      "mg": "Idavela illa. Randum orotta chalanamanu.",
+      "en": "Straight in, no gap. The two songs are one movement."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "solo": {
+     "id": "sujatha-naadha",
+     "title": {
+      "ml": "നാഥാ നിന്നെ കാണാൻ",
+      "mg": "Naadha Ninne Kanaan",
+      "en": "Naadha Ninne Kanaan"
+     },
+     "firstLine": {
+      "ml": "നാഥാ നിന്നെ കാണാൻ",
+      "mg": "Naadha ninne kanaan",
+      "en": "Lord, to see you"
+     },
+     "youtubeId": "8-TjM9lmnZk",
+     "channel": "Sujatha · Jeevadhaara",
+     "len": "4:52",
+     "key": null,
+     "tempo": "slow",
+     "role": "solo",
+     "known": 4,
+     "why": {
+      "ml": "ഒരു സ്ത്രീസ്വരം. സോളോയായി ഉത്തമം.",
+      "mg": "Oru sthreeswaram. Soloyayi uthamam.",
+      "en": "A woman's voice — well suited to a solo slot."
+     },
+     "note": {
+      "ml": "ചെറിയ ഗാനം. 4 മിനിറ്റ് കണക്കാക്കുക.",
+      "mg": "Cheriya gaanam. 4 minute kanakkaakkuka.",
+      "en": "Short. Budget 4 minutes."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "ഏറ്റുപറയുക എന്നത് ദൈവത്തെ അറിയിക്കലല്ല — അവൻ അറിയുന്നു. അത് സമ്മതിക്കലാണ്.\nഅവൻ വിശ്വസ്തനും നീതിമാനുമാണ്. അതായത്, അവൻ ക്ഷമിക്കും എന്ന് നമ്മൾ ഉറപ്പിക്കാം.\nക്ഷമ കിട്ടിയതിന് ശേഷം അത് വീണ്ടും എടുത്തു നടക്കരുത്.\nആവർത്തിക്കുക: ഞാൻ പറയും, അവൻ ക്ഷമിക്കും.",
+    "mg": "ഏറ്റുപറയുക എന്നത് ദൈവത്തെ അറിയിക്കലല്ല — അവൻ അറിയുന്നു. അത് സമ്മതിക്കലാണ്.\nഅവൻ വിശ്വസ്തനും നീതിമാനുമാണ്. അതായത്, അവൻ ക്ഷമിക്കും എന്ന് നമ്മൾ ഉറപ്പിക്കാം.\nക്ഷമ കിട്ടിയതിന് ശേഷം അത് വീണ്ടും എടുത്തു നടക്കരുത്.\nആവർത്തിക്കുക: ഞാൻ പറയും, അവൻ ക്ഷമിക്കും.",
+    "en": "ഏറ്റുപറയുക എന്നത് ദൈവത്തെ അറിയിക്കലല്ല — അവൻ അറിയുന്നു. അത് സമ്മതിക്കലാണ്.\nഅവൻ വിശ്വസ്തനും നീതിമാനുമാണ്. അതായത്, അവൻ ക്ഷമിക്കും എന്ന് നമ്മൾ ഉറപ്പിക്കാം.\nക്ഷമ കിട്ടിയതിന് ശേഷം അത് വീണ്ടും എടുത്തു നടക്കരുത്.\nആവർത്തിക്കുക: ഞാൻ പറയും, അവൻ ക്ഷമിക്കും."
+   },
+   "story": {
+    "body": {
+     "ml": "യുദ്ധം കഴിഞ്ഞു. കോറി ടെൻ ബൂം ജർമനിയിൽ ഒരു ഹാളിൽ സംസാരിക്കുന്നു. ക്ഷമയെക്കുറിച്ച്.\nപ്രസംഗം കഴിഞ്ഞപ്പോൾ ഒരു മനുഷ്യൻ അടുത്തു വന്നു. അവൻ റാവൻസ്ബ്രൂക്ക് ക്യാമ്പിലെ ഒരു കാവൽക്കാരൻ.\nഅവൾക്ക് അവനെ ഓർമ്മ വന്നു. അവൾ മനസ്സിൽ പ്രാർത്ഥിച്ചു.\nഅവൻ കൈ നീട്ടി. അവൾ കൈ കൊടുത്തു.\nഅവൾ പറയുന്നു: ഞാൻ കൈ നീട്ടിയത് എന്റെ വികാരത്താൽ അല്ല. ക്രിസ്തുവിന്റെ സ്നേഹത്താൽ ആണ്.\nഅവിടെയാണ് ക്ഷമ സത്യമായത് — ഒരു കൈ നീട്ടലിൽ."
+    }
+   },
+   "storySource": "Corrie ten Boom, Tramp for the Lord",
+   "storyId": "booth-railway"
+  },
+  {
+   "id": "b3-psa305",
+   "category": "hope",
+   "sunday": "",
+   "week": 0,
+   "tone": "comfort",
+   "theme": {
+    "ml": "രാത്രിയിൽ കരച്ചിൽ",
+    "mg": "Raathriyil karachil",
+    "en": "Joy comes in the morning"
+   },
+   "verse": {
+    "ref": {
+     "ml": "സങ്കീർത്തനം 30:5",
+     "mg": "Sankeerthanam 30:5",
+     "en": "Psalm 30:5"
+    },
+    "text": {
+     "ml": "അവിടുത്തെ കോപം ക്ഷണനേരത്തേക്കേയുള്ളു; അവിടുത്തെ പ്രസാദമോ ജീവപര്യന്തമുള്ളത്; സന്ധ്യയ്ക്ക് കരച്ചിൽ വന്ന് രാത്രിയിൽ വസിക്കും; ഉഷസ്സിലാകട്ടെ ആനന്ദഘോഷം വരുന്നു."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "sinai-neengi",
+     "title": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi Poy Ente Bharangal",
+      "en": "Neengi Poy Ente Bharangal"
+     },
+     "firstLine": {
+      "ml": "നീങ്ങിപ്പോയ് എന്റെ ഭാരങ്ങൾ",
+      "mg": "Neengi poy ente bharangal",
+      "en": "My burdens have gone"
+     },
+     "youtubeId": "YWLHfZIjPrw",
+     "channel": "Sinai Media Ministries",
+     "len": "4:46",
+     "key": "A",
+     "tempo": "fast",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "ഒന്നാം ഗാനത്തിന്റെ അതേ കീ. കൂടാതെ ഈ ഗാനത്തിന്റെ പേര് തന്നെ സന്ദേശമാണ്.",
+      "mg": "Onnaam gaanathinte athe key. Koodaathe ee gaanathinte peru thanne sandeshamanu.",
+      "en": "Same key as song 1 — no scramble. And its title is already the message."
+     },
+     "note": {
+      "ml": "ഇടവേളയില്ല. രണ്ടും ഒരൊറ്റ ചലനമാണ്.",
+      "mg": "Idavela illa. Randum orotta chalanamanu.",
+      "en": "Straight in, no gap. The two songs are one movement."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "b": {
+     "id": "harmonia-srishtikale",
+     "title": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale Sthuthi Paaduvin",
+      "en": "Srishtikale Sthuthi Paaduvin"
+     },
+     "firstLine": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale sthuthi paaduvin",
+      "en": "All creation, sing praise"
+     },
+     "youtubeId": "xpDBFhWNErc",
+     "channel": "Harmonia",
+     "len": "—",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "പഴയ സഭയുടെ സ്തുതി. എല്ലാവർക്കും അറിയാം.",
+      "mg": "Pazhaya sabhayude sthuthi. Ellavarkkum ariyaam.",
+      "en": "An old congregational praise song. Everyone knows it."
+     },
+     "note": {
+      "ml": "താളം കേട്ടു സ്ഥിരീകരിക്കുക.",
+      "mg": "Thaalam kettu sthireekarikkuka.",
+      "en": "Confirm the tempo by ear."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "solo": {
+     "id": "rex-vallabha",
+     "title": {
+      "ml": "വല്ലഭാ നീ കൊട്ട",
+      "mg": "Vallabha Nee Kotta",
+      "en": "Vallabha Nee Kotta"
+     },
+     "firstLine": {
+      "ml": "വല്ലഭാ നീ കൊട്ട",
+      "mg": "Vallabha nee kotta",
+      "en": "Mighty one, build"
+     },
+     "youtubeId": "sX443ij7eT8",
+     "channel": "Rex Media House",
+     "len": "7:30",
+     "key": null,
+     "tempo": "mid",
+     "role": "worship",
+     "known": 3,
+     "why": {
+      "ml": "പുതിയ ആരാധന. ചെറുപ്പക്കാർക്ക് അടുപ്പം.",
+      "mg": "Puthiya aaradhana. Cheruppakkaarkku aduppam.",
+      "en": "Modern worship; connects with the younger members."
+     },
+     "note": {
+      "ml": "നീളം കൂടുതൽ. 7:30 കണക്കാക്കുക.",
+      "mg": "Neelam kooduthal. 7:30 kanakkaakkuka.",
+      "en": "Long. Budget 7:30."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "കരച്ചിൽ രാത്രിയിൽ മാത്രമല്ല — രാത്രി അതിന്റെ സമയമാണ്. ഇരുട്ടിൽ ഭാരം കൂടുതലാണ്.\nപക്ഷേ ആ വാക്യം രാത്രി അവസാനിക്കും എന്ന് പറയുന്നു. ഉല്സവം വരും.\nഇന്ന് രാത്രിയാണെങ്കിൽ അത് അവസാനം അല്ല. ഇത് ഒരു ഘട്ടമാണ്.\nആവർത്തിക്കുക: രാത്രിക്ക് ശേഷം ഉദയം വരും.",
+    "mg": "കരച്ചിൽ രാത്രിയിൽ മാത്രമല്ല — രാത്രി അതിന്റെ സമയമാണ്. ഇരുട്ടിൽ ഭാരം കൂടുതലാണ്.\nപക്ഷേ ആ വാക്യം രാത്രി അവസാനിക്കും എന്ന് പറയുന്നു. ഉല്സവം വരും.\nഇന്ന് രാത്രിയാണെങ്കിൽ അത് അവസാനം അല്ല. ഇത് ഒരു ഘട്ടമാണ്.\nആവർത്തിക്കുക: രാത്രിക്ക് ശേഷം ഉദയം വരും.",
+    "en": "കരച്ചിൽ രാത്രിയിൽ മാത്രമല്ല — രാത്രി അതിന്റെ സമയമാണ്. ഇരുട്ടിൽ ഭാരം കൂടുതലാണ്.\nപക്ഷേ ആ വാക്യം രാത്രി അവസാനിക്കും എന്ന് പറയുന്നു. ഉല്സവം വരും.\nഇന്ന് രാത്രിയാണെങ്കിൽ അത് അവസാനം അല്ല. ഇത് ഒരു ഘട്ടമാണ്.\nആവർത്തിക്കുക: രാത്രിക്ക് ശേഷം ഉദയം വരും."
+   },
+   "story": {
+    "body": {
+     "ml": "ഇംഗ്ലണ്ടിലെ ലണ്ടൻ നഗരം. ഒരു മെത്തഡിസ്റ്റ് പ്രസംഗകൻ തെരുവിലേക്ക് ഇറങ്ങുന്നു. പേര് വില്യം ബൂത്ത്.\nപള്ളിയിൽ വരാത്ത ആളുകളെ തേടി അവൻ അവരുടെ ഇടയിലേക്ക് പോയി. മദ്യപാനികൾ, തെരുവിൽ അലയുന്നവർ, ആരും നോക്കാത്തവർ.\nആളുകൾ അവനെ കളിയാക്കി. കല്ലെറിഞ്ഞു. അവൻ നിർത്തിയില്ല.\nസാൽവേഷൻ ആർമി എന്നൊരു സംഘം ഉണ്ടായി. ഇന്ന് ലോകമെമ്പാടും അത് ദരിദ്രരുടെ ഇടയിൽ പ്രവർത്തിക്കുന്നു.\nഅവൻ പറഞ്ഞു: ഞാൻ ആളുകളെ കണ്ടെത്താൻ പോയി, അവർ എന്റെ അടുത്തേക്ക് വരാൻ കാത്തിരുന്നില്ല."
+    }
+   },
+   "storySource": "William Booth, In Darkest England and the Way Out",
+   "storyId": "william-booth"
+  },
+  {
+   "id": "b3-isa263",
+   "category": "comfort",
+   "sunday": "",
+   "week": 0,
+   "tone": "comfort",
+   "theme": {
+    "ml": "പൂർണ്ണസമാധാനം",
+    "mg": "Poornnasamaadhaanam",
+    "en": "Perfect peace"
+   },
+   "verse": {
+    "ref": {
+     "ml": "യെശയ്യാവ് 26:3",
+     "mg": "Yeshayaavu 26:3",
+     "en": "Isaiah 26:3"
+    },
+    "text": {
+     "ml": "സ്ഥിരമാനസൻ നിന്നിൽ ആശ്രയം വച്ചിരിക്കുകകൊണ്ടു അവിടുന്നു അവനെ പൂർണ്ണസമാധാനത്തിൽ കാക്കുന്നു."
+    }
+   },
+   "songs": {
+    "a": {
+     "id": "harmonia-srishtikale",
+     "title": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale Sthuthi Paaduvin",
+      "en": "Srishtikale Sthuthi Paaduvin"
+     },
+     "firstLine": {
+      "ml": "സൃഷ്ടികളേ സ്തുതി പാടുവിൻ",
+      "mg": "Srishtikale sthuthi paaduvin",
+      "en": "All creation, sing praise"
+     },
+     "youtubeId": "xpDBFhWNErc",
+     "channel": "Harmonia",
+     "len": "—",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "known": 5,
+     "why": {
+      "ml": "പഴയ സഭയുടെ സ്തുതി. എല്ലാവർക്കും അറിയാം.",
+      "mg": "Pazhaya sabhayude sthuthi. Ellavarkkum ariyaam.",
+      "en": "An old congregational praise song. Everyone knows it."
+     },
+     "note": {
+      "ml": "താളം കേട്ടു സ്ഥിരീകരിക്കുക.",
+      "mg": "Thaalam kettu sthireekarikkuka.",
+      "en": "Confirm the tempo by ear."
+     },
+     "verifiedOn": "2026-10-31",
+     "embedRestricted": false,
+     "startSec": null
+    },
+    "b": {
+     "id": "rex-vaazhthunnu",
+     "title": {
+      "ml": "വാഴ്ത്തുന്നു ഞാൻ",
+      "mg": "Vaazhthunnu Njaan",
+      "en": "Vaazhthunnu Njaan"
+     },
+     "youtubeId": "KgXdGt-5v-s",
+     "channel": "Rex Media House",
+     "len": "9:05",
+     "key": null,
+     "tempo": "mid",
+     "role": "praise",
+     "why": {
+      "ml": "ആരാധനയോടെ തുടങ്ങാൻ നല്ല ഗാനം.",
+      "mg": "Aaradhanayode thudangaan nalla gaanam.",
+      "en": "A good opener with a worshipful lift."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    },
+    "solo": {
+     "id": "loke-njaan",
+     "title": {
+      "ml": "ലോകെ ഞാൻ",
+      "mg": "Loke Njaan",
+      "en": "Loke Njaan"
+     },
+     "youtubeId": "sIbPp1lLihc",
+     "channel": "Rex Media House",
+     "len": "8:01",
+     "key": null,
+     "tempo": "slow",
+     "role": "worship",
+     "why": {
+      "ml": "ആഴമുള്ള ആരാധന. പ്രതികരണത്തിന് നല്ലത്.",
+      "mg": "Aazhamulla aaradhana. Prathikaranathinu nallathu.",
+      "en": "Deep worship; good for the response."
+     },
+     "verifiedOn": "2026-11-01",
+     "startSec": null
+    }
+   },
+   "explanation": {
+    "ml": "\"മനസ്സ് ഉറപ്പിച്ചിരിക്കുന്നവനെ\" — ഇത് ഒരു തീരുമാനമാണ്. സ്വാഭാവികമായി വരുന്നതല്ല.\nചിന്ത എവിടെ നിൽക്കുന്നു എന്നതാണ് സമാധാനത്തിന്റെ രഹസ്യം. ഒരേ കാര്യം തന്നെ തിരിച്ചും മറിച്ചും ചിന്തിക്കുമ്പോൾ സമാധാനം പോകും.\nഅവനിൽ ഉറപ്പിച്ച മനസ്സിന് കാവൽ ഉണ്ട്.\nആവർത്തിക്കുക: എന്റെ മനസ്സ് അവനിൽ ഉറപ്പിച്ചിരിക്കുന്നു.",
+    "mg": "\"മനസ്സ് ഉറപ്പിച്ചിരിക്കുന്നവനെ\" — ഇത് ഒരു തീരുമാനമാണ്. സ്വാഭാവികമായി വരുന്നതല്ല.\nചിന്ത എവിടെ നിൽക്കുന്നു എന്നതാണ് സമാധാനത്തിന്റെ രഹസ്യം. ഒരേ കാര്യം തന്നെ തിരിച്ചും മറിച്ചും ചിന്തിക്കുമ്പോൾ സമാധാനം പോകും.\nഅവനിൽ ഉറപ്പിച്ച മനസ്സിന് കാവൽ ഉണ്ട്.\nആവർത്തിക്കുക: എന്റെ മനസ്സ് അവനിൽ ഉറപ്പിച്ചിരിക്കുന്നു.",
+    "en": "\"മനസ്സ് ഉറപ്പിച്ചിരിക്കുന്നവനെ\" — ഇത് ഒരു തീരുമാനമാണ്. സ്വാഭാവികമായി വരുന്നതല്ല.\nചിന്ത എവിടെ നിൽക്കുന്നു എന്നതാണ് സമാധാനത്തിന്റെ രഹസ്യം. ഒരേ കാര്യം തന്നെ തിരിച്ചും മറിച്ചും ചിന്തിക്കുമ്പോൾ സമാധാനം പോകും.\nഅവനിൽ ഉറപ്പിച്ച മനസ്സിന് കാവൽ ഉണ്ട്.\nആവർത്തിക്കുക: എന്റെ മനസ്സ് അവനിൽ ഉറപ്പിച്ചിരിക്കുന്നു."
+   },
+   "story": {
+    "body": {
+     "ml": "1924-ലെ ഒളിമ്പിക്സ്. ഒരു സ്കോട്ട്ലൻഡ് ഓട്ടക്കാരൻ ഓടാൻ വിസമ്മതിച്ചു. കാരണം ആ മത്സരം ഞായറാഴ്ച ആയിരുന്നു. പേര് എറിക് ലിഡൽ.\nആളുകൾ അവനെ ഭ്രാന്തൻ എന്ന് വിളിച്ചു. രാജ്യത്തിന് വേണ്ടി ഓടണമെന്ന് ആവശ്യപ്പെട്ടു.\nഅവൻ ഓടിയില്ല. പിന്നീട് വേറെ ഒരു മത്സരത്തിൽ അവൻ സ്വർണം നേടി — ലോക റെക്കോർഡോടെ.\nഅതിന് ശേഷം അവൻ ചൈനയിലേക്ക് പോയി. ഒരു മിഷനറിയായി. യുദ്ധകാലത്ത് ഒരു ക്യാമ്പിൽ അവൻ മരിച്ചു.\nഅവൻ പറഞ്ഞിരുന്നു: ഞാൻ ഓടുമ്പോൾ ദൈവത്തിന്റെ സന്തോഷം എനിക്ക് അനുഭവപ്പെടുന്നു."
+    }
+   },
+   "storySource": "Eric Liddell's biography; the 1924 Olympic record",
+   "storyId": "eric-liddell"
+  }
+ ]
+}
