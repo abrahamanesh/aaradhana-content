@@ -1,0 +1,5 @@
+{
+ "_how": "Upload this file and messages.json to any static host. Then put this file's public URL into the app: Settings > Content updates.",
+ "version": 2,
+ "content": "REPLACE-WITH-THE-PUBLIC-URL-OF-messages.json"
+}
